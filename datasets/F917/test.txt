@@ -1,0 +1,271 @@
+test-1	fb:m.068395	wxpn	fb:broadcast.radio_station.owner	fb:m.01cj3p	who owns wxpn	O O I
+test-2	fb:m.04dtx9	flickr	fb:internet.website.owner	fb:m.01cj3p	who owns flickr	O O I
+test-3	fb:m.01r3kd	who founded gsusa	fb:organization.organization.founders	fb:m.01cj3p	who founded gsusa	I I I
+test-4	fb:m.025s4r0	neon	fb:chemistry.chemical_element.discoverer	fb:m.01cj3p	who discovered neon	O O I
+test-5	fb:m.070vn	superman	fb:comic_books.comic_book_character.created_by	fb:m.01cj3p	who created superman	O O I
+test-6	fb:m.06ynv	scrabble	fb:law.invention.inventor	fb:m.01cj3p	who invented scrabble	O O I
+test-7	fb:m.0f13t	spock	fb:fictional_universe.fictional_character.species	fb:m.01cj3p	what species is spock	O O O I
+test-8	fb:m.02hxhz	big daddy	fb:film.film.rating	fb:m.01cj3p	what is big daddy rated	O O I I O
+test-9	fb:m.027lnzs	iphone	fb:computer.computer.key_designers	fb:m.01cj3p	who designed the iphone	O O O I
+test-10	fb:m.07g75	the hobbit	fb:fictional_universe.work_of_fiction.setting	fb:m.01cj3p	where is the hobbit set	O O I I O
+test-11	fb:m.0299q	doonesbury	fb:comic_strips.comic_strip.genre	fb:m.01cj3p	what genre is doonesbury	O O O I
+test-12	fb:m.02mgxp	serge	fb:fashion.textile.fiber	fb:m.01cj3p	what is serge made out of	O O I O O O
+test-13	fb:m.02zs4	ford	fb:automotive.company.make_s	fb:m.01cj3p	what makes does ford have	O O O I O
+test-14	fb:m.0jbg2	mona lisa	fb:visual_art.artwork.artist	fb:m.01cj3p	who painted the mona lisa	O O O I I
+test-15	fb:m.011j44	charlie brown	fb:fictional_universe.fictional_character.character_created_by	fb:m.01cj3p	who created charlie brown	O O I I
+test-16	fb:m.0cwrr	sesame street	fb:tv.tv_program.program_creator	fb:m.01cj3p	who created sesame street	O O I I
+test-17	fb:m.01tckg	uss nautilus	fb:boats.ship.ship_builder	fb:m.01cj3p	who built the uss nautilus	O O O I I
+test-18	fb:m.01b39j	target	fb:business.business_operation.industry	fb:m.01cj3p	what is target 's industry	O O I O O
+test-19	fb:m.01v7z	cajun	fb:dining.cuisine.dishes	fb:m.01cj3p	what are some cajun dishes	O O O I O
+test-20	fb:m.0bf9j1	nathan smith	fb:people.deceased_person.place_of_death	fb:m.01cj3p	where did nathan smith die	O O I I O
+test-21	fb:m.0hx5v	roe v. wade	fb:law.legal_case.subject	fb:m.01cj3p	what was roe v. wade about	O O I I I O
+test-22	fb:m.0cl53	henry iii buried	fb:people.deceased_person.place_of_burial	fb:m.01cj3p	where was henry iii buried	O O I I I
+test-23	fb:m.07sxww	b12	fb:music.artist.genre	fb:m.01cj3p	what genre of music is b12	O O O O O I
+test-24	fb:m.03thkf	the doctor	fb:fictional_universe.fictional_character.species	fb:m.01cj3p	what species is the doctor	O O O I I
+test-25	fb:m.06whf	samuel beckett	fb:people.deceased_person.cause_of_death	fb:m.01cj3p	how did samuel beckett die	O O I I O
+test-26	fb:m.041w8j2	meet the press	fb:broadcast.content.producer	fb:m.01cj3p	who produces meet the press	O O I I I
+test-27	fb:m.02dl1y	what	fb:fashion.garment.more_specialized_forms	fb:m.01cj3p	what are some types of hats	I O O O O O
+test-28	fb:m.074m2	syphilis	fb:medicine.infectious_disease.transmission	fb:m.01cj3p	how is syphilis transmitted	O O I O
+test-29	fb:m.0dr_4	titanic	fb:film.film.produced_by	fb:m.01cj3p	who was titanic produced by	O O I O O
+test-30	fb:m.030ljv	the thinker	fb:visual_art.artwork.media	fb:m.01cj3p	what is the thinker made of	O O I I O O
+test-31	fb:m.04psf	leukemia	fb:medicine.disease.causes	fb:m.01cj3p	what diseases cause leukemia	O O O I
+test-32	fb:m.0bx7rw	bing	fb:internet.website.category	fb:m.01cj3p	what kind of website is bing	O O O O O I
+test-33	fb:m.02lzfx	walden pond	fb:location.location.containedby	fb:m.01cj3p	where is walden pond located	O O I I O
+test-34	fb:m.07gyv	taekwondo	fb:martial_arts.martial_art.origin	fb:m.01cj3p	where did taekwondo originate	O O I O
+test-35	fb:m.0q5hw	jerry seinfeld	fb:people.person.place_of_birth	fb:m.01cj3p	where was jerry seinfeld born	O O I I O
+test-36	fb:m.033fqh	meet the parents	fb:film.film.directed_by	fb:m.01cj3p	who directed meet the parents	O O I I I
+test-37	fb:m.03h82p	ron glass	fb:people.person.religion	fb:m.01cj3p	what is ron glass 's religion	O O I I O O
+test-38	fb:m.01_zz	car talk	fb:broadcast.content.artist	fb:m.01cj3p	who are the hosts of car talk	O O O O O I I
+test-39	fb:m.09q84	jupiter	fb:astronomy.orbital_relationship.orbited_by	fb:m.01cj3p	what are the moons of jupiter	O O O O O I
+test-40	fb:m.03v0t	illinois	fb:location.location.time_zones	fb:m.01cj3p	in what time zone is illinois	O O O O O I
+test-41	fb:m.0f1bg	luke skywalker	fb:fictional_universe.fictional_character.place_of_birth	fb:m.01cj3p	where was luke skywalker born	O O I I O
+test-42	fb:m.025sm93	the game of life	fb:games.game.designer	fb:m.01cj3p	who designed the game of life	O O I I I I
+test-43	fb:m.024lff	2 fast 2 furious	fb:film.film.directed_by	fb:m.01cj3p	who directed 2 fast 2 furious	O O I I I I
+test-44	fb:m.09hvx	lohengrin	fb:opera.opera.language	fb:m.01cj3p	what language is lohengrin in	O O O I O
+test-45	fb:m.01sy7	coal	fb:geology.rock_type.sub_types	fb:m.01cj3p	what are the sub-types of coal	O O O O O I
+test-46	fb:m.04clgrg	tagliablog	fb:internet.blog.language	fb:m.01cj3p	what language is tagliablog in	O O O I O
+test-47	fb:m.01kdws	wells fargo	fb:business.customer.supplier	fb:m.01cj3p	who is wells fargo 's supplier	O O I I O O
+test-48	fb:m.0h0yt	stephen fry	fb:influence.influence_node.influenced_by	fb:m.01cj3p	who has influenced stephen fry	O O O I I
+test-49	fb:m.0dr_4	titanic	fb:film.film.music	fb:m.01cj3p	who was the music by in titanic	O O O O O O I
+test-50	fb:m.067y_k7	travels with my cello	fb:book.written_work.author	fb:m.01cj3p	who wrote travels with my cello	O O I I I I
+test-51	fb:m.03_gx	judaism	fb:religion.religion.includes	fb:m.01cj3p	what types of judaism are there	O O O I O O
+test-52	fb:m.060_7	pablo picasso	fb:people.person.religion	fb:m.01cj3p	what religion was pablo picasso	O O O I I
+test-53	fb:m.08lcnf	mike brown	fb:basketball.basketball_coach.team	fb:m.01cj3p	what team does mike brown coach	O O O I I O
+test-54	fb:m.01c3gj	lse	fb:finance.stock_exchange.primary_regions	fb:m.01cj3p	what regions does the lse cover	O O O O I O
+test-55	fb:m.01_2_2	the t-38 talon	fb:aviation.aircraft_model.manufacturer	fb:m.01cj3p	who manufactures the t-38 talon	O O I I I
+test-56	fb:m.01b90_	polio vaccine	fb:medicine.vaccine.developed_by	fb:m.01cj3p	who developed the polio vaccine	O O O I I
+test-57	fb:m.074m2	syphilis	fb:medicine.disease.causes	fb:m.01cj3p	what are the causes of syphilis	O O O O O I
+test-58	fb:m.01tq62	bauhaus architects	fb:architecture.architectural_style.architects	fb:m.01cj3p	who are some bauhaus architects	O O O I I
+test-59	fb:m.03j6c	hinduism	fb:religion.religion.deities	fb:m.01cj3p	what are the deities of hinduism	O O O O O I
+test-60	fb:m.02z3r	french	fb:dining.cuisine.restaurant	fb:m.01cj3p	what are some french restaurants	O O O I O
+test-61	fb:m.0q9kd	danny devito	fb:people.person.religion	fb:m.01cj3p	what is danny devito 's religion	O O I I O O
+test-62	fb:m.01bpn	bertrand russell	fb:people.deceased_person.cause_of_death	fb:m.01cj3p	what did bertrand russell die of	O O I I O O
+test-63	fb:m.0cnn5	the guardian	fb:book.newspaper.circulation_areas	fb:m.01cj3p	where is the guardian circulated	O O I I O
+test-64	fb:m.032d2y	hawker sea hawk	fb:aviation.aircraft_model.designed_by	fb:m.01cj3p	who designed the hawker sea hawk	O O O I I I
+test-65	fb:m.07sjg	fifth amendment	fb:law.constitutional_amendment.proposed_by	fb:m.01cj3p	who proposed the fifth amendment	O O O I I
+test-66	fb:m.01xrpc	bengali script	fb:language.language_writing_system.languages	fb:m.01cj3p	what languages use bengali script	O O O I I
+test-67	fb:m.05njw	oracle	fb:computer.software_developer.software	fb:m.01cj3p	what software has oracle designed	O O O I O
+test-68	fb:m.017d93	8 mile	fb:film.film.genre	fb:m.01cj3p	what genres did 8 mile consist of	O O O I I O O
+test-69	fb:m.05qfh	psychology	fb:education.field_of_study.journals_in_this_discipline	fb:m.01cj3p	what are some psychology journals	O O O I O
+test-70	fb:m.0blh2	peanuts	fb:comic_strips.comic_strip.characters	fb:m.01cj3p	who are the characters in peanuts	O O O O O I
+test-71	fb:m.05q6nq	gunpowder tea	fb:food.tea.tea_type	fb:m.01cj3p	what type of tea is gunpowder tea	O O O O O I I
+test-72	fb:m.099d4	bruce lee	fb:martial_arts.martial_artist.martial_arts_students	fb:m.01cj3p	who are the students of bruce lee	O O O O O I I
+test-73	fb:m.06yyp	sikhism	fb:religion.religion.practices	fb:m.01cj3p	what are the practices of sikhism	O O O O O I
+test-74	fb:m.01st38	claris	fb:computer.software_developer.software	fb:m.01cj3p	what software has claris developed	O O O I O
+test-75	fb:m.081k8	william shakespeare	fb:people.person.place_of_birth	fb:m.01cj3p	where was william shakespeare born	O O I I O
+test-76	fb:m.074m2	syphilis	fb:medicine.infectious_disease.infectious_agent_type	fb:m.01cj3p	what type of infection is syphilis	O O O O O I
+test-77	fb:m.095zt	cotton	fb:fashion.fiber.textiles_made_from_this_fiber	fb:m.01cj3p	what textiles are made from cotton	O O O O O I
+test-78	fb:m.03_8r	judo	fb:martial_arts.martial_art.well_known_practitioner	fb:m.01cj3p	who are some practitioners of judo	O O O O O I
+test-79	fb:m.01_yh5	independence hall	fb:location.location.containedby	fb:m.01cj3p	where is independence hall located	O O I I O
+test-80	fb:m.01482f	brie	fb:food.cheese.texture	fb:m.01cj3p	what is the texture of brie cheese	O O O O O I O
+test-81	fb:m.0qkc	aspirin	fb:medicine.medical_treatment.used_to_treat	fb:m.01cj3p	what conditions does aspirin treat	O O O I O
+test-82	fb:m.0tyq	art deco	fb:book.book_subject.works	fb:m.01cj3p	what are some books about art deco	O O O O O I I
+test-83	fb:m.03d5yt5	between the lines	fb:broadcast.content.location	fb:m.01cj3p	where is between the lines produced	O O I I I O
+test-84	fb:m.0j6tr	toronto maple leafs	fb:ice_hockey.hockey_team.coach	fb:m.01cj3p	who coaches the toronto maple leafs	O O O I I I
+test-85	fb:m.016w97	gato class submarines	fb:boats.ship_class.ships_in_class	fb:m.01cj3p	what are some gato class submarines	O O O I I I
+test-86	fb:m.03h82p	ron glass	fb:people.person.place_of_birth	fb:m.01cj3p	what is ron glass 's place of birth	O O I I O O O O
+test-87	fb:m.025sk79	tungsten	fb:chemistry.chemical_element.chemical_series	fb:m.01cj3p	what chemical series is tungsten in	O O O O I O
+test-88	fb:m.0wxp	apple ii	fb:computer.computer.processor	fb:m.01cj3p	what processor did the apple ii use	O O O O I I O
+test-89	fb:m.0d4bd_	1973 fa cup final	fb:soccer.football_match.teams	fb:m.01cj3p	who played in the 1973 fa cup final	O O O O I I I I
+test-90	fb:m.03pdkw	alta ski area	fb:skiing.ski_area.lodges	fb:m.01cj3p	what lodges are in the alta ski area	O O O O O I I I
+test-91	fb:m.0m66w	sarah jessica parker	fb:interests.hobbyist.hobbies	fb:m.01cj3p	what is sarah jessica parker 's hobby	O O I I I O O
+test-92	fb:m.045c7b	google	fb:conferences.conference_sponsor.conferences	fb:m.01cj3p	what conferences does google sponsor	O O O I O
+test-93	fb:m.07y14	uss constitution	fb:boats.ship.place_built	fb:m.01cj3p	where was the uss constitution built	O O O I I O
+test-94	fb:m.05xvj	phillies	fb:sports.sports_team.arena_stadium	fb:m.01cj3p	what stadium do the phillies play in	O O O O I O O
+test-95	fb:m.04yp5	manhattan project	fb:projects.project.project_focus	fb:m.01cj3p	what was the manhattan project about	O O O I I O
+test-96	fb:m.026kj	dravidian languages	fb:language.language_family.geographic_distribution	fb:m.01cj3p	where are dravidian languages spoken	O O I I O
+test-97	fb:m.078tg	sunni islam	fb:religion.religion.sacred_sites	fb:m.01cj3p	what are sacred sites in sunni islam	O O O O O I I
+test-98	fb:m.014v3t	firefly	fb:tv.tv_program.languages	fb:m.01cj3p	what languages are spoken in firefly	O O O O O I
+test-99	fb:m.04sv4	microsoft	fb:computer.programming_language_designer.languages_designed	fb:m.01cj3p	what languages has microsoft designed	O O O I O
+test-100	fb:m.015blr	2003 cricket world cup	fb:cricket.cricket_tournament_event.host	fb:m.01cj3p	who hosted the 2003 cricket world cup	O O O I I I I
+test-101	fb:m.04112qf	gruta das torres	fb:geology.geological_formation.type_of_rock	fb:m.01cj3p	what rock is gruta das torres made of	O O O I I I O O
+test-102	fb:m.055pr	morphine	fb:medicine.medical_treatment.side_effects	fb:m.01cj3p	what are the side effects of morphine	O O O O O O I
+test-103	fb:m.01jft4	bruce almighty	fb:film.film.music	fb:m.01cj3p	who is the music by in bruce almighty	O O O O O O I I
+test-104	fb:m.04yd_	martin luther	fb:religion.founding_figure.religion_founded	fb:m.01cj3p	what religion did martin luther found	O O O I I O
+test-105	fb:m.07sbkfb	java	fb:computer.programming_language.developers	fb:m.01cj3p	who is the developer of java language	O O O O O I O
+test-106	fb:m.0kq2	agnostic	fb:religion.religion.notable_figures	fb:m.01cj3p	who are some notable agnostic figures	O O O O I O
+test-107	fb:m.0kd_x	us interstate 5	fb:transportation.road.major_cities	fb:m.01cj3p	what cities does us interstate 5 pass	O O O I I I O
+test-108	fb:m.01w5m	columbia university	fb:education.educational_institution.colors	fb:m.01cj3p	what are columbia university 's colors	O O I I O O
+test-109	fb:m.07f3by	keyon dooling	fb:basketball.basketball_player.position_s	fb:m.01cj3p	what position does keyon dooling play	O O O I I O
+test-110	fb:m.01m_c6	jonathan miller	fb:opera.opera_director.operas_directed	fb:m.01cj3p	what opera did jonathan miller direct	O O O I I O
+test-111	fb:m.0gk4g	heart attack	fb:medicine.disease.causes	fb:m.01cj3p	what are the causes of a heart attack	O O O O O O I I
+test-112	fb:m.02vzpb	13 going on 30	fb:film.film.subjects	fb:m.01cj3p	what is the subject of 13 going on 30	O O O O O I I I I
+test-113	fb:m.0285c	dave grohl	fb:music.artist.genre	fb:m.01cj3p	what are dave grohl 's musical genres	O O I I O O O
+test-114	fb:m.02y0js	a stroke	fb:medicine.disease.parent_disease	fb:m.01cj3p	what is the parent disease of a stroke	O O O O O O I I
+test-115	fb:m.03fdg	gotham city	fb:fictional_universe.fictional_setting.fictional_characters_born_here	fb:m.01cj3p	what character was born in gotham city	O O O O O I I
+test-116	fb:m.0220vm1	sdhc card	fb:digicams.camera_storage_type.compatible_cameras	fb:m.01cj3p	what digital cameras take an sdhc card	O O O O O I I
+test-117	fb:m.014y87	yip man	fb:martial_arts.martial_artist.martial_arts_students	fb:m.01cj3p	who studied martial arts under yip man	O O O O O I I
+test-118	fb:m.0_5xc	uluru	fb:geology.geological_formation.formed_during_period	fb:m.01cj3p	during what time period did uluru form	O O O O O I O
+test-119	fb:m.04psf	leukemia	fb:medicine.disease.treatments	fb:m.01cj3p	what treatments are there for leukemia	O O O O O I
+test-120	fb:m.02k54	egypt	fb:olympics.olympic_participating_country.olympics_participated_in	fb:m.01cj3p	what olympics has egypt participated in	O O O I O O
+test-121	fb:m.09y2k2	italian cuisine	fb:dining.cuisine.ingredients	fb:m.01cj3p	what ingredients are in italian cuisine	O O O O I I
+test-122	fb:m.0gj2r	lepton	fb:physics.particle_family.particles	fb:m.01cj3p	what particles are in the lepton family	O O O O O I O
+test-123	fb:m.032w60	cape may lighthouse	fb:architecture.lighthouse.construction	fb:m.01cj3p	what is the cape may lighthouse made of	O O O I I I O O
+test-124	fb:m.0d87hc	the nutty professor	fb:film.film.produced_by	fb:m.01cj3p	who was the nutty professor produced by	O O I I I O O
+test-125	fb:m.01ymk2	six flags america	fb:amusement_parks.park.rides	fb:m.01cj3p	what are the rides at six flags america	O O O O O I I I
+test-126	fb:m.01nd8	cardiology	fb:medicine.medical_specialty.hospitals_with_this_specialty	fb:m.01cj3p	what hospitals specialize in cardiology	O O O O I
+test-127	fb:m.0cwrr	sesame street	fb:tv.tv_program.theme_song	fb:m.01cj3p	what is the theme song of sesame street	O O O O O O I I
+test-128	fb:m.083q7	woodrow wilson	fb:government.us_president.vice_president	fb:m.01cj3p	who was vice president to woodrow wilson	O O O O O I I
+test-129	fb:m.0m32h	prostate cancer	fb:medicine.disease.symptoms	fb:m.01cj3p	what are the symptoms of prostate cancer	O O O O O I I
+test-130	fb:m.01y9jr	charlie_s angels	fb:film.film.written_by	fb:m.01cj3p	who was the story of charlie_s angels by	O O O O O I I O
+test-131	fb:m.0dmnzf	knickerbockers	fb:fashion.garment.specialization_of	fb:m.01cj3p	what type of clothing are knickerbockers	O O O O O I
+test-132	fb:m.02hykwc	the last minute blog	fb:internet.blog.focus	fb:m.01cj3p	what 's the focus of the last minute blog	O O O O O I I I I
+test-133	fb:m.07656	sonic the hedgehog	fb:fictional_universe.fictional_character.powers_or_abilities	fb:m.01cj3p	what powers does sonic the hedgehog have	O O O I I I O
+test-134	fb:m.019g40	omarion	fb:music.artist.origin	fb:m.01cj3p	where did omarion 's musical career begin	O O I O O O O
+test-135	fb:m.01wxlnl	lead belly	fb:influence.influence_node.influenced	fb:m.01cj3p	what artists are influenced by lead belly	O O O O O I I
+test-136	fb:m.019zhn	uss alabama	fb:location.location.containedby	fb:m.01cj3p	where is the uss alabama currently moored	O O O I I O O
+test-137	fb:m.0blg2	1948 summer olympics	fb:olympics.olympic_games.host_city	fb:m.01cj3p	what city hosted the 1948 summer olympics	O O O O I I I
+test-138	fb:m.04_60f	market-frankford line	fb:metropolitan_transit.transit_line.stops	fb:m.01cj3p	where does the market-frankford line stop	O O O I I O
+test-139	fb:m.046_hm	runaways	fb:comic_books.comic_book_series.created_by	fb:m.01cj3p	who created the runaways comic book series	O O O I O O O
+test-140	fb:m.0jm74	chicago bulls	fb:basketball.basketball_team.head_coach	fb:m.01cj3p	who is the head coach of the chicago bulls	O O O O O O O I I
+test-141	fb:m.06hhp	royal navy	fb:military.armed_force.military_combatant	fb:m.01cj3p	what country does the royal navy belong to	O O O O I I O O
+test-142	fb:m.01d82	boson	fb:physics.particle_family.subclasses	fb:m.01cj3p	what are the subclasses of the boson class	O O O O O O I O
+test-143	fb:m.02ky346	engineering	fb:education.field_of_study.subdisciplines	fb:m.01cj3p	what are the subdisciplines of engineering	O O O O O I
+test-144	fb:m.01rlq_	lightnin ' hopkins	fb:music.group_member.instruments_played	fb:m.01cj3p	what instrument did lightnin ' hopkins play	O O O I I I O
+test-145	fb:m.02zl93	james craig	fb:boats.ship.hull_material	fb:m.01cj3p	what is the hull made of on the james craig	O O O O O O O O I I
+test-146	fb:m.0d6lp	san francisco	fb:travel.travel_destination.guidebooks	fb:m.01cj3p	what guidebooks are there for san francisco	O O O O O I I
+test-147	fb:m.04vjh	mauritania	fb:location.country.official_language	fb:m.01cj3p	what is the official language of mauritania	O O O O O O I
+test-148	fb:m.0d87hc	the nutty professor	fb:film.film.directed_by	fb:m.01cj3p	who was the director of the nutty professor	O O O O O I I I
+test-149	fb:m.06978b	university of lima	fb:education.educational_institution.school_type	fb:m.01cj3p	is the university of lima public or private	O O I I I O O O
+test-150	fb:m.06cjhk	joe girardi	fb:baseball.baseball_manager.current_team_managed	fb:m.01cj3p	what team does joe girardi currently manage	O O O I I O O
+test-151	fb:m.04yf_	mississippi river	fb:geography.river.origin	fb:m.01cj3p	what is the origin of the mississippi river	O O O O O O I I
+test-152	fb:m.06x68	st. louis cardinals	fb:baseball.baseball_team.division	fb:m.01cj3p	in what division are the st. louis cardinals	O O O O O I I I
+test-153	fb:m.0854b	walter gropius	fb:architecture.architect.architectural_style	fb:m.01cj3p	what was walter gropius ' architectural style	O O I I O O O
+test-154	fb:m.043r0z	snowshoe mountain	fb:skiing.ski_area.closest_city	fb:m.01cj3p	what is the closet city to snowshoe mountain	O O O O O O I I
+test-155	fb:m.02z2qmd	space mountain	fb:amusement_parks.ride.area	fb:m.01cj3p	what area of disneyland is space mountain in	O O O O O I I O
+test-156	fb:m.06_t4	space shuttle discovery	fb:spaceflight.spacecraft.manufacturer	fb:m.01cj3p	who manufactured the space shuttle discovery	O O O I I I
+test-157	fb:m.0524b41	game of thrones	fb:media_common.adaptation.adapted_from	fb:m.01cj3p	what series was game of thrones adapted from	O O O I I I O O
+test-158	fb:m.033fqh	meet the parents	fb:film.film.genre	fb:m.01cj3p	what genres does meet the parents consist of	O O O I I I O O
+test-159	fb:m.06x6s	st. louis blues	fb:ice_hockey.hockey_team.division	fb:m.01cj3p	in what division do the st. louis blues play	O O O O O I I I O
+test-160	fb:m.0cwx_	carnegie mellon publish	fb:education.educational_institution.newspaper	fb:m.01cj3p	what newspapers does carnegie mellon publish	O O O I I I
+test-161	fb:m.0dy6y	the magician_s nephew	fb:fictional_universe.work_of_fiction.setting	fb:m.01cj3p	what is the setting of the magician_s nephew	O O O O O I I I
+test-162	fb:m.0kh3	motor neuron disease	fb:medicine.disease.symptoms	fb:m.01cj3p	what are the symptoms of motor neuron disease	O O O O O I I I
+test-163	fb:m.01ggms	lil hardin armstrong	fb:music.artist.genre	fb:m.01cj3p	what genre did lil hardin armstrong represent	O O O I I I O
+test-164	fb:m.02wlk	frank lloyd wright	fb:architecture.architect.structures_designed	fb:m.01cj3p	what structures did frank lloyd wright design	O O O I I I O
+test-165	fb:m.01mkq	computer science	fb:book.periodical_subject.periodicals	fb:m.01cj3p	what are some periodicals on computer science	O O O O O I I
+test-166	fb:m.07k4r	tai chi	fb:martial_arts.martial_art.category	fb:m.01cj3p	what category of martial arts is tai chi chuan	O O O O O O I I O
+test-167	fb:m.01jft4	bruce almighty	fb:film.film.costume_design_by	fb:m.01cj3p	who is the costume designer for bruce almighty	O O O O O O I I
+test-168	fb:m.0291sp	matthew hayden	fb:cricket.cricket_bowler.technique	fb:m.01cj3p	what bowling technique does matthew hayden use	O O O O I I O
+test-169	fb:m.07tgn	attended oxford	fb:fictional_universe.school_in_fiction.students_graduates	fb:m.01cj3p	what fictional characters have attended oxford	O O O O I I
+test-170	fb:m.03zw5	iceman	fb:comic_books.comic_book_character.cover_appearances	fb:m.01cj3p	which issues of x-men have iceman on the cover	O O O O O I O O O
+test-171	fb:m.0jqbz	to kill a mockingbird	fb:book.book.characters	fb:m.01cj3p	who are the characters in to kill a mockingbird	O O O O O I I I I
+test-172	fb:m.0dg3n1	africa	fb:location.location.events	fb:m.01cj3p	what major events in history happened in africa	O O O O O O O I
+test-173	fb:m.0j9xz	us route 101	fb:transportation.road.highway_system	fb:m.01cj3p	what highway system does us route 101 belong to	O O O O I I I O O
+test-174	fb:m.0d00l	kirkstall abbey	fb:religion.monastery.religious_order	fb:m.01cj3p	what religious order belongs to kirkstall abbey	O O O O O I I
+test-175	fb:m.0vq4	apollo 12	fb:spaceflight.space_mission.astronauts	fb:m.01cj3p	who were the astronauts in the apollo 12 mission	O O O O O O I I O
+test-176	fb:m.05tfm	pittsburgh steelers	fb:american_football.football_team.current_head_coach	fb:m.01cj3p	who is the head coach of the pittsburgh steelers	O O O O O O O I I
+test-177	fb:m.0d87hc	the nutty professor	fb:film.film.written_by	fb:m.01cj3p	who is the screenplay for the nutty professor by	O O O O O I I I O
+test-178	fb:m.027lnzs	iphone	fb:computer.computing_platform.file_formats_supported	fb:m.01cj3p	what are the file formats supported by the iphone	O O O O O O O O I
+test-179	fb:m.0g28q4	straight and true	fb:tv.tv_series_episode.writer	fb:m.01cj3p	who wrote the episode straight and true of the wire	O O O O I I I O O O
+test-180	fb:m.053x52	teenage mutant ninja turtles	fb:tv.tv_program.program_creator	fb:m.01cj3p	who are the creators of teenage mutant ninja turtles	O O O O O I I I I
+test-181	fb:m.0b3fd	united states presidential election	fb:government.election.winner	fb:m.01cj3p	who won the 1964 united states presidential election	O O O O I I I I
+test-182	fb:m.01nxx6	tempelhof international airport	fb:location.location.containedby	fb:m.01cj3p	where is the tempelhof international airport located	O O O I I I O
+test-183	fb:m.03jn4	london heathrow airport	fb:aviation.airport.hub_for	fb:m.01cj3p	what airlines is the london heathrow airport a hub for	O O O O I I I O O O
+test-184	fb:m.0f6vx	the wonderful wizard of oz	fb:media_common.adapted_work.adaptations	fb:m.01cj3p	what are some adaptations of the wonderful wizard of oz	O O O O O I I I I I
+test-185	fb:m.0dtt0z	the psychiatrist	fb:tv.tv_series_episode.next_episode	fb:m.01cj3p	what was the fawlty towers episode after the psychiatrist	O O O O O O O I I
+test-186	fb:m.05z25t7	the rolling stones 2009 concert tour	fb:time.event.locations	fb:m.01cj3p	where did the rolling stones 2009 concert tour take place	O O I I I I I I O O
+test-187	fb:m.051r3l	the wind-up bird chronicle	fb:book.written_work.original_language	fb:m.01cj3p	what is the original language of the wind-up bird chronicle	O O O O O O I I I I
+test-188	fb:m.0c9n_3	western conference	fb:ice_hockey.hockey_conference.divisions	fb:m.01cj3p	what are the divisions of the western conference of the nhl	O O O O O O I I O O O
+test-189	fb:m.015r91	court of chancery	fb:law.court.jurisdiction	fb:m.01cj3p	over what area does the court of chancery have jurisdiction	O O O O O I I I O O
+test-190	fb:m.01258	aol instant messenger	fb:computer.software.languages_used	fb:m.01cj3p	what programming languages were used for aol instant messenger	O O O O O O I I I
+test-191	fb:m.0386gq	royal institute of british architects	fb:award.award_presenting_organization.awards_presented	fb:m.01cj3p	what award does the royal institute of british architects present	O O O O I I I I I O
+test-192	fb:m.05kjb0y	pycon	fb:conferences.conference_series.subject	fb:m.01cj3p	what is pycon about	O O I O
+test-193	fb:m.0jt_x	pac-man	fb:cvg.computer_videogame.designers	fb:m.01cj3p	who designed pac-man	O O I
+test-194	fb:m.074m2	syphilis	fb:medicine.disease.causes	fb:m.01cj3p	what causes syphilis	O O I
+test-195	fb:m.018c_r	starbucks	fb:organization.organization.founders	fb:m.01cj3p	who started starbucks	O O I
+test-196	fb:m.019g40	omarion	fb:people.person.place_of_birth	fb:m.01cj3p	where was omarion born	O O I O
+test-197	fb:m.0by8vb	red cross	fb:organization.organization.founders	fb:m.01cj3p	who founded the red cross	O O O I I
+test-198	fb:m.05x7b	parthenon	fb:architecture.structure.architect	fb:m.01cj3p	who designed the parthenon	O O O I
+test-199	fb:m.017d93	8 mile	fb:film.film.directed_by	fb:m.01cj3p	who was 8 mile directed by	O O I I O O
+test-200	fb:m.0dr_4	titanic	fb:film.film.directed_by	fb:m.01cj3p	who was titanic directed by	O O I O O
+test-201	fb:m.01jft4	bruce almighty	fb:film.film.rating	fb:m.01cj3p	what is bruce almighty rated	O O I I O
+test-202	fb:m.0hqly	steven seagal	fb:martial_arts.martial_artist.instructor	fb:m.01cj3p	who instructed steven seagal	O O I I
+test-203	fb:m.07gvx	taoism	fb:religion.religion.texts	fb:m.01cj3p	what are the texts of taoism	O O O O O I
+test-204	fb:m.01g2q	bipolar disorder	fb:medicine.disease.causes	fb:m.01cj3p	what causes bipolar disorder	O O I I
+test-205	fb:m.07t80	ursa minor	fb:astronomy.constellation.contains	fb:m.01cj3p	what starts are in ursa minor	O O O O I I
+test-206	fb:m.01sd8	celtic languages	fb:language.language_family.languages	fb:m.01cj3p	what are the celtic languages	O O O I I
+test-207	fb:m.01y9jr	charlie_s angels	fb:film.film.directed_by	fb:m.01cj3p	who directed charlie_s angels	O O I I
+test-208	fb:m.0188n0	liam gallagher	fb:people.person.place_of_birth	fb:m.01cj3p	where was liam gallagher born	O O I I O
+test-209	fb:m.025s7y9	polonium	fb:chemistry.chemical_element.discovering_country	fb:m.01cj3p	where was polonium discovered	O O I O
+test-210	fb:m.03rj0	iceland	fb:location.country.capital	fb:m.01cj3p	what is the capital of iceland	O O O O O I
+test-211	fb:m.0209r2	savealot	fb:organization.organization.founders	fb:m.01cj3p	who is the founder of savealot	O O O O O I
+test-212	fb:m.06c38n	lady washington	fb:boats.ship.place_built	fb:m.01cj3p	where was lady washington built	O O I I O
+test-213	fb:m.01lp8	christian	fb:religion.religion.holidays	fb:m.01cj3p	what are the christian holidays	O O O I O
+test-214	fb:m.03p77	henry viii	fb:royalty.monarch.royal_line	fb:m.01cj3p	what was henry viii 's royal line	O O I I O O O
+test-215	fb:m.03typk	spamalot	fb:theater.play.lyricist	fb:m.01cj3p	who is the lyricist for spamalot	O O O O O I
+test-216	fb:m.080h2	vancouver	fb:travel.travel_destination.accommodation	fb:m.01cj3p	what are some hotels in vancouver	O O O O O I
+test-217	fb:m.02_0bm	mike babcock	fb:ice_hockey.hockey_coach.current_team	fb:m.01cj3p	what team does mike babcock coach	O O O I I O
+test-218	fb:m.055l0l	millennium force	fb:amusement_parks.ride.manufacturer	fb:m.01cj3p	who manufactured millennium force	O O I I
+test-219	fb:m.019g40	omarion	fb:music.group_member.instruments_played	fb:m.01cj3p	what instruments did omarion play	O O O I O
+test-220	fb:m.03w2n3	rings of saturn	fb:astronomy.astronomical_discovery.discoverer	fb:m.01cj3p	who discovered the rings of saturn	O O O I I I
+test-221	fb:m.01zj1t	home depot	fb:organization.organization.founders	fb:m.01cj3p	who are the founders of home depot	O O O O O I I
+test-222	fb:m.0c40t	chow chow	fb:biology.animal_breed.place_of_origin	fb:m.01cj3p	where does the chow chow originate	O O O I I O
+test-223	fb:m.0cyjkg	fry_s turkish delight	fb:food.candy_bar.sold_in	fb:m.01cj3p	where is fry_s turkish delight sold	O O I I I O
+test-224	fb:m.01nlch	mike schmidt	fb:baseball.baseball_player.position_s	fb:m.01cj3p	what position did mike schmidt play	O O O I I O
+test-225	fb:m.06c62	rome	fb:travel.travel_destination.tourist_attractions	fb:m.01cj3p	what tourist attractions are in rome	O O O O O I
+test-226	fb:m.0l27	the amazing spider-man	fb:comic_books.comic_book_series.publisher	fb:m.01cj3p	who published the amazing spider-man	O O I I I
+test-227	fb:m.07f1x	thailand	fb:military.military_combatant.armed_forces	fb:m.01cj3p	what armed forces does thailand have	O O O O I O
+test-228	fb:m.01y9jr	charlie_s angels	fb:film.film.produced_by	fb:m.01cj3p	who was charlie_s angels produced by	O O I I O O
+test-229	fb:m.0mcx2	ipod	fb:business.product_line.includes_product_lines	fb:m.01cj3p	what product lines does ipod include	O O O O I O
+test-230	fb:m.0498y	kentucky	fb:distilled_spirits.spirit_producing_region.distilleries	fb:m.01cj3p	what spirits are produced in kentucky	O O O O O I
+test-231	fb:m.014z03	peseta	fb:finance.currency.countries_formerly_used	fb:m.01cj3p	where was the peseta used as currency	O O O I O O O
+test-232	fb:m.081swv	macsoft games	fb:cvg.cvg_developer.games_developed	fb:m.01cj3p	what games has macsoft games developed	O O O I I O
+test-233	fb:m.02fzs	disneyland	fb:amusement_parks.park.areas	fb:m.01cj3p	what are the theme areas at disneyland	O O O O O O I
+test-234	fb:m.020wyp	australian cricket team	fb:cricket.cricket_team.coach	fb:m.01cj3p	who coaches the australian cricket team	O O O I I I
+test-235	fb:m.01n073	electronic arts	fb:cvg.cvg_developer.games_developed	fb:m.01cj3p	what games has electronic arts developed	O O O I I O
+test-236	fb:m.0hw6_	jack albertson	fb:people.deceased_person.cause_of_death	fb:m.01cj3p	what was jack albertson 's cause of death	O O I I O O O O
+test-237	fb:m.02xt6q	cristiano ronaldo	fb:soccer.football_player.position_s	fb:m.01cj3p	what position does cristiano ronaldo play	O O O I I O
+test-238	fb:m.0d3k14	john f kennedy	fb:people.deceased_person.cause_of_death	fb:m.01cj3p	what was john f kennedy 's cause of death	O O I I I O O O O
+test-239	fb:m.0jnmj	edmonton oilers	fb:ice_hockey.hockey_team.captain	fb:m.01cj3p	who is the captain of the edmonton oilers	O O O O O O I I
+test-240	fb:m.0x82	afrikaans	fb:language.human_language.language_family	fb:m.01cj3p	what language family is afrikaans part of	O O O O I O O
+test-241	fb:m.06ptx	san francisco bay	fb:geography.body_of_water.bridges	fb:m.01cj3p	what bridges go over the san francisco bay	O O O O O I I I
+test-242	fb:m.085xh	west side story	fb:media_common.adaptation.adapted_from	fb:m.01cj3p	what play was west side story adapted from	O O O I I I O O
+test-243	fb:m.09g7g	the magic flute	fb:opera.opera.librettist	fb:m.01cj3p	who was the librettist for the magic flute	O O O O O I I I
+test-244	fb:m.034gr9	king edward peak	fb:geography.mountain.mountain_range	fb:m.01cj3p	what mountain range is king edward peak in	O O O O I I I O
+test-245	fb:m.0m32h	prostate cancer	fb:medicine.disease.treatments	fb:m.01cj3p	what are the treatments of prostate cancer	O O O O O I I
+test-246	fb:m.01_syn	meiji constitution	fb:law.constitution.country	fb:m.01cj3p	what area did the meiji constitution govern	O O O O I I O
+test-247	fb:m.02_286	new york city	fb:location.place_with_neighborhoods.neighborhoods	fb:m.01cj3p	what are the neighborhoods in new york city	O O O O O I I I
+test-248	fb:m.0137v8	the atlantic	fb:book.periodical.subjects	fb:m.01cj3p	what is the subject of the atlantic monthly	O O O O O I I O
+test-249	fb:m.01xrwvx	chris maden	fb:martial_arts.martial_artist.martial_art	fb:m.01cj3p	what martial arts does chris maden practice	O O O O I I O
+test-250	fb:m.0zd6	macintosh	fb:computer.computer.key_designers	fb:m.01cj3p	who were the key designers of the macintosh	O O O O O O O I
+test-251	fb:m.02217f	manhattan bridge	fb:transportation.bridge.bridge_type	fb:m.01cj3p	what type of bridge is the manhattan bridge	O O O O O O I I
+test-252	fb:m.07dfk	tokyo	fb:travel.travel_destination.local_transportation	fb:m.01cj3p	what public transportation is there in tokyo	O O O O O O I
+test-253	fb:m.0404lvv	marcellus formation	fb:geology.geological_formation.type_of_rock	fb:m.01cj3p	what type of rock is the marcellus formation	O O O O O O I I
+test-254	fb:m.05flx2	jekyll island	fb:geography.island.island_group	fb:m.01cj3p	what island group is jekyll island a part of	O O O O I I O O O
+test-255	fb:m.01sy7q	marscapone	fb:food.cheese.source_of_milk	fb:m.01cj3p	what animal does marscapone cheese come from	O O O I O O O
+test-256	fb:m.04m8fy	delta delta delta	fb:education.fraternity_sorority.founded_location	fb:m.01cj3p	at what school was delta delta delta founded	O O O O I I I O
+test-257	fb:m.07bz5	the lord of the rings	fb:fictional_universe.work_of_fiction.setting	fb:m.01cj3p	what universe is the lord of the rings set in	O O O I I I I I O O
+test-258	fb:m.01pz3b	new york city subway	fb:metropolitan_transit.transit_system.transit_lines	fb:m.01cj3p	what are the lines of the new york city subway	O O O O O O I I I I
+test-259	fb:m.02wkbg7	batman # 1	fb:comic_books.comic_book_issue.characters_on_cover	fb:m.01cj3p	what characters were on the cover of batman # 1	O O O O O O O I I I
+test-260	fb:m.01dbcm	fight of the century	fb:boxing.boxing_match.weight_class	fb:m.01cj3p	what weight class was the fight of the century	O O O O O I I I I
+test-261	fb:m.01kcx_w	ali farka toure	fb:music.artist.label	fb:m.01cj3p	what record label was ali farka toure signed to	O O O O I I I O O
+test-262	fb:m.0cv4c	brooklyn bridge	fb:architecture.structure.architectural_style	fb:m.01cj3p	what architectural style is the brooklyn bridge	O O O O O I I
+test-263	fb:m.0ch3v	halley	fb:astronomy.comet.meteor_shower_spawned	fb:m.01cj3p	what meteor showers has the comet halley spawned	O O O O O O I O
+test-264	fb:m.04jpg2p	alice in wonderland	fb:film.film.costume_design_by	fb:m.01cj3p	who designed the costumes for alice in wonderland	O O O O O I I I
+test-265	fb:m.02j81	eiffel tower	fb:architecture.building.building_function	fb:m.01cj3p	what is the building function of the eiffel tower	O O O O O O O I I
+test-266	fb:m.04s_26	andy reid	fb:american_football.football_coach.current_team_head_coached	fb:m.01cj3p	what football team does andy reid currently coach	O O O O I I O O
+test-267	fb:m.05prj	object-oriented programming	fb:computer.programming_language_paradigm.languages	fb:m.01cj3p	what are some object-oriented programming languages	O O O I I O
+test-268	fb:m.027zxs_	old st paul_s cathedral	fb:event.disaster_affected_structure.destroyed_by_disaster	fb:m.01cj3p	in what disaster was old st paul_s cathedral destroyed	O O O O I I I I O
+test-269	fb:m.0j24b7h	manny pacquiao vs. timothy bradley	fb:boxing.boxing_match.decision	fb:m.01cj3p	what decision did manny pacquiao vs. timothy bradley end with	O O O I I I I I O O
+test-270	fb:m.0jp9r	batman : the dark knight returns	fb:comic_books.comic_book_series.featured_characters	fb:m.01cj3p	what characters are featured in batman : the dark knight returns	O O O O O I I I I I I
+test-271	fb:m.06gj5j3	that_s one small step for man , one giant leap for mankind	fb:media_common.quotation.author	fb:m.01cj3p	who said that_s one small step for man , one giant leap for mankind	O O I I I I I I I I I I I I

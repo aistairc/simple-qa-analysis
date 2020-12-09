@@ -1,0 +1,1288 @@
+train-1	fb:m.0f4vbz	angelina jolie	fb:film.director.film	fb:m.011q46b6	what movie did angelina jolie direct	O O O I I O
+train-2	fb:m.07cbs	thomas jefferson	fb:people.deceased_person.place_of_death	fb:m.0mp3l	what place did thomas jefferson died	O O O I I O
+train-3	fb:m.03_r3	jamaica	fb:location.country.currency_used	fb:m.04xc2m	what money does jamaica use	O O O I O
+train-4	fb:m.02mjmr	obama	fb:influence.influence_node.influenced_by	fb:m.018q7p	who does obama look up to	O O I O O O
+train-5	fb:m.03_3d	japanese	fb:location.country.currency_used	fb:m.088n7	what money do japanese use	O O O I O
+train-6	fb:m.048cl	karl marx	fb:people.deceased_person.place_of_burial	fb:m.0j70p	where was karl marx buried	O O I I O
+train-7	fb:m.0jzc	arabic	fb:language.human_language.countries_spoken_in	fb:m.0161c	where is arabic used	O O I O
+train-8	fb:m.03shp	iran	fb:location.country.languages_spoken	fb:m.01bcw_	what language do you speak in iran	O O O O O O I
+train-9	fb:m.015fr	brazil	fb:location.country.currency_used	fb:m.03385m	what is the name of money in brazil	O O O O O O O I
+train-10	fb:m.01l0km	mary harris jones	fb:base.activism.activist.area_of_activism	fb:m.03qc82m	what did mary harris jones accomplish	O O I I I O
+train-11	fb:m.0d060g	canada	fb:sports.sports_team_location.teams	fb:m.02py_tx	what sports are played in canada	O O O O O I
+train-12	fb:m.0d05w3	china	fb:location.country.currency_used	fb:m.0hn4_	what is the currency name of china	O O O O O O I
+train-13	fb:m.0dg6f6	stan kroenke	fb:sports.sports_team_owner.teams_owned	fb:m.01kkjq	what all does stan kroenke own	O O O I I O
+train-14	fb:m.06qd3	south korea	fb:location.country.capital	fb:m.0hsqf	what is south korea 's capital city	O O I I O O O
+train-15	fb:m.01vvm4	did copernicus	fb:base.argumentmaps.innovator.original_ideas	fb:m.01kf8z	what did copernicus invented	O I I O
+train-16	fb:m.0b90_r	mexico	fb:location.country.currency_used	fb:m.012ts8	what is the currency of mexico called	O O O O O I O
+train-17	fb:m.0h6cb	bart simpson	fb:fictional_universe.fictional_character.education	fb:m.0h2m5t_	what school does bart simpson go to	O O O I I O O
+train-18	fb:m.027rn	dominican republic	fb:location.country.currency_used	fb:m.04lt7_	what is the currency in the dominican republic called	O O O O O O I I O
+train-19	fb:m.04ykg	minnesota	fb:location.location.time_zones	fb:m.02fqwt	what timezone is minnesota in	O O O I O
+train-20	fb:m.0635_7	nascar hall of fame	fb:location.location.containedby	fb:m.05fkf	where is the nascar hall of fame	O O O I I I I
+train-21	fb:m.01ct6	the ravens	fb:sports.sports_team.championships	fb:m.0_gt_qt	what years have the ravens won the super bowl	O O O I I O O O O
+train-22	fb:m.01z215	saudi arabia	fb:location.country.form_of_government	fb:m.01fpfn	what type of government system does saudi arabia have	O O O O O O I I O
+train-23	fb:m.036mk	where is pyramids of giza	fb:architecture.building.building_complex	fb:m.06bkmh	where is pyramids of giza located	I I I I I O
+train-24	fb:m.0d060g	canada	fb:location.country.official_language	fb:m.02h40lc	what is the second official language of canada	O O O O O O O I
+train-25	fb:m.0rh6k	washington dc	fb:travel.travel_destination.tourist_attractions	fb:m.01_0bd	what to do washington dc december	O O O I I O
+train-26	fb:m.03_3d	japan	fb:location.country.form_of_government	fb:m.018wl5	what type of government does japan currently have	O O O O O I O O
+train-27	fb:m.0j11	aruba	fb:location.country.currency_used	fb:m.08s1k3	what currency can you use in aruba	O O O O O O I
+train-28	fb:m.060_7	pablo picasso	fb:people.deceased_person.place_of_death	fb:m.0cy97d	where did pablo picasso die	O O I I O
+train-29	fb:m.01jv4	skinner	fb:people.person.religion	fb:m.0kpl	what did skinner believe	O O I O
+train-30	fb:m.081k8	shakespeare	fb:people.person.parents	fb:m.01stsq	who are shakespeare 's parents names	O O I O O O
+train-31	fb:m.045m1_	jesus christ	fb:people.person.religion	fb:m.03_gx	what religion did jesus christ follow	O O O I I O
+train-32	fb:m.027rn	dominican republic	fb:location.country.currency_used	fb:m.04lt7_	what currency does the dominican republic	O O O O I I
+train-33	fb:m.0bjy7	montpelier	fb:travel.travel_destination.tourist_attractions	fb:m.02h_zx	what is there to do in montpelier vt	O O O O O O I O
+train-34	fb:m.01q5t3	george steinbrenner	fb:people.person.profession	fb:m.012t_z	what did george steinbrenner do	O O I I O
+train-35	fb:m.07r1h	tom cruise	fb:people.person.place_of_birth	fb:m.071cn	where is tom cruise from	O O I I O
+train-36	fb:m.01l0km	mary harris jones	fb:base.activism.activist.area_of_activism	fb:m.03qc82m	what type of laws did mary harris jones demand	O O O O O I I I O
+train-37	fb:m.03rjj	italy	fb:location.country.currency_used	fb:m.02l6h	what is the money currency in italy	O O O O O O I
+train-38	fb:m.02nzw	emily bronte	fb:people.deceased_person.cause_of_death	fb:m.07jwr	what did emily bronte died of	O O I I O O
+train-39	fb:m.0jm74	chicago bulls	fb:basketball.basketball_team.head_coach	fb:m.043jv80	who is the chicago bulls head coach	O O O I I O O
+train-40	fb:m.0154j	belgium	fb:location.location.containedby	fb:m.02j9z	where is belgium at	O O I O
+train-41	fb:m.01509d	emily dickinson	fb:book.author.works_written	fb:m.043k2cw	what books did emily dickinson wrote	O O O I I O
+train-42	fb:m.034rd	george washington	fb:people.person.place_of_birth	fb:m.0mmyl	where was george washington originally from	O O I I O O
+train-43	fb:m.05qtj	paris	fb:location.location.nearby_airports	fb:m.01l525	what airport in paris	O O O I
+train-44	fb:m.03yzb	irving langmuir	fb:people.person.profession	fb:m.06q2q	what was irving langmuir famous for	O O I I O O
+train-45	fb:m.05k7sb	massachusetts	fb:location.location.people_born_here	fb:g.11b6c5t56n	what is a famous person from massachusetts	O O O O O O I
+train-46	fb:m.05djw1	jerry spinelli	fb:people.person.place_of_birth	fb:m.0_75d	where did jerry spinelli live as a kid	O O I I O O O O
+train-47	fb:m.01fz6	boudicca	fb:common.topic.notable_types	fb:m.02h77nv	what boudicca do	O I O
+train-48	fb:m.07ssc	uk	fb:location.country.form_of_government	fb:m.018wl5	what type of voting system does the uk have	O O O O O O O I O
+train-49	fb:m.05vz3zq	soviet union	fb:location.country.form_of_government	fb:m.01fkst	what type of government does the former soviet union have	O O O O O O O I I O
+train-50	fb:m.07f1x	thailand	fb:location.country.languages_spoken	fb:m.011ln5	what language does people in thailand speak	O O O O O I O
+train-51	fb:m.05cgv	nigeria	fb:location.country.form_of_government	fb:m.01d9r3	what type of government does nigeria have today	O O O O O I O O
+train-52	fb:m.0c8dk	vasco da gama	fb:people.person.nationality	fb:m.01hk04	what country did vasco da gama came from	O O O I I I O O
+train-53	fb:m.0b3tf	william jennings bryan	fb:base.politicalconventions.presidential_nominee.nominated_at	fb:m.0b4pfj	what year did william jennings bryan run for president	O O O I I I O O O
+train-54	fb:m.04v09	mali	fb:location.country.languages_spoken	fb:m.01gdq	what do mali people speak	O O I O O
+train-55	fb:m.0jgd	argentina	fb:location.country.languages_spoken	fb:m.02bjrlw	what language do they speak in argentina yahoo	O O O O O O I O
+train-56	fb:m.0d3k14	jfk	fb:government.us_president.vice_president	fb:m.0f7fy	who was the president after jfk died	O O O O O I O
+train-57	fb:m.04qqn	louis riel	fb:people.person.profession	fb:m.0fj9f	who was louis riel	O O I I
+train-58	fb:m.0r0jv	lancaster	fb:location.hud_county_place.county	fb:m.0kpys	what county is lancaster ca located in	O O O I O O O
+train-59	fb:m.0pc56	stockton	fb:location.hud_county_place.county	fb:m.0l2sr	what county is stockton ca located in	O O O I O O O
+train-60	fb:m.04v09	mali	fb:location.country.form_of_government	fb:m.01dw03	what kind of government did the mali empire have	O O O O O O I O O
+train-61	fb:m.07_m2	vincent van gogh	fb:influence.influence_node.influenced_by	fb:m.016s03	what influenced vincent van gogh work	O O I I I O
+train-62	fb:m.05sb1	pakistan	fb:location.country.official_language	fb:m.02h40lc	what language do the speak in pakistan	O O O O O O I
+train-63	fb:m.0123f1	ponce de leon	fb:people.person.nationality	fb:m.06mkj	what country did ponce de leon live in	O O O I I I O O
+train-64	fb:m.03hzplf	ellen albertini dow	fb:people.person.profession	fb:m.01d30f	who is ellen albertini dow	O O I I I
+train-65	fb:m.01j851	farrah have	fb:medicine.notable_person_with_medical_condition.condition	fb:m.02vxm4	what did farrah have surgery for	O O I I O O
+train-66	fb:m.0pwb	abraham	fb:people.person.parents	fb:m.0j0hf	who is abraham descended from	O O I O O
+train-67	fb:m.03gh4	hawaii	fb:location.location.time_zones	fb:m.02lctm	what is the hawaii time zone	O O O I O O
+train-68	fb:m.0137hn	robin gibb	fb:people.deceased_person.cause_of_death	fb:m.01dcqj	what did robin gibb died from	O O I I O O
+train-69	fb:m.0g499	texaco	fb:organization.organization.place_founded	fb:m.0104lr	what state was texaco gas founded	O O O I O O
+train-70	fb:m.04ych	missouri	fb:location.location.time_zones	fb:m.02fqwt	what time zone am i in missouri	O O O O O O I
+train-71	fb:m.01lwc3	harlem globetrotters	fb:sports.sports_team.sport	fb:m.018w8	what sport do the harlem globetrotters play	O O O O I I O
+train-72	fb:m.0k6nt	denmark	fb:location.country.languages_spoken	fb:m.02_8gp	what language do they denmark	O O O O I
+train-73	fb:m.0gzh	abraham lincoln	fb:people.person.place_of_birth	fb:m.0tgmk	where is abraham lincoln hometown	O O I I O
+train-74	fb:m.07t21	ukraine	fb:location.country.currency_used	fb:m.035qkb	what money is used in the ukraine	O O O O O O I
+train-75	fb:m.02k54	egypt	fb:location.country.form_of_government	fb:m.01dw03	what type of government did egypt have	O O O O O I O
+train-76	fb:m.03_r3	jamaica	fb:location.country.currency_used	fb:m.04xc2m	what currency does jamaica accept	O O O I O
+train-77	fb:m.03_3d	japanese	fb:location.country.currency_used	fb:m.088n7	what kind of money do japanese use	O O O O O I O
+train-78	fb:m.02lvtb	andy williams	fb:people.person.nationality	fb:m.09c7w0	what nationality was andy williams	O O O I I
+train-79	fb:m.07t31	congress	fb:government.governmental_body.component_bodies	fb:m.07t58	what are the two houses in congress	O O O O O O I
+train-80	fb:m.03_r3	jamaica	fb:location.country.currency_used	fb:m.04xc2m	what currency should i take to jamaica	O O O O O O I
+train-81	fb:m.01q98m	cancun	fb:location.location.nearby_airports	fb:m.05fkzs	what airport is closest to cancun	O O O O O I
+train-82	fb:m.0cw10	queen victoria	fb:people.person.parents	fb:m.01c50q	who raised queen victoria	O O I I
+train-83	fb:m.0cgbf	joan crawford	fb:medicine.notable_person_with_medical_condition.condition	fb:m.026k8yn	what was wrong with joan crawford	O O O O I I
+train-84	fb:m.04ldnm	philadelphia church of god	fb:base.schemastaging.non_profit_extra.classification	fb:m.0ppgx02	what is the philadelphia church of god	O O O I I I I
+train-85	fb:m.035qy	greece	fb:location.country.currency_used	fb:m.02l6h	what money system does greece use	O O O O I O
+train-86	fb:m.0bxzr	sir john frederick william herschel	fb:law.inventor.inventions	fb:m.01m_1t	what did sir john frederick william herschel do	O O I I I I I O
+train-87	fb:m.05g3b	new england patriots	fb:sports.professional_sports_team.owner_s	fb:m.050kkl	who owns the new england patriots football team	O O O I I I O O
+train-88	fb:m.0136p1	donna summers	fb:people.deceased_person.cause_of_death	fb:m.04p3w	what did donna summers die from	O O I I O O
+train-89	fb:m.036qv	greenpeace	fb:organization.organization.place_founded	fb:m.080h2	where was greenpeace an international environmental organization founded	O O I O O O O O
+train-90	fb:m.02092	christiaan barnard	fb:people.person.profession	fb:m.02y_93f	what was christiaan barnard famous for	O O I I O O
+train-91	fb:m.0h7x	austria	fb:location.country.languages_spoken	fb:m.0140n_	what language do you speak in austria	O O O O O O I
+train-92	fb:m.02pk0sd	atticus finch	fb:fictional_universe.fictional_character.occupation	fb:m.04gc2	what did atticus finch do	O O I I O
+train-93	fb:m.0c8wxp	catholic	fb:religion.religion.texts	fb:m.015j7	what bible does the catholic church follow	O O O O I O O
+train-94	fb:m.0f9wd	montesquieu	fb:people.deceased_person.cause_of_death	fb:m.0cjf0	what did baron de montesquieu die from	O O O O I O O
+train-95	fb:m.06y57	sydney	fb:travel.travel_destination.tourist_attractions	fb:m.0_ymvs4	where to travel around sydney	O O O O I
+train-96	fb:m.07_m2	vincent van gogh	fb:visual_art.visual_artist.associated_periods_or_movements	fb:m.015xrq	what art movement was vincent van gogh apart of	O O O O I I I O O
+train-97	fb:m.02k54	egyptians	fb:location.country.languages_spoken	fb:m.012zfy	what language do egyptians use	O O O I O
+train-98	fb:m.0wy41	wellsville	fb:location.location.containedby	fb:m.04ych	where is wellsville missouri	O O I O
+train-99	fb:m.0n1rj	tampa	fb:location.hud_county_place.county	fb:m.0jj6k	what county is tampa located in	O O O I O O
+train-100	fb:m.079vf	stan lee	fb:fictional_universe.fictional_character_creator.fictional_characters_created	fb:g.11_ym4k45	what character did stan lee create	O O O I I O
+train-101	fb:m.0347sv	willy wonka	fb:fictional_universe.fictional_character.appears_in_these_fictional_universes	fb:m.04rn2rz	where did willy wonka take place	O O I I O O
+train-102	fb:m.01bmlb	sammy davis	fb:people.deceased_person.cause_of_death	fb:m.021plp	what killed sammy davis jr	O O I I O
+train-103	fb:m.0chhs	invasion of northern	fb:time.event.locations	fb:m.05g56	where did the massive allied invasion of northern france take place in june 1944	O O O O O I I I O O O O O O
+train-104	fb:m.02pjpd	was governor cuomo	fb:people.person.place_of_birth	fb:m.0ccvx	where was governor cuomo born	O I I I O
+train-105	fb:m.06x76	st louis rams	fb:sports.sports_team.arena_stadium	fb:m.02b99h	where does the st louis rams play football	O O O I I I O O
+train-106	fb:m.09c7w0	usa	fb:location.country.form_of_government	fb:m.01d9r3	what form of government do we have in the usa	O O O O O O O O O I
+train-107	fb:m.01p1v	chile	fb:location.country.form_of_government	fb:m.01d9r3	what kind of government does chile have today	O O O O O I O O
+train-108	fb:m.0154j	belgium	fb:location.country.languages_spoken	fb:m.02bv9	what language do they in belgium	O O O O O I
+train-109	fb:m.0x0d	arizona diamondbacks	fb:sports.sports_team.arena_stadium	fb:m.01k879	where did the arizona diamondbacks play	O O O I I O
+train-110	fb:m.06mkj	spain	fb:base.locations.countries.continent	fb:m.02j9z	where is spain exactly located	O O I O O
+train-111	fb:m.0d060g	canadians	fb:location.country.form_of_government	fb:m.018wl5	what kind of government do the canadians have	O O O O O O I O
+train-112	fb:m.01hf7f	of vicksburg	fb:time.event.locations	fb:m.04tgp	where was the battle of vicksburg held	O O O O I I O
+train-113	fb:m.04lg6	leonardo da vinci	fb:base.argumentmaps.innovator.original_ideas	fb:m.05my_3	what inventions did leonardo da vinci made	O O O I I I O
+train-114	fb:m.0gct_	henri matisse	fb:visual_art.visual_artist.associated_periods_or_movements	fb:m.015r61	what type of art is henri matisse famous for	O O O O O I I O O
+train-115	fb:m.0h1k6	duluth	fb:location.hud_county_place.county	fb:m.0nh1v	what county is duluth minnesota in	O O O I O O
+train-116	fb:m.06mkj	spain	fb:location.country.official_language	fb:m.06nm1	what are the main languages spoken in spain	O O O O O O O I
+train-117	fb:m.0f8l9c	france	fb:location.location.time_zones	fb:m.02llzg	what is the time zone in france	O O O O O O I
+train-118	fb:m.01mjq	czech republic	fb:location.location.containedby	fb:m.01lkr	what region is czech republic in	O O O I I O
+train-119	fb:m.051cc	martin luther king	fb:people.person.profession	fb:m.010b8yqs	what job did martin luther king jr have	O O O I I I O O
+train-120	fb:m.0345_	guatemala	fb:location.country.currency_used	fb:m.01crby	what money does guatemala use	O O O I O
+train-121	fb:m.05v8c	the philippines	fb:sports.sports_team_location.teams	fb:m.04k3r_	what are the different sports in the philippines	O O O O O O I I
+train-122	fb:m.0295r	danish language	fb:language.human_language.language_family	fb:m.0140kd	where does danish language come from	O O I I O O
+train-123	fb:m.02h40lc	english	fb:language.human_language.countries_spoken_in	fb:m.0160w	which countries speak english	O O O I
+train-124	fb:m.0d6j4	robert hooke	fb:law.inventor.inventions	fb:m.012d66	what did robert hooke discover	O O I I O
+train-125	fb:m.059j2	the netherlands	fb:location.location.containedby	fb:m.049nq	where are the netherlands on a world map	O O I I O O O O
+train-126	fb:m.0yyzd	amsterdam	fb:location.hud_county_place.county	fb:m.0n25q	where is amsterdam ohio	O O I O
+train-127	fb:m.0gs6vr	selena gomez	fb:people.person.place_of_birth	fb:m.013mbz	what city was selena gomez born in	O O O I I O O
+train-128	fb:m.06mkj	spain	fb:location.country.form_of_government	fb:m.018wl5	what type of political system is spain	O O O O O O I
+train-129	fb:m.06c62	rome	fb:location.location.containedby	fb:m.03rjj	where is rome italy located on a map	O O I O O O O O
+train-130	fb:m.04lg6	leonardo da vinci	fb:people.deceased_person.place_of_death	fb:m.01jvvc	where was leonardo da vinci when he died	O O I I I O O O
+train-131	fb:m.06m_5	sri lanka	fb:location.country.currency_used	fb:m.02gsxw	what money to take to sri lanka	O O O O O I I
+train-132	fb:m.04jpl	london	fb:travel.travel_destination.tourist_attractions	fb:m.012vvtp_	where to go in london england	O O O O I O
+train-133	fb:m.01r470	vma	fb:award.award.presented_by	fb:m.04rqd	what channel is the mtv vma awards on	O O O O O I O O
+train-134	fb:m.06w054	james frey	fb:film.writer.film	fb:m.05nm_9c	what movie did james frey write	O O O I I O
+train-135	fb:m.01wj18h	shakira	fb:music.artist.origin	fb:m.01ls2	where is she from shakira	O O O O I
+train-136	fb:m.07bty	thomas edison	fb:law.inventor.inventions	fb:m.01cbh9	what are all the things thomas edison invented	O O O O O I I O
+train-137	fb:m.03spz	israel	fb:location.country.form_of_government	fb:m.018wl5	what type of government does israel	O O O O O I
+train-138	fb:m.0_z4x	port lavaca	fb:location.hud_county_place.county	fb:m.0msd9	where is port lavaca tx	O O I I O
+train-139	fb:m.0djnt1	anderson silva	fb:people.person.profession	fb:m.02_8dlt	what is anderson silva trained in	O O I I O O
+train-140	fb:m.07ssc	uk	fb:location.country.languages_spoken	fb:m.01v0g	what dialects are spoken in the uk	O O O O O O I
+train-141	fb:m.04nmxtk	houston oilers	fb:sports.defunct_sports_team.later_known_as	fb:m.06f2k5d	where did the houston oilers football team go	O O O I I O O O
+train-142	fb:m.03_dj	jonathan swift	fb:people.person.profession	fb:m.02449y	what is jonathan swift famous for	O O I I O O
+train-143	fb:m.04q9ng	krabi	fb:travel.travel_destination.tourist_attractions	fb:m.05_sdt	what to do around krabi thailand	O O O O I O
+train-144	fb:m.01n86	columbia river	fb:geography.river.origin	fb:m.02r8kvz	where did the columbia river begin	O O O I I O
+train-145	fb:m.0d060g	canada	fb:location.country.form_of_government	fb:m.018wl5	what kind of political system is canada	O O O O O O I
+train-146	fb:m.04wqr	marilyn monroe	fb:people.person.profession	fb:m.01d_h8	what was marilyn monroe known for	O O I I O O
+train-147	fb:m.01p1v	chile	fb:location.country.form_of_government	fb:m.01d9r3	what is the government of chile	O O O O O I
+train-148	fb:m.07ssc	united kingdom	fb:location.country.currency_used	fb:m.01nv4h	what type of currency is used in the united kingdom	O O O O O O O O I I
+train-149	fb:m.0d0vqn	sweden	fb:location.country.currency_used	fb:m.0485n	what 's sweden 's currency	O O I O O
+train-150	fb:m.04r_8	microsoft windows	fb:computer.software.developer	fb:m.04sv4	who created microsoft windows	O O I I
+train-151	fb:m.01crd5	vietnam	fb:location.country.form_of_government	fb:m.01fkst	what type of government does vietnam have today	O O O O O I O O
+train-152	fb:m.02k8k	el salvador	fb:location.location.containedby	fb:m.01tzh	where is el salvador located	O O I I O
+train-153	fb:m.0b90_r	mexico	fb:location.country.currency_used	fb:m.012ts8	what currency do mexico use	O O O I O
+train-154	fb:m.015fr	brazil	fb:location.country.languages_spoken	fb:m.02bjrlw	what is the language spoken in brazil	O O O O O O I
+train-155	fb:m.027rn	dominican republic	fb:location.country.currency_used	fb:m.04lt7_	what currency in dominican republic should i bring	O O O I I O O O
+train-156	fb:m.06c62	rome	fb:symbols.namesake.named_after	fb:m.0ghqr	where did the name rome come from	O O O O I O O
+train-157	fb:m.083tk	welsh language	fb:base.rosetta.languoid.parent	fb:m.05tjlvr	where did the welsh language originate from	O O O I I O O
+train-158	fb:m.05g3v	new orleans saints	fb:sports.sports_team.arena_stadium	fb:m.02y3xn	what is the name of the new orleans saints football stadium	O O O O O O I I I O O
+train-159	fb:m.04081f3	bridgit mendler	fb:people.person.parents	fb:m.0qf8bfs	what are bridgit mendler 's parents names	O O I I O O O
+train-160	fb:m.0d05q4	iraqi	fb:location.country.languages_spoken	fb:m.01m3f7	what language do iraqi people speak	O O O I O O
+train-161	fb:m.0flw86	islam	fb:religion.religion.deities	fb:m.055v4c	who does the islam worship	O O O I O
+train-162	fb:m.06mzp	switzerland	fb:location.country.languages_spoken	fb:m.02bjrlw	what kind of language does switzerland speak	O O O O O I O
+train-163	fb:m.0dg3n1	africa	fb:base.locations.continents.countries_within	fb:m.0164v	what are the names of all the countries in africa	O O O O O O O O O I
+train-164	fb:m.0g6ff	russians	fb:people.ethnicity.included_in_group	fb:m.043_yvy	what do ethnic russians look like	O O O I O O
+train-165	fb:m.01vyv9	larry hagman	fb:people.deceased_person.cause_of_death	fb:m.0369n2	what did larry hagman die of	O O I I O O
+train-166	fb:m.01znc_	turkey	fb:location.country.languages_spoken	fb:m.02hwyss	what is the language called in turkey	O O O O O O I
+train-167	fb:m.01ct6	the ravens	fb:american_football.football_team.current_head_coach	fb:m.0c2fvr	who is the ravens coach	O O I I O
+train-168	fb:m.0dl4g	battle of verdun	fb:time.event.locations	fb:m.0ny95	where is the battle of verdun located	O O O I I I O
+train-169	fb:m.0cgfb	victoria beckham	fb:people.person.place_of_birth	fb:m.01z26v	where is victoria beckham from	O O I I O
+train-170	fb:m.0chghy	australia	fb:location.country.form_of_government	fb:m.018wl5	what kind of legal system does australia have	O O O O O O I O
+train-171	fb:m.01vb6z	cameron crowe	fb:people.person.profession	fb:m.01d_h8	who is cameron crowe	O O I I
+train-172	fb:m.0rsjf	daytona beach	fb:location.location.nearby_airports	fb:m.02w45sm	what airport is close to daytona beach florida	O O O O O I I O
+train-173	fb:m.03rj0	iceland	fb:location.country.languages_spoken	fb:m.01gmkg	what language do people speak in iceland	O O O O O O I
+train-174	fb:m.0166b	bosnian	fb:location.country.languages_spoken	fb:m.06x8y	what is the bosnian language	O O O I O
+train-175	fb:m.0r186	chowchilla	fb:location.hud_county_place.county	fb:m.0l2gz	where is chowchilla located	O O I O
+train-176	fb:m.029jpy	new england	fb:location.location.time_zones	fb:m.02hcv8	what time zone is new england usa in	O O O O I I O O
+train-177	fb:m.06c0j	was reagan	fb:base.inaugurations.inauguration_speaker.inauguration	fb:m.05bry73	when was reagan inaugurated	O I I O
+train-178	fb:m.02qnhw1	romeo	fb:fictional_universe.fictional_character.character_created_by	fb:m.081k8	who created the character of romeo	O O O O O I
+train-179	fb:m.0p_70	zambezi river	fb:geography.river.mouth	fb:m.03rz4	where does the zambezi river end	O O O I I O
+train-180	fb:m.07gvx	taoism	fb:religion.religion.deities	fb:m.01g7jh	what god does taoism believe in	O O O I O O
+train-181	fb:m.01v9724	charles dickens	fb:influence.influence_node.influenced_by	fb:m.01gr2w	what other writers influenced charles dickens	O O O O I I
+train-182	fb:m.03_nq	john quincy adams	fb:people.deceased_person.cause_of_death	fb:m.08g5q7	what did john quincy adams died of	O O I I I O O
+train-183	fb:m.0565x	matthew do	fb:book.author.works_written	fb:m.038v8	what did st. matthew do	O O O I I
+train-184	fb:m.06t2t	singapore	fb:location.country.languages_spoken	fb:m.01r2l	what do people speak in singapore	O O O O O I
+train-185	fb:m.0345h	germany	fb:location.country.capital	fb:m.0156q	what is the capital city of germany now	O O O O O O I O
+train-186	fb:m.0j4b	angola	fb:base.locations.countries.continent	fb:m.0dg3n1	where is angola located	O O I O
+train-187	fb:m.05tfm	pittsburgh steelers	fb:sports.sports_team.colors	fb:m.019sc	what are the team colors for the pittsburgh steelers	O O O O O O O I I
+train-188	fb:m.04sdsv	ryan dunn	fb:people.deceased_person.cause_of_death	fb:m.08q1tg	what did ryan dunn died from	O O I I O O
+train-189	fb:m.06mkj	spain	fb:sports.sports_team_location.teams	fb:m.026p7n3	what are popular sports in spain	O O O O O I
+train-190	fb:m.0ftxw	indianapolis	fb:location.location.time_zones	fb:m.02hcv8	what timezone is indianapolis indiana in	O O O I O O
+train-191	fb:m.041rx	jewish	fb:people.ethnicity.languages_spoken	fb:m.02h40lc	what language do jewish speak	O O O I O
+train-192	fb:m.035qy	greece	fb:location.country.languages_spoken	fb:m.012v8	what kind of language do they speak in greece	O O O O O O O O I
+train-193	fb:m.0hsqf	seoul	fb:location.citytown.postal_codes	fb:m.0cvrg0c	what is the postcode for seoul south korea	O O O O O I O O
+train-194	fb:m.01ct6	baltimore ravens	fb:sports.sports_team.arena_stadium	fb:m.01yq7r	where do baltimore ravens play	O O I I O
+train-195	fb:m.05gpy	nathaniel hawthorne	fb:people.deceased_person.place_of_death	fb:m.01m96h	where did nathaniel hawthorne die	O O I I O
+train-196	fb:m.0m__z	galway	fb:travel.travel_destination.tourist_attractions	fb:m.01798p	what to see and do in galway ireland	O O O O O O I O
+train-197	fb:m.02rhm_l	fred davis	fb:people.person.profession	fb:m.02h665k	what did fred davis do	O O I I O
+train-198	fb:m.05bcl	northern ireland	fb:base.aareas.schema.administrative_area.administrative_parent	fb:m.07ssc	who does northern ireland belong to	O O I I O O
+train-199	fb:m.05tfm	pittsburgh steelers	fb:american_football.football_team.current_head_coach	fb:m.0c5f_j	what is the name of the pittsburgh steelers head coach	O O O O O O I I O O
+train-200	fb:m.02cts	daniel	fb:people.deceased_person.place_of_death	fb:m.01cyh	where did prophet daniel died	O O O I O
+train-201	fb:m.091f9c	sage stallone	fb:people.deceased_person.cause_of_death	fb:m.0gk4g	what was the cause of death for sage stallone	O O O O O O O I I
+train-202	fb:m.01lwx	charles darwin	fb:book.book_subject.works	fb:m.04t22yt	what is the work of charles darwin	O O O O O I I
+train-203	fb:m.013g3	alexandria	fb:base.biblioness.bibs_location.country	fb:m.02k54	where is alexandria located	O O I O
+train-204	fb:m.0d05w3	chinese	fb:location.country.official_language	fb:m.0653m	what language do chinese	O O O I
+train-205	fb:m.0k6nt	denmark	fb:location.country.languages_spoken	fb:m.02_8gp	what language does people from denmark speak	O O O O O I O
+train-206	fb:m.051cc	martin luther king	fb:people.person.parents	fb:m.04_wtm	what was the name of martin luther king jr parents	O O O O O I I I O O
+train-207	fb:m.0524v	mesopotamia	fb:location.location.containedby	fb:m.04wsz	where was the ancient region of mesopotamia	O O O O O O I
+train-208	fb:m.03l2n	houston	fb:travel.travel_destination.tourist_attractions	fb:m.01_nc_	what tourist attractions are in houston texas	O O O O O I O
+train-209	fb:m.0f2rq	dallas	fb:travel.travel_destination.tourist_attractions	fb:m.01phy6	what to see in dallas tx	O O O O I O
+train-210	fb:m.01gdlz	zack de la rocha	fb:people.person.nationality	fb:m.09c7w0	what nationality is zack de la rocha	O O O I I I I
+train-211	fb:m.01vs_v8	madonna	fb:music.composer.compositions	fb:m.0_5ydb_	what songs has madonna written	O O O I O
+train-212	fb:m.02h40lc	english	fb:language.human_language.countries_spoken_in	fb:m.0160w	where english is spoken in the world	O I O O O O O
+train-213	fb:m.0xn6	arabic alphabet	fb:language.language_writing_system.parent_writing_systems	fb:m.05gpzl	who invented arabic alphabet	O O I I
+train-214	fb:m.01kbrp	tibetan language	fb:language.language_writing_system.languages	fb:m.0148c4	what is tibetan language	O O I I
+train-215	fb:m.02vzgl	mitch hedberg	fb:people.deceased_person.cause_of_death	fb:m.02kp1qn	what drug did mitch hedberg overdose on	O O O I I O O
+train-216	fb:m.06mkj	spain	fb:location.country.capital	fb:m.056_y	what is the name of the capital of spain	O O O O O O O O I
+train-217	fb:m.0fhzy	zagreb	fb:base.aareas.schema.administrative_area.administrative_parent	fb:m.01pj7	where are you if you re in zagreb	O O O O O O O I
+train-218	fb:m.015v00	harriet beecher stowe	fb:book.author.works_written	fb:g.15dq1ytr	what did harriet beecher stowe do as an abolitionist	O O I I I O O O O
+train-219	fb:m.0r3tq	palm springs	fb:travel.travel_destination.tourist_attractions	fb:m.0358tp	what is there to do in palm springs	O O O O O O I I
+train-220	fb:m.0ff2k	roald dahl	fb:people.person.profession	fb:m.02xhgwq	what made roald dahl famous	O O I I O
+train-221	fb:m.0wmn	assyrians	fb:location.country.capital	fb:m.02wkmf	where is the capital city of assyrians	O O O O O O I
+train-222	fb:m.04rcr	metallica	fb:music.artist.origin	fb:m.030qb3t	where does the band metallica live	O O O O I O
+train-223	fb:m.015fr	brazil	fb:location.country.currency_used	fb:m.03385m	what type of money does brazil have	O O O O O I O
+train-224	fb:m.04ych	missouri	fb:government.governmental_jurisdiction.government_bodies	fb:m.02zxrn	what is the legislature of missouri called	O O O O O I O
+train-225	fb:m.05kyr	ottoman empire	fb:location.location.containedby	fb:m.01ffbn	where is the ottoman empire located	O O O I I O
+train-226	fb:m.05cgv	nigeria	fb:location.country.form_of_government	fb:m.01d9r3	what is the political system of nigeria	O O O O O O I
+train-227	fb:m.07cbs	thomas jefferson	fb:people.deceased_person.place_of_death	fb:m.0mp3l	where did thomas jefferson died	O O I I O
+train-228	fb:m.06mkj	spain	fb:location.country.official_language	fb:m.06nm1	what are the 3 official languages of spain	O O O O O O O I
+train-229	fb:m.0hzlz	south africa	fb:base.locations.countries.continent	fb:m.0dg3n1	what continent is south africa part of	O O O I I O O
+train-230	fb:m.049fb8r	wale	fb:music.artist.label	fb:m.01trtc	who was wale signed to	O O I O O
+train-231	fb:m.015fr	brazil	fb:location.country.currency_used	fb:m.03385m	what is the dollar called in brazil	O O O O O O I
+train-232	fb:m.0n0y5	chickasaw	fb:people.ethnicity.geographic_distribution	fb:m.05mph	where did chickasaw indians live	O O I O O
+train-233	fb:m.047sxrj	nicki minaj	fb:people.person.place_of_birth	fb:m.0gplfm	where was nicki minaj born	O O I I O
+train-234	fb:m.0c08y	saint joseph	fb:people.person.place_of_birth	fb:m.01cy_	where was saint joseph from	O O I I O
+train-235	fb:m.02p70bg	hurricane irene	fb:meteorology.tropical_cyclone.affected_areas	fb:m.0157g9	where did hurricane irene	O O I I
+train-236	fb:m.01p1v	chilean	fb:location.country.languages_spoken	fb:m.01y5tq	what does chilean people speak	O O I O O
+train-237	fb:m.0f8l9c	france	fb:sports.sports_team_location.teams	fb:m.01l3vx	what sports do people in france play	O O O O O I O
+train-238	fb:m.03ryn	indonesia	fb:location.country.languages_spoken	fb:m.01qzl2	what language do they speak in indonesia	O O O O O O I
+train-239	fb:m.09b6zr	george bush	fb:people.person.place_of_birth	fb:m.0f2nf	where is george bush from	O O I I O
+train-240	fb:m.050fh	manchester united	fb:sports.sports_team.previously_known_as	fb:m.05l1ffz	what was manchester united first name	O O I I O O
+train-241	fb:m.04nrnz	are people	fb:people.ethnicity.includes_groups	fb:m.03nvq	what ethnicity are people from iran	O O I I O O
+train-242	fb:m.0345h	germany	fb:travel.travel_destination.tourist_attractions	fb:m.012vvtp_	what are the best places to go in germany	O O O O O O O O I
+train-243	fb:m.0rqyx	clearwater	fb:location.location.nearby_airports	fb:m.03d2j65	what airport to fly into to get to clearwater florida	O O O O O O O O I O
+train-244	fb:m.04_4l	murray river	fb:location.location.containedby	fb:m.09pkq0	where the murray river located	O O I I O
+train-245	fb:m.0ddqw	princess leia	fb:fictional_universe.fictional_character.places_lived	fb:m.065lhy	what planet did princess leia call home	O O O I I O O
+train-246	fb:m.081k8	william shakespeare	fb:people.person.place_of_birth	fb:m.0g251	what country was william shakespeare born	O O O I I O
+train-247	fb:m.02ljb	edward jenner	fb:people.person.profession	fb:m.05t4q	what did edward jenner do for a living	O O I I O O O O
+train-248	fb:m.026fx	dale earnhardt	fb:people.deceased_person.cause_of_death	fb:m.06c7cpj	what exactly did dale earnhardt die from	O O O I I O O
+train-249	fb:m.06mzp	switzerland	fb:location.country.languages_spoken	fb:m.02bjrlw	what language do the speak in switzerland	O O O O O O I
+train-250	fb:m.03rjj	italy	fb:location.country.official_language	fb:m.02bjrlw	what are the major languages spoken in italy	O O O O O O O I
+train-251	fb:m.0by8vb	american red cross	fb:organization.organization.founders	fb:m.0bww9	who made the american red cross	O O O I I I
+train-252	fb:m.035qy	greece	fb:location.country.languages_spoken	fb:m.012v8	what is the major language spoken in greece	O O O O O O O I
+train-253	fb:m.05zjd	portuguese	fb:language.human_language.countries_spoken_in	fb:m.015fr	what countries do people speak portuguese	O O O O O I
+train-254	fb:m.01l0ty	tibetan people	fb:people.ethnicity.languages_spoken	fb:m.01kbdv	what do tibetan people speak	O O I I O
+train-255	fb:m.0hwfl	anna nicole smith	fb:people.deceased_person.cause_of_death	fb:m.01tf_6	what did anna nicole smith died from	O O I I I O O
+train-256	fb:m.09c7w0	us	fb:location.country.form_of_government	fb:m.01d9r3	what is the political system of the us	O O O O O O O I
+train-257	fb:m.012vkj	battle of new orleans	fb:time.event.locations	fb:m.01_gtcg	where did the battle of new orleans start	O O O I I I I O
+train-258	fb:m.02__x	florida marlins	fb:sports.sports_team.location	fb:m.03msbs	where did the florida marlins	O O O I I
+train-259	fb:m.06bkdx	kate spade	fb:people.person.place_of_birth	fb:m.04f_d	where is kate spade from	O O I I O
+train-260	fb:m.04_z1	madeira	fb:base.aareas.schema.administrative_area.administrative_parent	fb:m.05r4w	where is madeira	O O I
+train-261	fb:m.06bnz	russian	fb:location.country.currency_used	fb:m.01hy_q	what do you call russian currency	O O O O I O
+train-262	fb:m.09482	robert burns	fb:book.author.works_written	fb:m.027lmtz	what books did robert burns wrote	O O O I I O
+train-263	fb:m.01_rph	julian clary	fb:people.person.profession	fb:m.015cjr	what does julian clary do	O O I I O
+train-264	fb:m.010m5w	mount vernon	fb:location.hud_county_place.county	fb:m.0mnz0	where is mount vernon virginia	O O I I O
+train-265	fb:m.0d060g	canada	fb:location.country.currency_used	fb:m.0ptk_	what currency does ontario canada use	O O O O I O
+train-266	fb:m.018c_r	starbucks	fb:dining.restaurant.cuisine	fb:m.01_6hg	what does starbucks sell	O O I O
+train-267	fb:m.019fpj	diwali	fb:time.holiday.day_of_year	fb:m.04rc2q7	when is the diwali festival	O O O I O
+train-268	fb:m.0d6lp	san francisco	fb:travel.travel_destination.accommodation	fb:m.0283jp6	what hotel should i stay in san francisco	O O O O O O I I
+train-269	fb:m.07_pf	venice	fb:travel.travel_destination.tourist_attractions	fb:m.011zyz	what should i visit in venice	O O O O O I
+train-270	fb:m.03wnh	indianapolis colts	fb:american_football.football_team.current_head_coach	fb:m.03mbsxm	who is the head coach of the indianapolis colts	O O O O O O O I I
+train-271	fb:m.081k8	shakespeare	fb:people.person.parents	fb:m.01stsq	what is shakespeare 's parents names	O O I O O O
+train-272	fb:m.0198dl	seminole	fb:people.ethnicity.geographic_distribution	fb:m.05mph	where did the seminole native americans live	O O O I O O O
+train-273	fb:m.0d060g	canada	fb:location.country.form_of_government	fb:m.018wl5	what sort of government does canada have	O O O O O I O
+train-274	fb:m.02k54	egyptians	fb:location.country.languages_spoken	fb:m.012zfy	what language did the egyptians	O O O O I
+train-275	fb:m.0bkf4	bob marley	fb:people.deceased_person.place_of_burial	fb:m.0ggh7j1	where is bob marley grave	O O I I O
+train-276	fb:m.07bty	thomas edison	fb:people.person.profession	fb:m.012t_z	what is thomas edison 's most famous for	O O I I O O O O
+train-277	fb:m.06bnz	russian	fb:location.country.languages_spoken	fb:m.017dsl	what does russian people speak	O O I O O
+train-278	fb:m.02hwyss	turkish language	fb:language.human_language.language_family	fb:m.07d1d	what is the origin of the turkish language	O O O O O O I I
+train-279	fb:m.034m8	guyana	fb:location.country.languages_spoken	fb:m.026ztd1	what does guyana speak	O O I O
+train-280	fb:m.0wmn	assyrian	fb:location.location.containedby	fb:m.04wsz	where was the assyrian civilization located	O O O I O O
+train-281	fb:m.02__x	florida marlins	fb:sports.sports_team.location	fb:m.03msbs	where are the florida marlins from	O O O I I O
+train-282	fb:m.0gct_	henri matisse	fb:visual_art.visual_artist.associated_periods_or_movements	fb:m.015r61	what type of artwork did henri matisse produce	O O O O O I I O
+train-283	fb:m.03rp65	susan st james	fb:people.person.profession	fb:m.02hrh1q	who is susan st james	O O I I I
+train-284	fb:m.02z14n	anderson cooper	fb:people.person.profession	fb:m.015cjr	what does anderson cooper do	O O I I O
+train-285	fb:m.01znc_	turkey	fb:location.country.currency_used	fb:m.04dq0w	what currency does turkey accept	O O O I O
+train-286	fb:m.0j8cb	carolina hurricanes	fb:sports.sports_team.championships	fb:m.02d08dj	when did carolina hurricanes win the cup	O O I I O O O
+train-287	fb:m.02k54	egyptians	fb:location.country.languages_spoken	fb:m.012zfy	what did egyptians speak	O O I O
+train-288	fb:m.07hz1	tiberius	fb:people.person.place_of_birth	fb:m.06c62	where was emperor tiberius born	O O O I O
+train-289	fb:m.01xndd	jj abrams	fb:film.director.film	fb:m.05zysr7	what movies did jj abrams direct	O O O I I O
+train-290	fb:m.0lnfy	lagos	fb:location.location.time_zones	fb:m.02llzg	what is the current time in nigeria lagos	O O O O O O O I
+train-291	fb:m.055l1	mary	fb:people.person.religion	fb:m.0c8wxp	what religion is mary queen of scots	O O O I O O O
+train-292	fb:m.04g8d	laura bush	fb:people.person.place_of_birth	fb:m.013n2h	where did laura bush grow up	O O I I O O
+train-293	fb:m.03lht	the habsburg	fb:people.family.country	fb:m.016jz3	what did the habsburg family control	O O I I O O
+train-294	fb:m.01w32s8	james dean	fb:people.person.profession	fb:m.02hrh1q	who is james dean	O O I I
+train-295	fb:m.01snm	cincinnati	fb:location.location.time_zones	fb:m.02hcv8	what time zone is cincinnati oh in	O O O O I O O
+train-296	fb:m.0xff	arabic	fb:people.ethnicity.includes_groups	fb:m.02pfy17	what country do arabic people come from	O O O I O O O
+train-297	fb:m.01p1v	chile	fb:location.country.currency_used	fb:m.0172zs	what kind of money does chile use	O O O O O I O
+train-298	fb:m.01nw62	rottweiler	fb:base.petbreeds.dog_breed.color	fb:m.019sc	what does a american rottweiler look like	O O O O I O O
+train-299	fb:m.01lbp	carmen electra	fb:people.person.place_of_birth	fb:m.013jdh	where did carmen electra grow up	O O I I O O
+train-300	fb:m.0_ztb	atlanta	fb:location.hud_county_place.county	fb:m.0msb1	where is atlanta texas located	O O I O O
+train-301	fb:m.02s82	edward vi died	fb:people.deceased_person.cause_of_death	fb:m.07jwr	what did king edward vi died from	O O O I I I O
+train-302	fb:m.02k54	egyptian	fb:location.country.languages_spoken	fb:m.012zfy	what language do they speak in egyptian	O O O O O O I
+train-303	fb:m.0d05w3	china	fb:sports.sports_team_location.teams	fb:m.026p73l	what sports do they have in china	O O O O O O I
+train-304	fb:m.02k54	egyptians	fb:location.country.languages_spoken	fb:m.012zfy	what language does egyptians use	O O O I O
+train-305	fb:m.09b6t	kfc	fb:organization.organization.founders	fb:m.09b78	who was the owner of kfc	O O O O O I
+train-306	fb:m.03kpt	robert koch	fb:people.person.profession	fb:m.05t4q	what did robert koch do	O O I I O
+train-307	fb:m.07_m2	van gogh	fb:people.person.profession	fb:m.02nxqmh	what was van gogh famous for	O O I I O O
+train-308	fb:m.04093	jules verne	fb:book.author.book_editions_published	fb:m.04t__mt	what books did jules verne wright	O O O I I O
+train-309	fb:m.027xx3	santa clara university	fb:location.location.containedby	fb:m.01n7q	where is santa clara university	O O I I I
+train-310	fb:m.02dqgj	bella abzug	fb:people.person.profession	fb:m.02hrh1q	what did bella abzug do	O O I I O
+train-311	fb:m.0jmfb	houston rockets	fb:sports.sports_team.championships	fb:m.08x9cq	when did the houston rockets win the championship	O O O I I O O O
+train-312	fb:m.0chghy	australian	fb:location.country.languages_spoken	fb:m.02h40lc	what language do australian people speak	O O O I O O
+train-313	fb:m.0x2p	the braves	fb:sports.sports_team.team_mascot	fb:m.07vbb7	what is the braves mascot	O O I I O
+train-314	fb:m.01wdj_	auburn	fb:location.location.containedby	fb:m.06_g97h	where is university of auburn	O O O O I
+train-315	fb:m.059_w	native american	fb:people.ethnicity.languages_spoken	fb:m.02h40lc	what language do native american indians speak	O O O I I O O
+train-316	fb:m.03d9v8	shirley temple	fb:people.person.children	fb:m.028bpn9	what are shirley temple kids names	O O I I O O
+train-317	fb:m.0dd3q	matthias schleiden	fb:people.person.profession	fb:m.02h6p1f	what was matthias schleiden known for	O O I I O O
+train-318	fb:m.01xnj	monet	fb:influence.influence_node.influenced_by	fb:m.016s03	what inspired monet	O O I
+train-319	fb:m.01sl19	elizabeth ann seton	fb:people.person.place_of_birth	fb:m.02_286	where was st elizabeth ann seton born	O O O I I I O
+train-320	fb:m.01f492	alex rodriguez	fb:people.person.place_of_birth	fb:m.018z6h	where is alex rodriguez from	O O I I O
+train-321	fb:m.01n7q	california	fb:location.location.time_zones	fb:m.02lcqs	what is the time zone in california called	O O O O O O I O
+train-322	fb:m.01f62	barcelona	fb:travel.travel_destination.tourist_attractions	fb:m.01ggjl	what is there to see in barcelona	O O O O O O I
+train-323	fb:m.05g7q	nelson mandela	fb:people.person.religion	fb:m.051kv	what was nelson mandela 's religion	O O I I O O
+train-324	fb:m.07sz1	us supreme court	fb:law.court.jurisdiction	fb:m.09c7w0	what is the jurisdiction of the us supreme court	O O O O O O I I I
+train-325	fb:m.03rjj	italy	fb:location.country.official_language	fb:m.02bjrlw	what language does the country italy speak	O O O O O I O
+train-326	fb:m.0713r	what year did giants	fb:sports.sports_team.championships	fb:m.0117q3yz	what year did giants win world series	I I I I O O O
+train-327	fb:m.07f1x	thailand	fb:location.country.currency_used	fb:m.0mcb5	what kind of currency do they use in thailand	O O O O O O O O I
+train-328	fb:m.01fhry	john muir	fb:people.deceased_person.place_of_death	fb:m.030qb3t	where did john muir die	O O I I O
+train-329	fb:m.05b7q	north korea	fb:location.country.form_of_government	fb:m.01gt0n	what government system does north korea have	O O O O I I O
+train-330	fb:m.02k54	egypt	fb:location.country.currency_used	fb:m.04phzg	what currency do i need in egypt	O O O O O O I
+train-331	fb:m.0hz_1	michael j fox	fb:people.person.profession	fb:m.01d_h8	who was michael j fox	O O I I I
+train-332	fb:m.03m_h	hernando cortez	fb:people.deceased_person.place_of_death	fb:m.08hf27	where did hernando cortez die	O O I I O
+train-333	fb:m.02wt0	fiji	fb:location.country.official_language	fb:m.020gps	what language do fiji people speak	O O O I O O
+train-334	fb:m.05sb1	pakistani	fb:location.country.languages_spoken	fb:m.01hk9	what language do pakistani people talk	O O O I O O
+train-335	fb:m.0b90_r	mexico	fb:location.country.form_of_government	fb:m.01d9r3	what type of government does mexico use	O O O O O I O
+train-336	fb:m.03f3_p3	nina simone	fb:people.deceased_person.cause_of_death	fb:m.0j8hd	what happened to nina simone	O O O I I
+train-337	fb:m.04h9h	latin language	fb:language.human_language.language_family	fb:m.03t28	where the latin language come from	O O I I O O
+train-338	fb:m.0ky1	arthur conan doyle	fb:influence.influence_node.influenced_by	fb:m.01bdvj	who influenced arthur conan doyle	O O I I I
+train-339	fb:m.05cgv	nigeria	fb:location.country.form_of_government	fb:m.01d9r3	what system of government does nigeria have	O O O O O I O
+train-340	fb:m.01vw20h	jay z	fb:people.person.place_of_birth	fb:m.0cr3d	where jay z was raised	O I I O O
+train-341	fb:m.015fr	brazil	fb:location.country.currency_used	fb:m.03385m	what currency does brazil use	O O O I O
+train-342	fb:m.019fz	ben franklin	fb:people.person.place_of_birth	fb:m.01cx_	where was ben franklin born	O O I I O
+train-343	fb:m.06yyp	sikhism	fb:religion.religion.beliefs	fb:m.017kx3	what are the basic beliefs of sikhism	O O O O O O I
+train-344	fb:m.0hfwb	lance armstrong	fb:people.person.place_of_birth	fb:m.013m4v	where was lance armstrong born and in what year	O O I I O O O O O
+train-345	fb:m.01pwz	christopher columbus	fb:people.person.nationality	fb:m.02q14r	what country christopher columbus from	O O I I O
+train-346	fb:m.0ply0	orlando	fb:travel.travel_destination.tourist_attractions	fb:m.011cgl9q	where to visit in orlando florida	O O O O I O
+train-347	fb:m.05vz3zq	soviet union	fb:location.country.form_of_government	fb:m.01fkst	what kind of economy was the soviet union	O O O O O O I I
+train-348	fb:m.0j5b8	napoleon	fb:people.deceased_person.place_of_burial	fb:m.0gxqj	where is napoleon buried	O O I O
+train-349	fb:m.01wdl3	university of alabama	fb:location.location.containedby	fb:m.09c7w0	where is the university of alabama	O O O I I I
+train-350	fb:m.03x42	irish language	fb:language.human_language.main_country	fb:m.03rt9	which country does irish language come from	O O O I I O O
+train-351	fb:m.0jhd	azerbaijan	fb:base.locations.countries.continent	fb:m.02qkt	where is azerbaijan	O O I
+train-352	fb:m.07f1x	thailand	fb:location.country.languages_spoken	fb:m.011ln5	what language do they speak thailand	O O O O O I
+train-353	fb:m.07ssc	uk	fb:location.country.currency_used	fb:m.01nv4h	what kind of money does the uk use	O O O O O O I O
+train-354	fb:m.01v9724	charles dickens	fb:book.author.book_editions_published	fb:m.028x_z3	what did charles dickens writer	O O I I O
+train-355	fb:m.04jpl	london	fb:travel.travel_destination.tourist_attractions	fb:m.012vvtp_	what should you see in london	O O O O O I
+train-356	fb:m.0345h	germany	fb:travel.travel_destination.tourist_attractions	fb:m.012vvtp_	what are some famous tourist attractions in germany	O O O O O O O I
+train-357	fb:m.02ql6bk	ronnie radke	fb:people.person.profession	fb:m.016z4k	what did ronnie radke do	O O I I O
+train-358	fb:m.027rn	dominican republic	fb:location.country.capital	fb:m.0fthl	what is the dominican republic 's capital	O O O I I O O
+train-359	fb:m.0387r	google	fb:law.invention.inventor	fb:m.0gjpq	who started google	O O I
+train-360	fb:m.07ssc	uk	fb:location.location.time_zones	fb:m.03bdv	what is the time zone in uk now	O O O O O O I O
+train-361	fb:m.03gj2	hungary	fb:location.country.currency_used	fb:m.01hfll	what currency is used in hungary	O O O O O I
+train-362	fb:m.02zg0	frederick douglass	fb:people.person.profession	fb:m.016fc2	what were frederick douglass achievements	O O I I O
+train-363	fb:m.0hz_1	michael j fox	fb:medicine.notable_person_with_medical_condition.condition	fb:m.0g02vk	what condition does michael j fox have	O O O I I I O
+train-364	fb:m.01s21dg	john mayer	fb:music.guitarist.guitars_played	fb:m.02m873	what type of guitar does john mayer play	O O O O O I I O
+train-365	fb:m.09889g	michael jackson	fb:influence.influence_node.influenced_by	fb:m.01b9db	who influenced michael jackson	O O I I
+train-366	fb:m.0x2p	atlanta braves	fb:sports.sports_team.team_mascot	fb:m.07vbb7	what is the atlanta braves mascot	O O O I I O
+train-367	fb:m.03_r3	jamaican	fb:location.country.languages_spoken	fb:m.01428y	what jamaican language called	O I O O
+train-368	fb:m.09b6zr	w	fb:people.person.profession	fb:m.012t_z	what job did george w bush have	O O O O I O O
+train-369	fb:m.06mkj	spain	fb:location.country.official_language	fb:m.06nm1	what language do they speak in spain wikipedia	O O O O O O I O
+train-370	fb:m.0146pz	john williams	fb:music.group_member.instruments_played	fb:m.0342h	what did john williams play	O O I I O
+train-371	fb:m.0160w	bahamas	fb:location.country.form_of_government	fb:m.018wl5	what type of government does the bahamas	O O O O O O I
+train-372	fb:m.06mt91	rihanna	fb:music.artist.origin	fb:m.0162v	where did rihanna come from	O O I O O
+train-373	fb:m.013yq	atlanta	fb:olympics.olympic_host_city.olympics_hosted	fb:m.0jhn7	what is atlanta ga famous for	O O I O O O
+train-374	fb:m.03ppx	helen keller	fb:people.deceased_person.place_of_death	fb:m.0rd55	where did helen keller die	O O I I O
+train-375	fb:m.0289q	denver broncos	fb:sports.sports_team.arena_stadium	fb:m.02hxv8	where is the denver broncos stadium located	O O O I I O O
+train-376	fb:m.01d6g	baltimore orioles	fb:sports.sports_team.championships	fb:m.046_p6	when did baltimore orioles win the world series	O O I I O O O O
+train-377	fb:m.06c97	president nixon	fb:people.person.place_of_birth	fb:m.0r2rk	where president nixon was born	O I I O O
+train-378	fb:m.060nc	saint paul	fb:people.person.place_of_birth	fb:m.03kcs9	where was saint paul from	O O I I O
+train-379	fb:m.02_286	new york	fb:travel.travel_destination.tourist_attractions	fb:m.0_ymbw6	what are some places to visit in new york	O O O O O O O I I
+train-380	fb:m.0b90_r	mexico	fb:location.country.currency_used	fb:m.012ts8	what kind of currency to bring to mexico	O O O O O O O I
+train-381	fb:m.01y49	cincinnati bengals	fb:american_football.football_team.division	fb:m.068gzd	what division is cincinnati bengals in	O O O I I O
+train-382	fb:m.03v0t	illinois	fb:location.location.time_zones	fb:m.02fqwt	what timezone is illinois on	O O O I O
+train-383	fb:m.03h64	hong kong	fb:travel.travel_destination.tourist_attractions	fb:m.0180rz	what to do in hong kong for a week	O O O O I I O O O
+train-384	fb:m.0k70	alexander graham bell	fb:user.lindenb.default_domain.scientist.known_for	fb:m.07cx4	what was alexander graham bell known for	O O I I I O O
+train-385	fb:m.0403d	johannes kepler	fb:people.person.profession	fb:m.025rxky	what did johannes kepler accomplish	O O I I O
+train-386	fb:m.01mlkv5	frankie lymon	fb:people.deceased_person.cause_of_death	fb:m.02kp1qn	what did frankie lymon die from	O O I I O O
+train-387	fb:m.07_nf	vietnam war	fb:time.event.locations	fb:m.01crd5	where was the vietnam war located	O O O I I O
+train-388	fb:m.0jdd	afghanistan	fb:location.country.currency_used	fb:m.019vxc	what is afghanistan money called	O O I O O
+train-389	fb:m.03gyl	haitian	fb:location.country.languages_spoken	fb:m.02dhwl	what language do haitian speak	O O O I O
+train-390	fb:m.05mph	oklahoma	fb:location.location.time_zones	fb:m.02fqwt	what time zone is oklahoma state	O O O O I O
+train-391	fb:m.02l6h	euro	fb:finance.currency.countries_used	fb:m.014mxp	what countries use the euro as official currency	O O O O I O O O
+train-392	fb:m.06n8j	sarajevo	fb:location.location.containedby	fb:m.0166b	where is sarajevo located	O O I O
+train-393	fb:m.02wd48	alan thicke	fb:music.composer.compositions	fb:m.0_jvj26	what theme songs did alan thicke wrote	O O O O I I O
+train-394	fb:m.02896	dallas cowboys	fb:sports.sports_team.championships	fb:m.076n1	what years have the dallas cowboys won the superbowl	O O O O I I O O O
+train-395	fb:m.03f2h01	malcolm x	fb:base.activism.activist.area_of_activism	fb:m.074v_1j	what was malcolm x trying to accomplish	O O I I O O O
+train-396	fb:m.0d0vqn	sweden	fb:location.country.currency_used	fb:m.0485n	what is the currency of sweden called	O O O O O I O
+train-397	fb:m.09c7w0	united states of america	fb:location.country.form_of_government	fb:m.01d9r3	what system of government is used in the united states of america	O O O O O O O O I I I I
+train-398	fb:m.0f1bg	luke skywalker	fb:fictional_universe.fictional_character.places_lived	fb:m.0kcq0	what planet was luke skywalker raised on	O O O I I O O
+train-399	fb:m.07_m2	inspired van gogh	fb:influence.influence_node.influenced_by	fb:m.016s03	what inspired van gogh work	O I I I O
+train-400	fb:m.01vvm4	nicolaus copernicus	fb:people.person.profession	fb:m.04s2z	what was nicolaus copernicus occupation	O O I I O
+train-401	fb:m.0b7nrg	jessica ennis	fb:people.person.profession	fb:m.059846g	what is jessica ennis sport	O O I I O
+train-402	fb:m.02wt0	fiji	fb:location.country.official_language	fb:m.020gps	what language does fiji	O O O I
+train-403	fb:m.01z4fn	american federation of labor	fb:organization.organization.founders	fb:m.01w91b	who founded the american federation of labor afl in 1886	O O O I I I I O O O
+train-404	fb:m.042tq	jackson	fb:location.hud_county_place.county	fb:m.043z0	what county is jackson michigan in	O O O I O O
+train-405	fb:m.03rjj	italy	fb:location.country.official_language	fb:m.02bjrlw	what are the major languages of italy	O O O O O O I
+train-406	fb:m.024y6w	jane mansfield	fb:people.deceased_person.place_of_death	fb:m.0tmsj	where did jane mansfield die	O O I I O
+train-407	fb:m.0d060g	canada	fb:location.country.form_of_government	fb:m.018wl5	what kind of government system does canada have	O O O O O O I O
+train-408	fb:m.0fk39	lakota	fb:people.ethnicity.languages_spoken	fb:m.02h40lc	what language do lakota indians speak	O O O I O O
+train-409	fb:m.05l8fk	aviano air force base	fb:location.location.containedby	fb:m.03rjj	where is aviano air force base located	O O I I I I O
+train-410	fb:m.02h40lc	english	fb:language.human_language.main_country	fb:m.014tss	which countries have english as native language	O O O I O O O
+train-411	fb:m.04vn5	miami dolphins	fb:sports.sports_team.championships	fb:m.076nd	when did miami dolphins win super bowl	O O I I O O O
+train-412	fb:m.0jll4	jacob riis	fb:book.author.works_written	fb:m.0bqr25v	what book did jacob riis wrote	O O O I I O
+train-413	fb:m.035dk	ghana	fb:location.country.official_language	fb:m.02h40lc	what language do the people in ghana speak	O O O O O O I O
+train-414	fb:m.035qy	greece	fb:location.country.currency_used	fb:m.02l6h	what kind of currency does greece have	O O O O O I O
+train-415	fb:m.0bt6kc	martin cooper	fb:people.person.place_of_birth	fb:m.01_d4	where was martin cooper from	O O I I O
+train-416	fb:m.04093	jules verne	fb:book.author.book_editions_published	fb:m.04t__mt	what other books did jules verne wrote	O O O O I I O
+train-417	fb:m.01qyy3	duane allman	fb:music.guitarist.guitars_played	fb:m.02j9dp	what guitar does duane allman play	O O O I I O
+train-418	fb:m.02ncr	eli whitney	fb:law.inventor.inventions	fb:m.01ng1x	what did eli whitney invented	O O I I O
+train-419	fb:m.0f04c	palo alto	fb:travel.travel_destination.tourist_attractions	fb:m.029fr3	what to do in palo alto ca with kids	O O O O I I O O O
+train-420	fb:m.03_3d	japan	fb:location.location.time_zones	fb:m.019rdm	what time is it in japan 24 hour clock	O O O O O I O O O
+train-421	fb:m.020bkmh	laughlin	fb:location.location.contains	fb:m.092v_6	what to do in laughlin nevada	O O O O I O
+train-422	fb:m.02ncr	eli whitney	fb:people.person.nationality	fb:m.09c7w0	what was eli whitney nationality	O O I I O
+train-423	fb:m.03gj2	hungary	fb:location.country.currency_used	fb:m.01hfll	what currency does hungary have	O O O I O
+train-424	fb:m.0chghy	australia	fb:location.country.languages_spoken	fb:m.02h40lc	what language do the people speak in australia	O O O O O O O I
+train-425	fb:m.05qqm	polish	fb:base.rosetta.languoid.parent	fb:m.013bdx	what language group does polish belong to	O O O O I O O
+train-426	fb:m.04306rv	german	fb:language.human_language.countries_spoken_in	fb:m.0154j	what countries in the world speak german	O O O O O O I
+train-427	fb:m.034ks	galileo galilei	fb:people.person.profession	fb:m.025rxky	who is galileo galilei and what is he famous for	O O I I O O O O O O
+train-428	fb:m.06rkl	sherlock holmes	fb:fictional_universe.fictional_character.character_created_by	fb:m.0ky1	who created the character of sherlock holmes	O O O O O I I
+train-429	fb:m.02phnp7	cam newton	fb:american_football.football_player.position_s	fb:m.06b1q	what did cam newton do	O O I I O
+train-430	fb:m.01znc_	turkey	fb:location.country.currency_used	fb:m.04dq0w	what currency to take to side turkey	O O O O O O I
+train-431	fb:m.0rqyx	clearwater	fb:location.hud_county_place.county	fb:m.0jxgx	what county is clearwater fl in	O O O I O O
+train-432	fb:m.0lyj0	appalachian trail	fb:location.location.containedby	fb:m.02jwvm	where does the appalachian trail run through	O O O I I O O
+train-433	fb:m.084l5	the nfl redskins	fb:sports.sports_team.location	fb:m.0rh6k	where are the nfl redskins from	O O I I I O
+train-434	fb:m.015jr	british columbia	fb:base.aareas.schema.administrative_area.administrative_area_type	fb:m.0hzcdlq	what is british columbia	O O I I
+train-435	fb:m.02khkd	jesse james	fb:people.deceased_person.place_of_death	fb:m.0135p7	where did jesse james die	O O I I O
+train-436	fb:m.04n32	louis armstrong	fb:music.group_member.instruments_played	fb:m.020w2	what instrument did louis armstrong like to play	O O O I I O O O
+train-437	fb:m.06cmp	roman empire	fb:location.location.contains	fb:g.120phpf9	what does the roman empire consist of	O O O I I O O
+train-438	fb:m.01np2lh	tommy steele	fb:people.person.place_of_birth	fb:m.0n8y8	where was tommy steele born	O O I I O
+train-439	fb:m.01_d4	chicago	fb:travel.travel_destination.tourist_attractions	fb:m.01dlzc	where to hang out in chicago	O O O O O I
+train-440	fb:m.0g52g	potomac river	fb:geography.river.mouth	fb:m.0g66h	where does the potomac river flow into	O O O I I O O
+train-441	fb:m.06f32	taiwan	fb:location.country.languages_spoken	fb:m.03115z	what does taiwan people speak	O O I O O
+train-442	fb:m.064_8sq	french	fb:language.human_language.countries_spoken_in	fb:m.0154j	what countries around the world speak french	O O O O O O I
+train-443	fb:m.0my97	canadian county	fb:location.location.containedby	fb:m.05mph	where is canadian county oklahoma	O O I I O
+train-444	fb:m.06cmp	roman empire	fb:location.country.capital	fb:m.01q0l	where was the roman empire centered	O O O I I O
+train-445	fb:m.04cxw5b	oklahoma city thunder	fb:sports.sports_team.arena_stadium	fb:m.05p8g6	where does the oklahoma city thunder practice	O O O I I I O
+train-446	fb:m.0r0f7	inglewood	fb:location.citytown.postal_codes	fb:m.01zg2_k	what is the zip code for inglewood california	O O O O O O I O
+train-447	fb:m.02lk95	tim mcgraw	fb:people.person.place_of_birth	fb:m.0tl_z	where did tim mcgraw grew up	O O I I O O
+train-448	fb:m.0r87z	moorpark	fb:location.citytown.postal_codes	fb:m.01zjg2j	what is the zip code for moorpark ca	O O O O O O I O
+train-449	fb:m.0d3k14	john f kennedy	fb:government.us_president.vice_president	fb:m.0f7fy	who was sworn into office when john f kennedy was assassinated	O O O O O O I I I O O
+train-450	fb:m.039c5	gregor mendel	fb:people.person.profession	fb:m.0266rh	what was gregor mendel known for	O O I I O O
+train-451	fb:m.042w00	carter g woodson	fb:people.person.profession	fb:m.03jgz	what did dr carter g woodson do	O O O I I I O
+train-452	fb:m.06g98	roger bacon	fb:law.inventor.inventions	fb:m.030c3d	who is roger bacon inventor of	O O I I O O
+train-453	fb:m.09bg4l	harry truman	fb:people.deceased_person.place_of_death	fb:m.04f_d	where did harry truman die	O O I I O
+train-454	fb:m.0c6qh	brad pitt	fb:people.person.place_of_birth	fb:m.0z9lj	where was brad pitt born	O O I I O
+train-455	fb:m.01gmkg	icelandic	fb:language.human_language.language_family	fb:m.0140kd	what does icelandic sound like	O O I O O
+train-456	fb:m.01f62	barcelona	fb:travel.travel_destination.tourist_attractions	fb:m.01ggjl	what are some places to visit in barcelona	O O O O O O O I
+train-457	fb:m.0jmk7	the lakers	fb:sports.sports_team.championships	fb:m.04gg8b0	when did the lakers win the championship	O O I I O O O
+train-458	fb:m.0j6tr	toronto maple leafs	fb:sports.professional_sports_team.owner_s	fb:m.06p05l	who owns the toronto maple leafs	O O O I I I
+train-459	fb:m.01mjq	czech republic	fb:location.country.form_of_government	fb:m.0glnsx	what form of government does czech republic have	O O O O O I I O
+train-460	fb:m.0flw86	islam	fb:religion.religion.beliefs	fb:m.019vqj	what are the basic beliefs of islam religion	O O O O O O I O
+train-461	fb:m.0dl4g	battle of verdun	fb:time.event.locations	fb:m.0ny95	where was the battle of verdun held	O O O I I I O
+train-462	fb:m.03_r3	jamaica	fb:location.country.official_language	fb:m.01428y	what is the dominant language of jamaica	O O O O O O I
+train-463	fb:m.0rjvf	port charlotte	fb:location.hud_county_place.county	fb:m.0jgk_	where is port charlotte florida located	O O I I O O
+train-464	fb:m.064t69	tommy emmanuel	fb:people.person.place_of_birth	fb:m.04c1fr	where is tommy emmanuel from	O O I I O
+train-465	fb:m.07c5fv	university of west alabama	fb:location.location.containedby	fb:m.09c7w0	where is the university of west alabama located	O O O I I I I O
+train-466	fb:m.01crd5	vietnam	fb:location.country.form_of_government	fb:m.01fkst	what kind of government does vietnam have	O O O O O I O
+train-467	fb:m.09889g	michael jackson	fb:people.person.children	fb:m.0598rm4	what are the names of michael jackson children	O O O O O I I O
+train-468	fb:m.0jm2v	miami heat	fb:sports.sports_team.championships	fb:m.0bq7g4	what year did miami heat win the championship	O O O I I O O O
+train-469	fb:m.01vsy3q	jimi hendrix	fb:people.person.profession	fb:m.012qdp	what made jimi hendrix great	O O I I O
+train-470	fb:m.01vvm4	nicolaus copernicus	fb:base.argumentmaps.innovator.original_ideas	fb:m.01kf8z	what was nicolaus copernicus discovery	O O I I O
+train-471	fb:m.0db0x	paul revere	fb:people.person.parents	fb:m.0qd6j_b	who are paul revere 's parents	O O I I O O
+train-472	fb:m.0v7_g	okemos	fb:location.hud_county_place.county	fb:m.0njlp	where is okemos michigan	O O I O
+train-473	fb:m.03rjj	italy	fb:location.country.form_of_government	fb:m.01fpfn	what type of legal system does italy have	O O O O O O I O
+train-474	fb:m.09889g	michael jackson	fb:people.deceased_person.cause_of_death	fb:m.0gg4h	what was the cause of death of michael jackson	O O O O O O O I I
+train-475	fb:m.09d89qd	joe mcelderry	fb:award.competitor.competitions_won	fb:m.06wcg5g	when did joe mcelderry won x factor	O O I I O O O
+train-476	fb:m.09_xn	salvador dali	fb:visual_art.visual_artist.art_forms	fb:m.02csf	what style of art is salvador dali	O O O O O I I
+train-477	fb:m.07f1x	thailand	fb:location.country.currency_used	fb:m.0mcb5	what currency should you take to thailand	O O O O O O I
+train-478	fb:m.0d060g	canada	fb:location.country.currency_used	fb:m.0ptk_	what money currency does canada use	O O O O I O
+train-479	fb:m.086qd	whitney houston	fb:people.deceased_person.cause_of_death	fb:m.01g27f	what killed whitney houston	O O I I
+train-480	fb:m.027b7y9	bella	fb:fictional_universe.fictional_character.children	fb:m.04gk8n0	what bella name her baby	O I O O O
+train-481	fb:m.06vvk	summer olympics	fb:time.recurring_event.instances	fb:m.0130xg	when are the summer olympics held	O O O I I O
+train-482	fb:m.06mkj	spain	fb:location.country.form_of_government	fb:m.018wl5	what kind of government does spain have now	O O O O O I O O
+train-483	fb:m.0sch1	troy	fb:location.hud_county_place.county	fb:m.0nv99	what county is troy il in	O O O I O O
+train-484	fb:m.0pwb	abraham	fb:people.deceased_person.place_of_burial	fb:m.0jxp0	where was abraham buried	O O I O
+train-485	fb:m.015fr	brazil	fb:location.country.currency_used	fb:m.03385m	what is the currency name of brazil	O O O O O O I
+train-486	fb:m.019fz	benjamin franklin	fb:base.argumentmaps.innovator.original_ideas	fb:m.029mmz	what was one thing benjamin franklin is famous for	O O O O I I O O O
+train-487	fb:m.0k5tb	patrick henry	fb:people.person.place_of_birth	fb:m.0mns1	where did patrick henry live	O O I I O
+train-488	fb:m.0c8dk	vasco da gama	fb:people.person.nationality	fb:m.01hk04	what country did vasco da gama come from	O O O I I I O O
+train-489	fb:m.0c065	henry hudson	fb:people.person.place_of_birth	fb:m.02jx1	where did henry hudson come from	O O I I O O
+train-490	fb:m.06c0j	did reagan	fb:people.deceased_person.place_of_death	fb:m.026z1h	where did reagan die	O I I O
+train-491	fb:m.01kyn0	corey haim	fb:people.deceased_person.cause_of_death	fb:m.01tf_6	what did corey haim really die of	O O I I O O O
+train-492	fb:m.03shp	iran	fb:location.country.form_of_government	fb:m.018wl5	what kind of government iran have	O O O O I O
+train-493	fb:m.078bz	syracuse university	fb:location.location.containedby	fb:m.059rby	where is the syracuse university	O O O I I
+train-494	fb:m.07t21	ukraine	fb:location.country.currency_used	fb:m.035qkb	what money is used in ukraine	O O O O O I
+train-495	fb:m.01pwz	christopher columbus	fb:people.person.place_of_birth	fb:m.0hknf	where christopher columbus was born	O I I O O
+train-496	fb:m.02xmb	federal reserve	fb:organization.organization.founders	fb:m.02yy8	who started the federal reserve board	O O O I I O
+train-497	fb:m.07z1m	virginia	fb:location.location.time_zones	fb:m.02_37z	what timezone is virginia in	O O O I O
+train-498	fb:m.015fr	brazil	fb:location.location.time_zones	fb:m.0jy1pqp	what is brazil time zone	O O I O O
+train-499	fb:m.04jpl	london	fb:location.citytown.postal_codes	fb:m.09rzxp9	what is the postcode for london	O O O O O I
+train-500	fb:m.02c81m	niles crane	fb:fictional_universe.fictional_character.places_lived	fb:m.0d9jr	where does niles crane live	O O I I O
+train-501	fb:m.07b69	scott joplin	fb:music.artist.genre	fb:m.06m6j	what type of music was scott joplin noted for	O O O O O I I O O
+train-502	fb:m.0lylw	sir donald bradman	fb:people.person.place_of_birth	fb:m.04_356	where did sir donald bradman live	O O I I I O
+train-503	fb:m.0rmwd	bradenton	fb:location.hud_county_place.county	fb:m.0jrmq	what county is bradenton fl located in	O O O I O O O
+train-504	fb:m.019fz	benjamin franklin	fb:book.author.works_written	fb:m.01zwbg	what famous book did benjamin franklin wrote	O O O O I I O
+train-505	fb:m.03rj0	iceland	fb:location.country.languages_spoken	fb:m.01gmkg	what do they speak iceland	O O O O I
+train-506	fb:m.01yjl	chicago cubs	fb:sports.sports_team.arena_stadium	fb:m.066by2	where do the chicago cubs play	O O O I I O
+train-507	fb:m.01ydhd	bob barker	fb:people.person.place_of_birth	fb:m.010th_	where did bob barker grow up	O O I I O O
+train-508	fb:m.0f4vbz	angelina jolie	fb:film.director.film	fb:m.011q46b6	what movie is angelina jolie directing	O O O I I O
+train-509	fb:m.07hyk	theodore roosevelt	fb:government.us_president.vice_president	fb:m.0myr7	who was theodore roosevelt 's vice president	O O I I O O O
+train-510	fb:m.0107qn	fort stockton	fb:location.citytown.postal_codes	fb:m.0211sw9	what is the zip code for fort stockton texas	O O O O O O I I O
+train-511	fb:m.01v9724	charles dickens	fb:influence.influence_node.influenced_by	fb:m.01gr2w	what writers influenced charles dickens	O O O I I
+train-512	fb:m.064t69	tommy emmanuel	fb:people.person.place_of_birth	fb:m.04c1fr	where was tommy emmanuel born	O O I I O
+train-513	fb:m.05qx1	panama	fb:location.country.currency_used	fb:m.0200cp	what is currency in panama	O O O O I
+train-514	fb:m.045m1_	jesus	fb:people.person.place_of_birth	fb:m.065sh7	where was jesus born and raised	O O I O O O
+train-515	fb:m.0k33p	birmingham	fb:travel.travel_destination.tourist_attractions	fb:m.01ynw8	what to do today in birmingham uk	O O O O O I O
+train-516	fb:m.0697s	qatar	fb:location.country.currency_used	fb:m.05lf7w	what currency do they use in qatar	O O O O O O I
+train-517	fb:m.0d3k14	was kennedy	fb:people.deceased_person.place_of_death	fb:m.0f2rq	where was kennedy when he got shot	O I I O O O O
+train-518	fb:m.0jdd	afghanistan	fb:location.country.languages_spoken	fb:m.02hwl5z	what language people speak in afghanistan	O O O O O I
+train-519	fb:m.0d6lp	san francisco	fb:travel.travel_destination.accommodation	fb:m.0283jp6	where to stay in san francisco ca	O O O O I I O
+train-520	fb:m.01brc5	harvey milk	fb:user.alexander.misc.murdered_person.murdered_by	fb:m.02dzj8	who killed harvey milk	O O I I
+train-521	fb:m.0hzlz	south africa	fb:base.locations.countries.continent	fb:m.0dg3n1	what part of the world is south africa in	O O O O O O I I O
+train-522	fb:m.0mddq	w.e.b. dubois	fb:book.author.book_editions_published	fb:m.04txj55	what book did w.e.b. dubois wrote	O O O I I O
+train-523	fb:m.0kc6	andy warhol	fb:influence.influence_node.influenced_by	fb:m.014dq7	what influenced andy warhol 's work	O O I I O O
+train-524	fb:m.0c8wxp	catholics	fb:religion.religion.deities	fb:m.03qsc	what do catholics call their god	O O I O O O
+train-525	fb:m.0h7x	austria	fb:location.country.languages_spoken	fb:m.0140n_	what do they speak in austria	O O O O O I
+train-526	fb:m.05mcjs	julian fellowes	fb:book.author.works_written	fb:m.04t4zhj	what did julian fellowes write	O O I I O
+train-527	fb:m.081t6	after harding	fb:government.us_president.vice_president	fb:m.01vbl	who became president after harding died	O O O I I O
+train-528	fb:m.03v_5	ithaca	fb:location.location.nearby_airports	fb:m.01vs0p	what airport is closest to ithaca ny	O O O O O I O
+train-529	fb:m.082db	wolfgang amadeus mozart	fb:influence.influence_node.influenced_by	fb:m.014t6l	who influenced wolfgang amadeus mozart	O O I I I
+train-530	fb:m.0rhg5	panama city beach	fb:travel.travel_destination.tourist_attractions	fb:m.02q0c5g	what to do in panama city beach fl	O O O O I I I O
+train-531	fb:m.01kv93	staffordshire	fb:biology.animal_breed.breed_of	fb:m.0bt9lr	what are american staffordshire terriers	O O O I O
+train-532	fb:m.09c7w0	united states	fb:location.country.form_of_government	fb:m.01d9r3	what type of government and economic system does the united states have	O O O O O O O O O I I O
+train-533	fb:m.015fr	brazil	fb:location.country.languages_spoken	fb:m.02bjrlw	what language do they speak brazil	O O O O O I
+train-534	fb:m.0hzlz	south africa	fb:location.country.form_of_government	fb:m.0c9rw5	what is the political system in south africa	O O O O O O I I
+train-535	fb:m.01rxqd	mike huckabee	fb:music.group_member.instruments_played	fb:m.018vs	what instrument does mike huckabee play	O O O I I O
+train-536	fb:m.03_r3	jamaica	fb:location.country.official_language	fb:m.01428y	what is the major language of jamaica	O O O O O O I
+train-537	fb:m.0m_dt	the shannon	fb:geography.river.mouth	fb:m.02py6xf	where does the shannon river end	O O I I O O
+train-538	fb:m.0x2p	atlanta braves	fb:sports.sports_team.arena_stadium	fb:m.020fp1	where does the atlanta braves play	O O O I I O
+train-539	fb:m.03shp	iran	fb:location.country.languages_spoken	fb:m.01bcw_	what do they speak in iran	O O O O O I
+train-540	fb:m.02b9g4	ryan seacrest	fb:people.person.profession	fb:m.015cjr	what is ryan seacrest famous for	O O I I O O
+train-541	fb:m.06c62	rome	fb:symbols.namesake.named_after	fb:m.0ghqr	what does the name rome mean	O O O O I O
+train-542	fb:m.0cqt41	new york yankees	fb:sports.sports_team.championships	fb:m.04j70r	in what years did the new york yankees win the world series	O O O O O I I I O O O O
+train-543	fb:m.027rn	dominican republic	fb:location.country.currency_used	fb:m.04lt7_	what is currency in dominican republic	O O O O I I
+train-544	fb:m.0hp3n	pavlova	fb:food.dish.cuisine	fb:m.04bf68	where did pavlova originate	O O I O
+train-545	fb:m.0kk9v	pixar	fb:organization.organization.founders	fb:m.017h4c	who started pixar	O O I
+train-546	fb:m.027rn	dominican republic	fb:location.country.currency_used	fb:m.04lt7_	what is the local currency in the dominican republic	O O O O O O O I I
+train-547	fb:m.0bdlj	duke ellington	fb:people.person.profession	fb:m.01c72t	what did duke ellington do	O O I I O
+train-548	fb:m.06mt91	rihanna	fb:people.person.ethnicity	fb:m.09c8kp	where is rihanna from ethnically	O O I O O
+train-549	fb:m.0gzh	abe lincoln	fb:user.alexander.misc.murdered_person.murder_method	fb:m.034qg	what was abe lincoln shot with	O O I I O O
+train-550	fb:m.015m2c	annie leibovitz	fb:people.person.profession	fb:m.03hz6vv	what does annie leibovitz do	O O I I O
+train-551	fb:m.0k6nt	where is danish	fb:base.locations.countries.continent	fb:m.02j9z	where is danish located	I I I O
+train-552	fb:m.06yxd	south carolina	fb:base.aareas.schema.administrative_area.administrative_parent	fb:m.09c7w0	where is south carolina located	O O I I O
+train-553	fb:m.02xry	florida	fb:travel.travel_destination.tourist_attractions	fb:m.02zjt1	where to go in florida for vacation	O O O O I O O
+train-554	fb:m.050l8	montana	fb:base.aareas.schema.administrative_area.capital	fb:m.0fvxg	what is the capital city of montana usa	O O O O O O I O
+train-555	fb:m.0cqt41	yankees	fb:sports.sports_team.championships	fb:m.04j70r	what years did the yankees win the championship	O O O O I O O O
+train-556	fb:m.059g4	north america	fb:location.location.containedby	fb:m.05k3k	what region of the world is north america in	O O O O O O I I O
+train-557	fb:m.0tfc	adam smith	fb:people.person.place_of_birth	fb:m.01zrs_	where is adam smith from	O O I I O
+train-558	fb:m.01mjq	czech republic	fb:location.country.languages_spoken	fb:m.012psb	what language do people in czech republic speak	O O O O O I I O
+train-559	fb:m.01n4w	colorado	fb:location.location.time_zones	fb:m.02hczc	what timezone is colorado in	O O O I O
+train-560	fb:m.0wsr	atlanta falcons	fb:sports.sports_team.location	fb:m.013yq	where are the atlanta falcons located	O O O I I O
+train-561	fb:m.0psgs	kakadu national park	fb:location.location.containedby	fb:m.05ff6	where is the kakadu national park located	O O O I I I O
+train-562	fb:m.0713r	san francisco giants	fb:sports.sports_team.team_mascot	fb:m.02q_hzh	what is the san francisco giants mascot	O O O I I I O
+train-563	fb:m.09r57	samuel de champlain	fb:people.person.profession	fb:m.016wtf	what did samuel de champlain	O O I I I
+train-564	fb:m.0jm8l	detroit pistons	fb:sports.sports_team.championships	fb:m.07p0zz	what year did detroit pistons win nba championships	O O O I I O O O
+train-565	fb:m.0d04z6	cuba	fb:location.country.currency_used	fb:m.049p2z	what currency do i bring to cuba	O O O O O O I
+train-566	fb:m.0d0x8	georgia	fb:base.aareas.schema.administrative_area.capital	fb:m.013yq	what is the capital of georgia	O O O O O I
+train-567	fb:m.03rjj	italy	fb:location.country.currency_used	fb:m.02l6h	what currency do italy have	O O O I O
+train-568	fb:m.0gzh	lincoln	fb:book.author.works_written	fb:m.05c_79h	what books did lincoln write	O O O I O
+train-569	fb:m.027rn	dominican republic	fb:location.country.currency_used	fb:m.04lt7_	what currency is best to take to dominican republic	O O O O O O O I I
+train-570	fb:m.0287hgn	sally pearson	fb:people.person.profession	fb:m.01445t	what sport does sally pearson compete in	O O O I I O O
+train-571	fb:m.09c7w0	us	fb:location.location.time_zones	fb:m.027wj2_	what time zones are there in the us	O O O O O O O I
+train-572	fb:m.09pmkv	malaysia	fb:location.location.time_zones	fb:m.0ch2v5	what timezone is malaysia	O O O I
+train-573	fb:m.0rsb4	port st lucie	fb:location.location.containedby	fb:m.02xry	where is port st lucie florida on the map	O O I I I O O O O
+train-574	fb:m.03_r3	jamaica	fb:location.country.currency_used	fb:m.04xc2m	what kind of currency does jamaica use	O O O O O I O
+train-575	fb:m.082fr	west germany	fb:location.country.capital	fb:m.0150n	what is the capital city of west germany	O O O O O O I I
+train-576	fb:m.02k54	egypt	fb:location.country.official_language	fb:m.025rvv7	what language do u speak in egypt	O O O O O O I
+train-577	fb:m.02bjrlw	italian	fb:language.human_language.countries_spoken_in	fb:m.015fr	where is italian spoken around the world	O O I O O O O
+train-578	fb:m.01d5z	red sox	fb:sports.sports_team.championships	fb:m.018n8	when did the red sox win the pennant	O O O I I O O O
+train-579	fb:m.04lg6	leonardo da vinci	fb:visual_art.visual_artist.art_forms	fb:m.02csf	what kind of art did leonardo da vinci produce	O O O O O I I I O
+train-580	fb:m.0dwvx1	basque located	fb:base.aareas.schema.administrative_area.administrative_parent	fb:m.06mkj	where is basque located	O O I I
+train-581	fb:m.04pwg	louis xiv religion	fb:people.person.religion	fb:m.0c8wxp	what was king louis xiv religion	O O O I I I
+train-582	fb:m.01bmlb	sammy davis	fb:people.person.religion	fb:m.03_gx	what religion is sammy davis jr	O O O I I O
+train-583	fb:m.0rp8x	destin	fb:location.location.nearby_airports	fb:m.01q6d0	what airport do you fly into for destin	O O O O O O O I
+train-584	fb:m.05bcl	northern ireland	fb:location.country.official_language	fb:m.0165vf	what language do they speak in northern ireland	O O O O O O I I
+train-585	fb:m.03spz	israel	fb:location.country.form_of_government	fb:m.018wl5	what form of government is israel	O O O O O I
+train-586	fb:m.03rjj	italy	fb:location.country.official_language	fb:m.02bjrlw	what is the main language spoken in italy	O O O O O O O I
+train-587	fb:m.0kc6	andy warhol	fb:people.person.profession	fb:m.01d_h8	what does andy warhol do	O O I I O
+train-588	fb:m.03shp	iran	fb:location.country.languages_spoken	fb:m.01bcw_	what language do people speak in iran	O O O O O O I
+train-589	fb:m.04107	steinbeck	fb:influence.influence_node.influenced_by	fb:m.023jy9	what inspired steinbeck to write	O O I O O
+train-590	fb:m.03lh3v	ray allen	fb:basketball.basketball_player.position_s	fb:m.03558l	what position does ray allen	O O O I I
+train-591	fb:m.03gh4	hawaii	fb:location.location.time_zones	fb:m.02lctm	what is time zone in hawaii	O O O O O I
+train-592	fb:m.07b_l	texas	fb:location.location.time_zones	fb:m.02fqwt	what times is it in texas	O O O O O I
+train-593	fb:m.01r_fw	abraham maslow	fb:people.person.profession	fb:m.0cbd2	who is abraham maslow	O O I I
+train-594	fb:m.02k54	egyptian	fb:location.country.currency_used	fb:m.04phzg	what 's the egyptian currency	O O O I O
+train-595	fb:m.08k5jg	navajo	fb:people.ethnicity.geographic_distribution	fb:m.0162sr	where do navajo indians live	O O I O O
+train-596	fb:m.0k6d2	giovanni da verrazano	fb:people.person.place_of_birth	fb:m.0c33cs	where did giovanni da verrazano come from	O O I I I O O
+train-597	fb:m.0d05w3	china	fb:location.country.form_of_government	fb:m.01fkst	what political system is in china	O O O O O I
+train-598	fb:m.0gs6vr	selena gomez	fb:people.person.place_of_birth	fb:m.013mbz	where was selena gomez really born	O O I I O O
+train-599	fb:m.02cl1	denver	fb:travel.travel_destination.tourist_attractions	fb:m.02bjgd	what are fun things to do in denver colorado	O O O O O O O I O
+train-600	fb:m.0f_h6	abrahamic religions	fb:religion.religion.practices	fb:m.01zky	what do abrahamic religions have in common	O O I I O O O
+train-601	fb:m.04jpl	london	fb:travel.travel_destination.tourist_attractions	fb:m.012vvtp_	what can you visit in london	O O O O O I
+train-602	fb:m.031t2	francis drake	fb:people.person.nationality	fb:m.024pcx	what country did francis drake explored for	O O O I I O O
+train-603	fb:m.0l8sx	time warner	fb:broadcast.tv_station_owner.tv_stations	fb:m.09c2xk	what does time warner own	O O I I O
+train-604	fb:m.036mk	great pyramid of giza	fb:architecture.building.building_complex	fb:m.06bkmh	where is the great pyramid of giza situated	O O O I I I I O
+train-605	fb:m.05jd_	nelson rockefeller	fb:government.us_vice_president.to_president	fb:m.0c_md_	who was president when nelson rockefeller was vice president	O O O O I I O O O
+train-606	fb:m.0p_70	zambezi river	fb:geography.river.origin	fb:m.07cdmr	where does the zambezi river begin	O O O I I O
+train-607	fb:m.0fsb8	charlotte	fb:travel.travel_destination.tourist_attractions	fb:m.02vnhrq	what is charlotte north carolina known for	O O I O O O O
+train-608	fb:m.02f1c	dolly parton	fb:people.person.place_of_birth	fb:m.0_wrs	where did dolly parton grew up	O O I I O O
+train-609	fb:m.0ws7	arizona cardinals	fb:sports.sports_team.colors	fb:m.019sc	what color are the arizona cardinals uniforms	O O O O I I O
+train-610	fb:m.0d05w3	china	fb:location.country.official_language	fb:m.0653m	what kind of language do they speak in china	O O O O O O O O I
+train-611	fb:m.059rby	new york	fb:location.location.containedby	fb:m.018v5k	where is new york in the map	O O I I O O O
+train-612	fb:m.06c0j	ronald reagan	fb:government.us_president.vice_president	fb:m.034ls	who was vice president under ronald reagan	O O O O O I I
+train-613	fb:m.042dk	john tyler	fb:people.person.place_of_birth	fb:m.0mp6c	where john tyler was born	O I I O O
+train-614	fb:m.05jbn	nashville	fb:location.location.time_zones	fb:m.02fqwt	what timezone is tennessee nashville	O O O O I
+train-615	fb:m.0g_j0	marc chagall	fb:visual_art.visual_artist.associated_periods_or_movements	fb:m.015r61	what type of paintings did marc chagall do	O O O O O I I O
+train-616	fb:m.04lg6	leonardo da vinci	fb:law.inventor.inventions	fb:m.012rm	what were some inventions of leonardo da vinci	O O O O O I I I
+train-617	fb:m.09c7w0	usa	fb:base.locations.countries.continent	fb:m.059g4	on which continent is the usa located	O O O O O I O
+train-618	fb:m.030dr	francis bacon	fb:people.person.profession	fb:g.125_hzb47	who is francis bacon and what did he do	O O I I O O O O O
+train-619	fb:m.04mby	l frank baum	fb:people.deceased_person.place_of_death	fb:m.0f2wj	where did l frank baum die	O O I I I O
+train-620	fb:m.027_7y_	lake waynoka ohio	fb:location.location.containedby	fb:m.09c7w0	where is lake waynoka ohio	O O I I I
+train-621	fb:m.03shp	iran	fb:location.country.form_of_government	fb:m.018wl5	what type of political system is iran	O O O O O O I
+train-622	fb:m.02fg_f	dwight howard	fb:people.person.place_of_birth	fb:m.013yq	where was dwight howard born	O O I I O
+train-623	fb:m.03djm	george washington carver	fb:people.person.nationality	fb:m.09c7w0	what country is george washington carver from	O O O I I I O
+train-624	fb:m.034m8	guyana	fb:location.country.official_language	fb:m.02h40lc	what language do they speak in guyana south america	O O O O O O I O O
+train-625	fb:m.03b3j	green bay packers	fb:sports.professional_sports_team.owner_s	fb:m.0c24nj	who are the green bay packers owned by	O O O I I I O O
+train-626	fb:m.0m2kd	stand by me	fb:film.film.featured_film_locations	fb:m.05kj_	where in oregon was stand by me filmed	O O O O I I I O
+train-627	fb:m.07t21	ukraine	fb:location.country.languages_spoken	fb:m.012v8	what is the official language of the ukraine	O O O O O O O I
+train-628	fb:m.03l2n	houston	fb:location.location.nearby_airports	fb:m.0136st	what airport is closer to downtown houston	O O O O O O I
+train-629	fb:m.05972y	herman cain	fb:government.politician.election_campaigns	fb:m.0g5q039	when did herman cain run for president	O O I I O O O
+train-630	fb:m.021zmy	jack daniels	fb:distilled_spirits.distillery.region	fb:m.07h34	where is jack daniels factory	O O I I O
+train-631	fb:m.01ypl0	mary todd lincoln	fb:people.person.religion	fb:m.019cr	what religion was mary todd lincoln	O O O I I I
+train-632	fb:m.0wfmh	shoreview	fb:location.hud_county_place.county	fb:m.0nh57	where is shoreview mn	O O I O
+train-633	fb:m.042f1	james k polk	fb:people.person.religion	fb:m.051kv	what did james k polk believe in	O O I I I O O
+train-634	fb:m.0f8l9c	france	fb:location.country.official_language	fb:m.064_8sq	what are the primary languages of france	O O O O O O I
+train-635	fb:m.01xrrm	burmese	fb:language.human_language.main_country	fb:m.04xn_	where do people speak burmese	O O O O I
+train-636	fb:m.0j0k	asia	fb:base.locations.continents.countries_within	fb:m.0161c	what countries are included in the continent of asia	O O O O O O O O I
+train-637	fb:m.0pth	antonio vivaldi	fb:influence.influence_node.influenced	fb:m.03_f0	who inspired antonio vivaldi	O O I I
+train-638	fb:m.01vsl3_	lennon	fb:user.alexander.misc.murdered_person.murdered_by	fb:m.01p64f	who shot j lennon	O O O I
+train-639	fb:m.0jcx	albert einstein	fb:people.person.profession	fb:m.01d30f	what jobs did albert einstein have	O O O I I O
+train-640	fb:m.0j11	aruba	fb:location.country.currency_used	fb:m.08s1k3	what kind of money do you use in aruba	O O O O O O O O I
+train-641	fb:m.0wmn	assyrian	fb:location.country.capital	fb:m.02wkmf	what is the capital city of assyrian empire	O O O O O O I O
+train-642	fb:m.0424m	james madison	fb:book.author.works_written	fb:m.067vb8j	what did james madison wrote	O O I I O
+train-643	fb:m.015k7	buddha	fb:people.person.religion	fb:m.092bf5	what do the buddha believe in	O O O I O O
+train-644	fb:m.0199mw	elijah mccoy	fb:people.person.profession	fb:m.03sbb	what was elijah mccoy famous for	O O I I O O
+train-645	fb:m.03bkbh	irish people	fb:people.ethnicity.languages_spoken	fb:m.0165vf	what language do irish people speak	O O O I I O
+train-646	fb:m.0x50_	louisville	fb:location.location.containedby	fb:m.05fhy	where is louisville ne	O O I O
+train-647	fb:m.03647x	harry potter	fb:book.book_character.appears_in_book	fb:m.014jst	what are the names of harry potter books in order	O O O O O I I O O O
+train-648	fb:m.09h57	bungie	fb:cvg.cvg_developer.game_versions_developed	fb:m.02_5m4d	what games did bungie make	O O O I O
+train-649	fb:m.05fjy	new mexico	fb:location.location.time_zones	fb:m.02hczc	what timezone is new mexico currently in	O O O I I O O
+train-650	fb:m.01wcc7	toussaint charbonneau	fb:people.person.place_of_birth	fb:m.02p1lp	where was toussaint charbonneau from	O O I I O
+train-651	fb:m.0gc5r	george eastman	fb:law.inventor.inventions	fb:m.017zc4	what did george eastman make	O O I I O
+train-652	fb:m.0ydpd	asheville	fb:travel.travel_destination.tourist_attractions	fb:m.01vnqb	what to see in downtown asheville nc	O O O O O I O
+train-653	fb:m.02k54	egyptians	fb:location.country.languages_spoken	fb:m.012zfy	what do egyptians speak	O O I O
+train-654	fb:m.07ssc	uk	fb:location.location.time_zones	fb:m.03bdv	what time zone is the uk in right now	O O O O O I O O O
+train-655	fb:m.06dlh	captain scott	fb:people.deceased_person.cause_of_death	fb:m.01flyj	what did captain scott die of	O O I I O O
+train-656	fb:m.0flw86	islamic	fb:religion.religion.types_of_places_of_worship	fb:m.04_xn	where do islamic people go to worship	O O I O O O O
+train-657	fb:m.05tfm	steelers	fb:sports.sports_team.championships	fb:m.0_gt_jy	what years the steelers won the super bowl	O O O I O O O O
+train-658	fb:m.0d0vqn	sweden	fb:location.location.time_zones	fb:m.02llzg	what timezone does sweden have	O O O I O
+train-659	fb:m.03spz	israeli	fb:location.country.languages_spoken	fb:m.02h40lc	what do israeli people speak	O O I O O
+train-660	fb:m.05r7t	puerto rico	fb:location.country.currency_used	fb:m.09nqf	what type of currency is used in puerto rico	O O O O O O O I I
+train-661	fb:m.0498y	kentucky	fb:location.location.containedby	fb:m.04_1l0v	where is kentucky located	O O I O
+train-662	fb:m.0br8m3	vernon davis	fb:american_football.football_player.position_s	fb:m.02g_7z	what position does vernon davis play	O O O I I O
+train-663	fb:m.0czh6	maria theresa	fb:royalty.monarch.kingdom	fb:m.01d8l	what did maria theresa rule	O O I I O
+train-664	fb:m.01vb2	chester arthur	fb:people.person.place_of_birth	fb:m.010jjd	where was president chester arthur born	O O O I I O
+train-665	fb:m.027rn	dominican republic	fb:location.location.containedby	fb:m.01rll_	what is the dominican republic part of	O O O I I O O
+train-666	fb:m.018rv0	beverly cleary	fb:book.author.book_editions_published	fb:m.028x_cs	what books did beverly cleary right	O O O I I O
+train-667	fb:m.0gct_	henri matisse	fb:visual_art.visual_artist.art_forms	fb:m.01bsxb	what kind of artist is henri matisse	O O O O O I I
+train-668	fb:m.0ngg	caesar augustus	fb:people.person.profession	fb:m.01g14w	what was caesar augustus known for	O O I I O O
+train-669	fb:m.0160w	bahamas	fb:location.country.currency_used	fb:m.01l6dm	what kind of money to take to bahamas	O O O O O O O I
+train-670	fb:m.03jtzg	rafael furcal	fb:baseball.baseball_player.position_s	fb:m.017drs	what position does rafael furcal play	O O O I I O
+train-671	fb:m.06k3_t	robin roberts	fb:medicine.notable_person_with_medical_condition.condition	fb:m.019gky	what is wrong with robin roberts	O O O O I I
+train-672	fb:m.034rd	george washington	fb:medicine.notable_person_with_medical_condition.condition	fb:m.0542n	what illnesses did george washington suffer from	O O O I I O O
+train-673	fb:m.0bw7qg	duncan bannatyne	fb:people.person.profession	fb:m.012t_z	what is duncan bannatyne	O O I I
+train-674	fb:m.07_m9_	adolf hitler	fb:people.deceased_person.cause_of_death	fb:m.02qnd1b	what happened to adolf hitler at the end of the war	O O O I I O O O O O O
+train-675	fb:m.0f8l9c	france	fb:location.country.form_of_government	fb:m.01dw03	what types of government does france have	O O O O O I O
+train-676	fb:m.07s6gb8	giza located	fb:location.location.containedby	fb:m.012b0q	where are the pyramids of giza located	O O O O O I I
+train-677	fb:m.0dclg	philadelphia	fb:travel.travel_destination.tourist_attractions	fb:m.01_yh5	what are fun things to do in philadelphia	O O O O O O O I
+train-678	fb:m.05fky	north dakota	fb:base.aareas.schema.administrative_area.administrative_parent	fb:m.09c7w0	where north dakota located	O I I O
+train-679	fb:m.03shp	iran	fb:location.country.form_of_government	fb:m.018wl5	what kind of political system does iran have	O O O O O O I O
+train-680	fb:m.048wfw	laguna beach theme song	fb:tv.tv_program.theme_song	fb:m.07fprn	what is the laguna beach theme song	O O O I I I I
+train-681	fb:m.0160w	bahamas	fb:base.locations.countries.continent	fb:m.059g4	what continent does the bahamas belong to	O O O O I O O
+train-682	fb:m.07ssc	united kingdom	fb:base.aareas.schema.administrative_area.administrative_children	fb:m.02jx1	what four regions make up the united kingdom	O O O O O O I I
+train-683	fb:m.0r1hb	novato	fb:location.hud_county_place.county	fb:m.0l2hf	what county is novato california in	O O O I O O
+train-684	fb:m.019541	joseph pulitzer	fb:people.person.profession	fb:m.02h668d	who was joseph pulitzer and what did he do	O O I I O O O O O
+train-685	fb:m.0jm8l	detroit pistons	fb:sports.sports_team.championships	fb:m.07p0zz	what year did detroit pistons win the championship	O O O I I O O O
+train-686	fb:m.0d6j4	robert hooke	fb:law.inventor.inventions	fb:m.012d66	what was robert hooke 's contributions to science	O O I I O O O O
+train-687	fb:m.02rg_	elizabeth	fb:people.person.parents	fb:m.03p77	who were queen elizabeth 1 parents	O O O I O O
+train-688	fb:m.03tw2s	usc	fb:location.location.containedby	fb:m.06yxd	where is usc from	O O I O
+train-689	fb:m.05l71	oakland raiders	fb:american_football.football_team.current_head_coach	fb:m.03h4k5d	who 's the oakland raiders head coach	O O O I I O O
+train-690	fb:m.0713r	the giants	fb:sports.sports_team.championships	fb:m.0117q3yz	what years have the giants won the world series	O O O I I O O O O
+train-691	fb:m.025s5v9	michelle obama	fb:people.person.profession	fb:m.04gc2	what do michelle obama do for a living	O O I I O O O O
+train-692	fb:m.02zs4	ford motor company	fb:organization.organization.founders	fb:m.03gxm	who invented the ford motor company	O O O I I I
+train-693	fb:m.0101gj	mount vernon	fb:location.hud_county_place.county	fb:m.0mrrn	where is mount vernon texas	O O I I O
+train-694	fb:m.07_m2	vincent van gogh	fb:influence.influence_node.influenced_by	fb:m.016s03	who was vincent van gogh inspired by	O O I I I O O
+train-695	fb:m.04ykz	missouri river	fb:geography.river.mouth	fb:m.04yf_	where does missouri river end	O O I I O
+train-696	fb:m.0hjy	alaska	fb:base.aareas.schema.administrative_area.capital	fb:m.0l_q9	what is the capital of alaska state	O O O O O I O
+train-697	fb:m.058s57	carrie underwood	fb:music.artist.origin	fb:m.0z7zm	where did carrie underwood live	O O I I O
+train-698	fb:m.01ct6	baltimore ravens	fb:sports.sports_team.arena_stadium	fb:m.01yq7r	where do the baltimore ravens play	O O O I I O
+train-699	fb:m.0qf11	rod stewart	fb:people.person.place_of_birth	fb:m.0n9_t	where was rod stewart born	O O I I O
+train-700	fb:m.01znc_	turkey	fb:location.country.currency_used	fb:m.04dq0w	what currency do i take to turkey	O O O O O O I
+train-701	fb:m.06mkj	spain	fb:location.country.currency_used	fb:m.02l6h	what is the name of currency used in spain	O O O O O O O O I
+train-702	fb:m.05fhy	nebraska	fb:location.location.time_zones	fb:m.02fqwt	what time is nebraska now	O O O I O
+train-703	fb:m.01mc6h1	roy rogers	fb:people.deceased_person.cause_of_death	fb:m.01l2m3	what did roy rogers die of	O O I I O O
+train-704	fb:m.0c61p	calabria	fb:common.topic.notable_types	fb:m.02_1y_3	what is calabria italy	O O I O
+train-705	fb:m.01m0gh	kenny everett	fb:people.deceased_person.cause_of_death	fb:m.0d19y2	what did kenny everett die off	O O I I O O
+train-706	fb:m.04zwft	isthmus of panama	fb:location.location.containedby	fb:m.06n3y	where is isthmus of panama located	O O I I I O
+train-707	fb:m.06pj8	steven spielberg	fb:film.director.film	fb:m.011v6djn	what movies are directed by steven spielberg	O O O O O I I
+train-708	fb:m.01y4t	yangtze river	fb:geography.river.mouth	fb:m.018smn	what sea does the yangtze river flow into	O O O O I I O O
+train-709	fb:m.0d05w3	china	fb:location.country.official_language	fb:m.0653m	what is the official language in china	O O O O O O I
+train-710	fb:m.014pyb	ned kelly	fb:people.person.place_of_birth	fb:m.08mh4_	in what town did ned kelly and his family grow up	O O O O I I O O O O O
+train-711	fb:m.04nw9	lucille ball	fb:people.deceased_person.cause_of_death	fb:m.01p3jd	what did lucille ball die of	O O I I O O
+train-712	fb:m.035qy	greece	fb:location.country.currency_used	fb:m.02l6h	what currency does greece use	O O O I O
+train-713	fb:m.0d05q	thomas cromwell	fb:people.deceased_person.cause_of_death	fb:m.0jb19	what happened to sir thomas cromwell	O O O O I I
+train-714	fb:m.0d060g	canada	fb:location.country.capital	fb:m.05ksh	what is the capital city of canada on a map	O O O O O O I O O O
+train-715	fb:m.01p1v	chile	fb:location.country.currency_used	fb:m.0172zs	what money do they use in chile	O O O O O O I
+train-716	fb:m.059s1q	carl edwards	fb:base.nascar.nascar_driver.team	fb:m.06l92_	who is carl edwards racing for	O O I I O O
+train-717	fb:m.041rh	sir john a macdonald	fb:people.deceased_person.place_of_death	fb:m.05ksh	where did sir john a macdonald die	O O I I I I O
+train-718	fb:m.01n7q	california	fb:location.location.time_zones	fb:m.02lcqs	what time zone is it in california	O O O O O O I
+train-719	fb:m.03rjj	italy	fb:location.country.currency_used	fb:m.02l6h	what money do they have in italy	O O O O O O I
+train-720	fb:m.0pz91	adam sandler	fb:film.producer.film	fb:m.010fch95	what movies did adam sandler play in	O O O I I O O
+train-721	fb:m.02vpng6	luke bryan	fb:people.person.place_of_birth	fb:m.0rxrq	where is luke bryan from	O O I I O
+train-722	fb:m.05mg9	was bin laden	fb:people.person.nationality	fb:m.01z215	what country was bin laden from	O O I I I O
+train-723	fb:m.040t9	john cabot	fb:people.person.parents	fb:m.0qg2wdg	who is john cabot 's parents	O O I I O O
+train-724	fb:m.05dfhp	alex smith	fb:people.person.place_of_birth	fb:m.010rvx	where is alex smith from	O O I I O
+train-725	fb:m.027q1_3	where is tsonga	fb:people.person.place_of_birth	fb:m.04r5c	where is tsonga born	I I I O
+train-726	fb:m.02d0k	diocletian	fb:user.robert.roman_empire.roman_emperor.title	fb:m.01g14w	who was emperor diocletian	O O O I
+train-727	fb:m.06bnz	russia	fb:location.country.form_of_government	fb:m.01dw03	what type of political system does russia have	O O O O O O I O
+train-728	fb:m.02xry	florida	fb:location.location.time_zones	fb:m.02_37z	where is the time zone in florida	O O O O O O I
+train-729	fb:m.01mjq	czech republic	fb:location.country.languages_spoken	fb:m.012psb	what do people in the czech republic speak	O O O O O I I O
+train-730	fb:m.033t8w	ben roethlisberger	fb:people.person.parents	fb:m.0j2jy4g	who is ben roethlisberger parents	O O I I O
+train-731	fb:m.0_w5_	clarksville	fb:location.citytown.postal_codes	fb:m.020w_kz	what is the zip code for clarksville tn	O O O O O O I O
+train-732	fb:m.098yd	harriet tubman	fb:people.person.profession	fb:m.0cbd2	what jobs did harriet tubman have	O O O I I O
+train-733	fb:m.05qtj	paris	fb:travel.travel_destination.accommodation	fb:m.04fcxl	where to stay in paris france	O O O O I O
+train-734	fb:m.092bf5	buddhist	fb:religion.religion.texts	fb:m.01hnwm	what is the buddhist holy book	O O O I O O
+train-735	fb:m.0gct_	henri matisse	fb:visual_art.visual_artist.associated_periods_or_movements	fb:m.015r61	what art movements was henri matisse involved in	O O O O I I O O
+train-736	fb:m.06srk	senegal	fb:location.country.currency_used	fb:m.025sw2q	what currency does senegal use	O O O I O
+train-737	fb:m.016wzw	peru	fb:location.country.currency_used	fb:m.0b423v	what is the money called in peru	O O O O O O I
+train-738	fb:m.01lwx	is darwin	fb:people.person.profession	fb:m.02h99sv	who is darwin and what is his theory	O I I O O O O O
+train-739	fb:m.06t1s0	euro 2012	fb:time.event.locations	fb:m.02qbpd	where is the euro 2012 tournament	O O O I I O
+train-740	fb:m.0cns5	grand canyon	fb:travel.tourist_attraction.near_travel_destination	fb:m.01z_xr	what is there to see near the grand canyon	O O O O O O O I I
+train-741	fb:m.07_m2	vincent van gogh	fb:visual_art.visual_artist.associated_periods_or_movements	fb:m.015xrq	what art movement does vincent van gogh belong to	O O O O I I I O O
+train-742	fb:m.04k15	beethoven	fb:music.artist.genre	fb:m.05lls	what music did beethoven composed	O O O I O
+train-743	fb:m.02lt8	poe	fb:people.deceased_person.place_of_burial	fb:m.04jlwk	where is poe buried now	O O I O O
+train-744	fb:m.02d6c	davenport	fb:location.citytown.postal_codes	fb:m.03dqrd_	what is zip code for davenport iowa	O O O O O I O
+train-745	fb:m.0bv62	langston hughes	fb:influence.influence_node.influenced_by	fb:m.085gk	what influenced langston hughes to write	O O I I O O
+train-746	fb:m.01s5nb	united church of christ	fb:religion.religion.is_part_of	fb:m.01lp8	what does united church of christ believe	O O I I I I O
+train-747	fb:m.0g133	perth	fb:travel.travel_destination.tourist_attractions	fb:m.02qpplk	what to do in perth scotland	O O O O I O
+train-748	fb:m.0289q	the broncos	fb:sports.sports_team.team_mascot	fb:m.0_h1qbn	what is the name of the broncos mascot	O O O O O I I O
+train-749	fb:m.02k54	egyptian	fb:location.country.official_language	fb:m.025rvv7	what is modern egyptian language	O O O I O
+train-750	fb:m.0bv62	langston hughes	fb:influence.influence_node.influenced_by	fb:m.085gk	what inspired langston hughes to write poetry	O O I I O O O
+train-751	fb:m.027rn	dominican republic	fb:travel.travel_destination.tourist_attractions	fb:m.025vdyx	where is the best place to vacation in the dominican republic	O O O O O O O O O I I
+train-752	fb:m.01p8s	costa rica	fb:base.locations.countries.continent	fb:m.059g4	which continent is costa rica located	O O O I I O
+train-753	fb:m.0150t6	hans zimmer	fb:film.music_contributor.film	fb:m.010ql3wb	what films did hans zimmer wrote music for	O O O I I O O O
+train-754	fb:m.05v8c	the philippines	fb:location.country.currency_used	fb:m.01h5bw	what kind of money does the philippines use	O O O O O I I O
+train-755	fb:m.01r2l	chinese	fb:language.human_language.dialects	fb:m.0653m	what are the two dialects of chinese	O O O O O O I
+train-756	fb:m.019fz	benjamin franklin	fb:people.deceased_person.place_of_death	fb:m.0dclg	where did benjamin franklin died	O O I I O
+train-757	fb:m.06tgw	somalia	fb:base.locations.countries.continent	fb:m.0dg3n1	where is somalia located	O O I O
+train-758	fb:m.01v9724	charles dickens	fb:people.person.religion	fb:m.0n2g	what did charles dickens believe in	O O I I O O
+train-759	fb:m.02cts	daniel	fb:people.person.profession	fb:m.066dv	who is daniel in the bible	O O I O O O
+train-760	fb:m.07pzc	tupac	fb:people.person.place_of_birth	fb:m.02cx_2	where tupac grew up	O I O O
+train-761	fb:m.05_s3l	collegehumor	fb:organization.organization.founders	fb:m.03bvkch	who founded collegehumor	O O I
+train-762	fb:m.0chghy	australian	fb:location.country.currency_used	fb:m.0kz1h	what is australian currency	O O I O
+train-763	fb:m.09c7w0	us	fb:location.country.form_of_government	fb:m.01d9r3	what type of government is the us government	O O O O O O I O
+train-764	fb:m.03_j8	james cook	fb:people.person.nationality	fb:m.014tss	what country did james cook come from	O O O I I O O
+train-765	fb:m.05b4c	nissan car	fb:organization.organization.founders	fb:m.04nzf7	who owns nissan car manufacturer	O O I I O
+train-766	fb:m.0ctw_b	new zealand	fb:sports.sports_team_location.teams	fb:m.0148q6	what are the main sports in new zealand	O O O O O O I I
+train-767	fb:m.025s5v9	michelle obama	fb:people.person.profession	fb:m.04gc2	who is michelle obama	O O I I
+train-768	fb:m.034rd	george washington	fb:people.person.nationality	fb:m.02p89zz	what country was george washington from	O O O I I O
+train-769	fb:m.01tglh	richard arkwright	fb:people.deceased_person.place_of_death	fb:m.03k9xq	where did richard arkwright die	O O I I O
+train-770	fb:m.03cly4v	nick grimshaw	fb:people.person.profession	fb:m.015cjr	who is nick grimshaw	O O I I
+train-771	fb:m.051mn	m.c. escher	fb:influence.influence_node.influenced_by	fb:m.015g76	what inspired m.c. escher to become an artist	O O I I O O O O
+train-772	fb:m.03s9v	isaac newton	fb:people.person.profession	fb:m.01pxg	what is isaac newton famous for	O O I I O O
+train-773	fb:m.0bt6kc	martin cooper	fb:people.person.place_of_birth	fb:m.01_d4	where is martin cooper from	O O I I O
+train-774	fb:m.0357_	gaza city	fb:location.administrative_division.country	fb:m.01k0p4	which country is gaza city located	O O O I I O
+train-775	fb:m.06mkj	spain	fb:location.country.currency_used	fb:m.02l6h	what is the currency of spain called	O O O O O I O
+train-776	fb:m.0d060g	canada	fb:location.country.capital	fb:m.05ksh	where is the capital of canada on the map	O O O O O I O O O
+train-777	fb:m.03jn4	london heathrow	fb:location.location.time_zones	fb:m.03bdv	what time is in london heathrow	O O O O I I
+train-778	fb:m.07_m9_	hitler	fb:base.activism.activist.area_of_activism	fb:m.0148d	what did hitler do bad	O O I O O
+train-779	fb:m.01vsl3_	john lennon	fb:people.deceased_person.place_of_death	fb:m.02_286	where was john lennon standing when he was shot	O O I I O O O O O
+train-780	fb:m.04wqr	marilyn monroe	fb:people.person.parents	fb:m.0gxs_rk	who was marilyn monroe 's parents	O O I I O O
+train-781	fb:m.01wdj_	auburn university	fb:location.location.containedby	fb:m.06_g97h	where is auburn university at	O O I I O
+train-782	fb:m.03djmd	roatan	fb:travel.travel_destination.tourist_attractions	fb:m.0j1h1lh	what to do in roatan bay	O O O O I O
+train-783	fb:m.0gzh	abraham lincoln	fb:people.person.profession	fb:m.016fc2	what is president abraham lincoln known for	O O O I I O O
+train-784	fb:m.0424m	james madison	fb:people.person.place_of_birth	fb:m.0dl52g	where james madison was born	O I I O O
+train-785	fb:m.04lh6	liverpool	fb:travel.travel_destination.tourist_attractions	fb:m.019gnm	what is in liverpool england	O O O I O
+train-786	fb:m.0238w8	mount jefferson	fb:location.location.containedby	fb:m.027lsyc	where is mount jefferson located	O O I I O
+train-787	fb:m.051cc	martin luther king	fb:base.activism.activist.area_of_activism	fb:m.018cwm	what did martin luther king jr do in his life	O O I I I O O O O O
+train-788	fb:m.0d05w3	china	fb:location.country.currency_used	fb:m.0hn4_	what is the china money called	O O O I O O
+train-789	fb:m.025mb_	betty white	fb:people.person.parents	fb:m.0gy8d8n	who are betty white 's parents	O O I I O O
+train-790	fb:m.07l2m	tennessee titans	fb:american_football.football_team.current_head_coach	fb:m.0b9srp	who is the head coach of the tennessee titans	O O O O O O O I I
+train-791	fb:m.0gglj	did mendeleev	fb:people.deceased_person.place_of_death	fb:m.06pr6	where did mendeleev died	O I I O
+train-792	fb:m.0rlz	andrew jackson	fb:people.person.place_of_birth	fb:m.054qtk	where did president andrew jackson grew up	O O O I I O O
+train-793	fb:m.0d3qd0	when did kerry	fb:government.politician.election_campaigns	fb:m.02jnr7	when did kerry run for president	I I I O O O
+train-794	fb:m.02r95v	geico	fb:business.business_operation.industry	fb:m.03qbn81	what kind of insurance does geico offer	O O O O O I O
+train-795	fb:m.0ply0	orlando	fb:location.hud_county_place.county	fb:m.0jrtv	what county is orlando fl in	O O O I O O
+train-796	fb:m.04v3q	malta	fb:travel.travel_destination.tourist_attractions	fb:m.025tp71	what to see and do in malta	O O O O O O I
+train-797	fb:m.01cytr	kia car	fb:organization.organization.place_founded	fb:m.06qd3	where is kia car from	O O I I O
+train-798	fb:m.06qd3	south korea	fb:location.country.form_of_government	fb:m.01d9r3	what system of government is used in south korea	O O O O O O O I I
+train-799	fb:m.015fr	brazil	fb:location.country.currency_used	fb:m.03385m	what do you call money in brazil	O O O O O O I
+train-800	fb:m.01jlyt	mount whitney	fb:geography.mountain.mountain_range	fb:m.0db94	where is mount whitney	O O I I
+train-801	fb:m.06t2t	singapore	fb:location.country.languages_spoken	fb:m.01r2l	what do singapore speak	O O I O
+train-802	fb:m.01d5z	red sox	fb:sports.sports_team.championships	fb:m.018n8	what years did the red sox win the world series	O O O O I I O O O O
+train-803	fb:m.027rn	bring to dominican	fb:location.country.currency_used	fb:m.04lt7_	what kind of money should i bring to dominican	O O O O O O I I I
+train-804	fb:m.0160w	bahamas	fb:location.country.form_of_government	fb:m.018wl5	what type of government does the bahamas have	O O O O O O I O
+train-805	fb:m.0lkxb	battle of antietam	fb:time.event.locations	fb:m.04rrd	in what state did the bloody battle of antietam take place	O O O O O O I I I O O
+train-806	fb:m.07_m9_	hitler	fb:people.person.parents	fb:m.02p0d7	what were hitler 's parents names	O O I O O O
+train-807	fb:m.02h40lc	english	fb:language.human_language.countries_spoken_in	fb:m.0160w	what present day countries use english as their national language	O O O O O I O O O O
+train-808	fb:m.0x0d	arizona diamondbacks	fb:sports.sports_team.championships	fb:m.018my	what year did arizona diamondbacks win the world series	O O O I I O O O O
+train-809	fb:m.027rn	bring to dominican	fb:location.country.currency_used	fb:m.04lt7_	what money should i bring to dominican	O O O O I I I
+train-810	fb:m.02zjd	fitzgerald	fb:influence.influence_node.influenced_by	fb:m.0154x6	what inspired scott fitzgerald	O O O I
+train-811	fb:m.01rxw	republic of congo	fb:location.country.currency_used	fb:m.025sw2b	what is the currency in the republic of congo	O O O O O O I I I
+train-812	fb:m.02nxk	erin brockovich	fb:people.person.profession	fb:m.012t_z	who was the real erin brockovich	O O O O I I
+train-813	fb:m.02qrmp	revelstoke	fb:travel.travel_destination.tourist_attractions	fb:m.01gznn	what to see and do in revelstoke	O O O O O O I
+train-814	fb:m.0dl4g	battle of verdun	fb:time.event.locations	fb:m.0ny95	where was the battle of verdun ww1	O O O I I I O
+train-815	fb:m.05ksh	ottawa	fb:travel.travel_destination.tourist_attractions	fb:m.01kw4z	what to do in ottawa ontario today	O O O O I O O
+train-816	fb:m.06mzp	switzerland	fb:location.country.currency_used	fb:m.01_h4b	what is the money currency in switzerland	O O O O O O I
+train-817	fb:m.03s95m	umaga	fb:people.deceased_person.cause_of_death	fb:m.0gk4g	what happened to umaga wwe	O O O I O
+train-818	fb:m.0d6j4	robert hooke	fb:law.inventor.inventions	fb:m.012d66	what inventions did robert hooke made	O O O I I O
+train-819	fb:m.040000	theodor schwann	fb:people.person.place_of_birth	fb:m.025697	what country was theodor schwann born in	O O O I I O O
+train-820	fb:m.0ctw_b	new zealand	fb:location.country.official_language	fb:m.02h40lc	what language does the new zealand speak	O O O O I I O
+train-821	fb:m.0py9b	dell computer	fb:organization.organization.founders	fb:m.013q3z	who invented dell computer	O O I I
+train-822	fb:m.0y62n	staten island	fb:travel.travel_destination.tourist_attractions	fb:m.01q6lq	what to see in staten island new york	O O O O I I O O
+train-823	fb:m.027_g	douglas engelbart	fb:law.inventor.inventions	fb:m.020lf	what did douglas engelbart invent	O O I I O
+train-824	fb:m.019rg5	kenya	fb:location.country.currency_used	fb:m.05yxpb	what currency do they accept in kenya	O O O O O O I
+train-825	fb:m.0gzh	abraham lincoln	fb:influence.influence_node.influenced_by	fb:m.027549	what influenced abraham lincoln to become president	O O I I O O O
+train-826	fb:m.03647x	harry potter	fb:book.book_character.appears_in_book	fb:m.014jst	what are all the names of harry potter	O O O O O O I I
+train-827	fb:m.0dl567	taylor swift	fb:music.artist.track	fb:g.11b6fywgy8	what are all songs by taylor swift	O O O O O I I
+train-828	fb:m.07qyl3	walton goggins	fb:people.person.place_of_birth	fb:m.0lphb	where is walton goggins from	O O I I O
+train-829	fb:m.01bmlb	sammy davis	fb:people.deceased_person.cause_of_death	fb:m.021plp	what did sammy davis jr die of	O O I I O O O
+train-830	fb:m.081nh	walt disney	fb:people.person.children	fb:m.064ndq	what are the names of walt disney kids	O O O O O I I O
+train-831	fb:m.019fz	benjamin franklin	fb:law.inventor.inventions	fb:m.0135nr	what are all the inventions benjamin franklin made	O O O O O I I O
+train-832	fb:m.0hb6g	tahiti	fb:location.location.containedby	fb:m.02wzv	where is tahiti bora bora	O O I O O
+train-833	fb:m.0ds8qct	world series	fb:time.event.locations	fb:m.01_gsg	where is the world series 2012 being played	O O O I I O O O
+train-834	fb:m.060nc	was the apostle	fb:fictional_universe.person_in_fiction.representations_in_fiction	fb:m.042gzwd	who was the apostle paul considered to be	O I I I O O O O
+train-835	fb:m.03rz4	indian ocean	fb:location.location.containedby	fb:m.0dkh39	where indian ocean is located	O I I O O
+train-836	fb:m.0flw86	islam	fb:religion.religion.holidays	fb:m.0_tkhhs	what are the holidays of islam	O O O O O I
+train-837	fb:m.054pn2	battle of appomattox located	fb:time.event.locations	fb:m.01p_6k	where was the battle of appomattox located	O O O I I I I
+train-838	fb:m.059_c	nevada	fb:location.location.time_zones	fb:m.02hczc	what timezone is nevada in right now	O O O I O O O
+train-839	fb:m.010190	fresno	fb:location.hud_county_place.county	fb:m.0mrs1	where is fresno texas located	O O I O O
+train-840	fb:m.025mb_	betty white	fb:people.person.profession	fb:m.015cjr	who 's betty white	O O I I
+train-841	fb:m.013w80	twa	fb:organization.organization.founders	fb:m.03n93	who started twa airlines	O O I O
+train-842	fb:m.0flw86	islamic	fb:religion.religion.deities	fb:m.055v4c	who does the islamic worship	O O O I O
+train-843	fb:m.07_m9_	adolf hitler	fb:people.person.parents	fb:m.02p0d7	what were adolf hitler 's parents names	O O I I O O O
+train-844	fb:m.034tl	guam	fb:location.country.languages_spoken	fb:m.01vky1	what do people from guam speak	O O O O I O
+train-845	fb:m.02mw1g	university of maryland university college	fb:location.location.containedby	fb:m.01_kvkx	what city is the university of maryland university college in	O O O O I I I I I O
+train-846	fb:m.0vmt	arizona	fb:location.location.time_zones	fb:m.02hczc	in what timezone is arizona	O O O O I
+train-847	fb:m.0c_jc	douglas macarthur	fb:people.deceased_person.place_of_death	fb:m.0rh6k	where did douglas macarthur die	O O I I O
+train-848	fb:m.02pg6z3	whistler mountain	fb:location.location.containedby	fb:m.015jr	where is whistler mountain located	O O I I O
+train-849	fb:m.0d05w3	china	fb:location.country.official_language	fb:m.0653m	what is the official language of china called	O O O O O O I O
+train-850	fb:m.01vyv9	larry hagman	fb:people.deceased_person.cause_of_death	fb:m.0369n2	what was the cause of death of larry hagman	O O O O O O O I I
+train-851	fb:m.02k54	egypt	fb:location.country.currency_used	fb:m.04phzg	what is the best currency to take to egypt 2013	O O O O O O O O I O
+train-852	fb:m.06bnz	russia	fb:base.locations.countries.continent	fb:m.02j9z	in which continent is russia	O O O O I
+train-853	fb:m.0k3p	amsterdam	fb:travel.travel_destination.tourist_attractions	fb:m.01l09n	what do people go to amsterdam for	O O O O O I O
+train-854	fb:m.01rl_m	doc holliday	fb:people.deceased_person.cause_of_death	fb:m.07jwr	what did doc holliday die from	O O I I O O
+train-855	fb:m.01qyy3	duane allman	fb:music.artist.track	fb:m.010j02n8	what songs did duane allman sing	O O O I I O
+train-856	fb:m.06mkj	spain	fb:base.locations.countries.continent	fb:m.02j9z	where is spain located what continent	O O I O O O
+train-857	fb:m.0123f1	juan ponce de leon	fb:people.person.profession	fb:m.040vc4s	who juan ponce de leon	O I I I I
+train-858	fb:m.0484q	kurt cobain	fb:people.deceased_person.place_of_death	fb:m.0d9jr	where did kurt cobain die	O O I I O
+train-859	fb:m.015k04	frida kahlo	fb:visual_art.visual_artist.associated_periods_or_movements	fb:m.0127jb	what kind of paintings did frida kahlo do	O O O O O I I O
+train-860	fb:m.02t4w7	bronx	fb:film.film.country	fb:m.09c7w0	where did bronx tale take place	O O I O O O
+train-861	fb:m.036mk	great pyramid of giza	fb:location.location.containedby	fb:m.02k54	where are the great pyramid of giza located	O O O I I I I O
+train-862	fb:m.01wj18h	shakira	fb:people.person.place_of_birth	fb:m.02b84b	where is shakira from originally	O O I O O
+train-863	fb:m.07m5fb	dan cody	fb:people.person.profession	fb:m.02h665k	who was dan cody	O O I I
+train-864	fb:m.0jzc	arabic language	fb:language.human_language.countries_spoken_in	fb:m.0161c	who speaks arabic language	O O I I
+train-865	fb:m.06mkj	spain	fb:location.country.official_language	fb:m.06nm1	what are the official languages in spain	O O O O O O I
+train-866	fb:m.032f6	farsi	fb:language.human_language.countries_spoken_in	fb:m.0161c	who speaks farsi	O O I
+train-867	fb:m.01_nh0	audie murphy	fb:people.person.place_of_birth	fb:m.04bwqsw	where did audie murphy grow up	O O I I O O
+train-868	fb:m.0dg3n1	african	fb:base.locations.continents.countries_within	fb:m.0164v	what are the african nations	O O O I O
+train-869	fb:m.051cc	martin luther king	fb:organization.organization_founder.organizations_founded	fb:m.027mt4	what organization did martin luther king lead	O O O I I I O
+train-870	fb:m.01lwx	charles darwin	fb:book.author.works_written	fb:m.010rjsvs	what was the name of the book that charles darwin wrote	O O O O O O O O I I O
+train-871	fb:m.01yjl	the cubs	fb:sports.sports_team.championships	fb:m.04tg8s	what years have the cubs been in the world series	O O O I I O O O O O
+train-872	fb:m.0bdlj	duke ellington	fb:music.group_member.instruments_played	fb:m.05r5c	what musical instruments did duke ellington play	O O O O I I O
+train-873	fb:m.07f1x	thailand	fb:location.country.currency_used	fb:m.0mcb5	what money do they use in thailand	O O O O O O I
+train-874	fb:m.03spz	israel	fb:location.country.official_language	fb:m.03hkp	what is the primary language of israel	O O O O O O I
+train-875	fb:m.0d05w3	china	fb:location.country.form_of_government	fb:m.01fkst	what types of government does china have	O O O O O I O
+train-876	fb:m.035qy	greece	fb:base.locations.countries.continent	fb:m.02j9z	where is the nation of greece located	O O O O O I O
+train-877	fb:m.04d_m	khartoum	fb:base.biblioness.bibs_location.country	fb:m.06tw8	where are you if you 're in khartoum	O O O O O O O I
+train-878	fb:m.01wjgjb	jojo	fb:music.artist.label	fb:m.01trtc	what label is jojo signed to	O O O I O O
+train-879	fb:m.086qd	whitney houston	fb:people.deceased_person.cause_of_death	fb:m.01g27f	what did whitney houston die off	O O I I O O
+train-880	fb:m.0f8l9c	france	fb:location.country.currency_formerly_used	fb:m.01m4tk	what currency is used in france before euro	O O O O O I O O
+train-881	fb:m.04lg6	leonardo da vinci	fb:people.person.place_of_birth	fb:m.032kkn	what city was leonardo da vinci from	O O O I I I O
+train-882	fb:m.018c_r	starbucks	fb:dining.restaurant.cuisine	fb:m.01_6hg	what market does starbucks operate in	O O O I O O
+train-883	fb:m.082pc	west bank	fb:base.biblioness.bibs_location.country	fb:m.0604m	what country is the west bank located in	O O O O I I O O
+train-884	fb:m.04sqj	mexico city	fb:location.location.time_zones	fb:m.02fqwt	what is mexico city time zone	O O I I O O
+train-885	fb:m.0td1z	murray	fb:location.hud_county_place.county	fb:m.0nnqt	where is murray kentucky	O O I O
+train-886	fb:m.02h40lc	english	fb:language.human_language.language_family	fb:m.0140qt	into what language family does english fall	O O O O O I O
+train-887	fb:m.02ncr	eli whitney	fb:law.inventor.inventions	fb:m.01ng1x	what else did eli whitney invent	O O O I I O
+train-888	fb:m.04jpl	london	fb:location.location.time_zones	fb:m.03bdv	what time zone is london in right now	O O O O I O O O
+train-889	fb:m.085gk	whitman 's	fb:influence.influence_node.influenced_by	fb:m.02lt8	what influenced whitman 's poetry	O O I I O
+train-890	fb:m.06c44	wagner	fb:music.composer.compositions	fb:m.0__2zb2	what did wagner compose	O O I O
+train-891	fb:m.03djm	george washington carver	fb:common.topic.notable_types	fb:m.02k76m0	what george washington carver famous for	O I I I O O
+train-892	fb:m.03rj0	iceland	fb:location.country.languages_spoken	fb:m.01gmkg	what language do they speak in iceland wikipedia	O O O O O O I O
+train-893	fb:m.0487_	kansas city chiefs	fb:sports.sports_team.location	fb:m.04f_d	where do the kansas city chiefs play	O O O I I I O
+train-894	fb:m.01_d4	chicago	fb:base.biblioness.bibs_location.state	fb:m.03v0t	what state in chicago in	O O O I O
+train-895	fb:m.06t1s0	euro 2012	fb:time.event.locations	fb:m.02qbpd	where will euro 2012 be	O O I I O
+train-896	fb:m.02h3tp	patrick swayze	fb:music.artist.track	fb:m.010fyfc	what did patrick swayze sing	O O I I O
+train-897	fb:m.04gqr	libya	fb:location.country.form_of_government	fb:m.02tz3y	what was the political system in libya	O O O O O O I
+train-898	fb:m.047876	palestine	fb:location.location.containedby	fb:m.01ffbn	where is the nation of palestine	O O O O O I
+train-899	fb:m.07484	saki	fb:people.person.place_of_birth	fb:m.05ql8_	where did saki live	O O I O
+train-900	fb:m.01qmz	charles babbage	fb:base.argumentmaps.innovator.original_ideas	fb:m.0nf_	what did charles babbage make	O O I I O
+train-901	fb:m.0vzm	austin	fb:symbols.namesake.named_after	fb:m.0hhsw	what does the name austin stand for	O O O O I O O
+train-902	fb:m.094xz	mount st helens	fb:location.location.containedby	fb:m.059g4	where is mount st helens	O O I I I
+train-903	fb:m.0g8lsf	littleton	fb:location.location.containedby	fb:m.01n4w	where is downtown littleton	O O O I
+train-904	fb:m.0gztl	southwest airlines	fb:organization.organization.founders	fb:m.03wk_6	who started southwest airlines	O O I I
+train-905	fb:m.05tfm	steelers	fb:sports.professional_sports_team.owner_s	fb:m.03nrwfz	who currently owns the steelers	O O O O I
+train-906	fb:m.07f1x	thailand	fb:location.country.currency_used	fb:m.0mcb5	what currency does thailand accept	O O O I O
+train-907	fb:m.094xz	mount st helens	fb:geography.mountain.mountain_type	fb:m.015kp7	what is mount st helens	O O I I I
+train-908	fb:m.0gzh	abe lincoln	fb:medicine.notable_person_with_medical_condition.condition	fb:m.02s645	what disease did abe lincoln have	O O O I I O
+train-909	fb:m.0d8pw	kate chopin	fb:people.person.place_of_birth	fb:m.06wxw	where did kate chopin grow up	O O I I O O
+train-910	fb:m.02jx1	england	fb:location.country.form_of_government	fb:m.01q20	what is the political system in england	O O O O O O I
+train-911	fb:m.0pth	antonio vivaldi	fb:people.person.profession	fb:m.012vv0	what was antonio vivaldi known for	O O I I O O
+train-912	fb:m.0d9jr	seattle	fb:travel.travel_destination.tourist_attractions	fb:m.01k7v7	what are fun things to do in seattle wa	O O O O O O O I O
+train-913	fb:m.019fz	ben franklin	fb:people.person.profession	fb:m.016fc2	what jobs did ben franklin do	O O O I I O
+train-914	fb:m.02wvk7d	ann romney	fb:people.person.place_of_birth	fb:m.02dtg	where is ann romney from	O O I I O
+train-915	fb:m.02j9z	europe	fb:base.locations.continents.countries_within	fb:m.0154j	what countries make up continental europe	O O O O O I
+train-916	fb:m.051cc	martin luther king	fb:people.deceased_person.place_of_death	fb:m.0c_m3	where did martin luther king got shot	O O I I I O O
+train-917	fb:m.06f32	taiwan	fb:location.country.official_language	fb:m.0653m	what language they speak in taiwan	O O O O O I
+train-918	fb:m.03jvx	howard carter	fb:people.person.profession	fb:m.02h6pd1	what was howard carter 's job	O O I I O O
+train-919	fb:m.0pth	antonio vivaldi	fb:music.artist.genre	fb:m.01fsz	what music did antonio vivaldi compose	O O O I I O
+train-920	fb:m.0160nk	tulane university	fb:education.educational_institution.mascot	fb:m.05g1yr7	what is tulane university 's mascot	O O I I O O
+train-921	fb:m.05b7q	north korea	fb:location.country.form_of_government	fb:m.01gt0n	what government type is north korea	O O O O I I
+train-922	fb:m.01r32	calgary	fb:base.biblioness.bibs_location.state	fb:m.0j95	which province is calgary canada in	O O O I O O
+train-923	fb:m.05jbn	nashville	fb:travel.travel_destination.tourist_attractions	fb:m.01r0x4	what do do in nashville tn	O O O O I O
+train-924	fb:m.02llzy	kurt busch	fb:base.nascar.nascar_driver.team	fb:m.073mq9	who does kurt busch drive for now	O O I I O O O
+train-925	fb:m.043q0	jefferson davis	fb:people.deceased_person.place_of_burial	fb:m.048sj4	where is jefferson davis buried	O O I I O
+train-926	fb:m.0d07gg	where did darfur	fb:time.event.locations	fb:m.02vtml	where did darfur happen	I I I O
+train-927	fb:m.09889g	michael jackson	fb:food.diet_follower.follows_diet	fb:m.07_lq	what does michael jackson like to eat	O O I I O O O
+train-928	fb:m.02348n	jack osbourne	fb:medicine.notable_person_with_medical_condition.condition	fb:m.0dcqh	what disease has jack osbourne got	O O O I I O
+train-929	fb:m.0sjdw	plainfield	fb:location.hud_county_place.county	fb:m.0l3kx	what county is plainfield il in	O O O I O O
+train-930	fb:m.01xbgx	cambodia	fb:location.country.languages_spoken	fb:m.01lqm	what do they speak in cambodia	O O O O O I
+train-931	fb:m.035qy	greece	fb:location.country.form_of_government	fb:m.018wl5	what form of government does greece use	O O O O O I O
+train-932	fb:m.01crd5	vietnam	fb:location.country.form_of_government	fb:m.01fkst	what is the current government of vietnam	O O O O O O I
+train-933	fb:m.011wgw	toussaint louverture	fb:people.person.place_of_birth	fb:m.01f5d8	where did toussaint louverture live	O O I I O
+train-934	fb:m.032f6	farsi	fb:language.human_language.countries_spoken_in	fb:m.0161c	what country do they speak farsi	O O O O O I
+train-935	fb:m.01hywq	puntland	fb:location.location.containedby	fb:m.06tgw	where is puntland somalia	O O I O
+train-936	fb:m.01sn3	cleveland	fb:location.location.time_zones	fb:m.02hcv8	what time zone am i in cleveland ohio	O O O O O O I O
+train-937	fb:m.0cvyp	hudson river	fb:location.location.containedby	fb:m.059g4	where 's the hudson river	O O O I I
+train-938	fb:m.01vrncs	bob dylan	fb:music.artist.track	fb:g.11b61n9g0p	what does bob dylan sing	O O I I O
+train-939	fb:m.027rn	dominican republic	fb:location.country.languages_spoken	fb:m.02dhwl	what does the dominican republic speak	O O O I I O
+train-940	fb:m.0h7h6	toronto	fb:base.biblioness.bibs_location.state	fb:m.05kr_	what province is toronto canada located in	O O O I O O O
+train-941	fb:m.01hf7f	of vicksburg	fb:time.event.locations	fb:m.04tgp	where was the battle of vicksburg located	O O O O I I O
+train-942	fb:m.05qx1	panama	fb:base.locations.countries.continent	fb:m.059g4	where is the country of panama located	O O O O O I O
+train-943	fb:m.0191h5	john frusciante	fb:music.artist.album	fb:m.01022704	what albums did john frusciante play on	O O O I I O O
+train-944	fb:m.07_m2	vincent van gogh	fb:visual_art.visual_artist.associated_periods_or_movements	fb:m.015xrq	what style of art did vincent van gogh do	O O O O O I I I O
+train-945	fb:m.0246n2	aldi	fb:organization.organization.place_founded	fb:m.017gry	when did aldi originate	O O I O
+train-946	fb:m.0d05w3	china	fb:location.country.official_language	fb:m.0653m	what type of language does china speak	O O O O O I O
+train-947	fb:m.019fz	benjamin franklin	fb:people.person.profession	fb:m.016fc2	what other jobs did benjamin franklin have	O O O O I I O
+train-948	fb:m.07b_l	texas	fb:location.us_state.capital	fb:m.0vzm	what is the capital city of texas usa	O O O O O O I O
+train-949	fb:m.041rx	jewish people	fb:people.ethnicity.languages_spoken	fb:m.02h40lc	what language did jewish people speak	O O O I I O
+train-950	fb:m.0rh6k	washington dc	fb:travel.travel_destination.tourist_attractions	fb:m.01_0bd	what to see in washington dc in 2 days	O O O O I I O O O
+train-951	fb:m.0nqph	arlington	fb:location.citytown.postal_codes	fb:m.020yf_6	what is arlington texas zip code	O O I O O O
+train-952	fb:m.03_3d	japan	fb:location.country.form_of_government	fb:m.018wl5	what kind of voting system does japan have	O O O O O O I O
+train-953	fb:m.0gs6vr	selena gomez	fb:people.person.place_of_birth	fb:m.013mbz	where was selena gomez raised	O O I I O
+train-954	fb:m.04_0gs	super bowl xliv	fb:sports.sports_championship_event.champion	fb:m.05g3v	who won the super bowl xliv 2010	O O O I I I O
+train-955	fb:m.0g7km1	tim tebow	fb:people.person.religion	fb:m.01lp8	what is tim tebow 's religion	O O I I O O
+train-956	fb:m.0rhs4	port st johns	fb:location.location.containedby	fb:m.02xry	where is port st johns florida	O O I I I O
+train-957	fb:m.025sm_7	the school of athens	fb:visual_art.artwork.art_form	fb:m.02_3k	what medium is the school of athens	O O O I I I I
+train-958	fb:m.0gbjz	sam houston	fb:people.person.profession	fb:m.012qdp	who was sam houston answers	O O I I O
+train-959	fb:m.01r6lw	john stockton	fb:basketball.basketball_player.position_s	fb:m.02sf_r	what position did john stockton play	O O O I I O
+train-960	fb:m.0bslxh	tim gunn	fb:people.person.profession	fb:m.02hrh1q	what does tim gunn do for a living	O O I I O O O O
+train-961	fb:m.056_y	madrid	fb:travel.travel_destination.tourist_attractions	fb:m.01bc9m	what sights to see in madrid	O O O O O I
+train-962	fb:m.06trw	spratly islands	fb:location.location.containedby	fb:m.0j0k	where is the spratly islands located	O O O I I O
+train-963	fb:m.0345h	germany	fb:location.country.form_of_government	fb:m.0c9rw5	what type of government germany have	O O O O I O
+train-964	fb:m.086dny	mark zuckerberg	fb:internet.website_owner.websites_owned	fb:m.02y1vz	what website did mark zuckerberg co founder	O O O I I O O
+train-965	fb:m.015fr	brazil	fb:location.country.form_of_government	fb:m.01d9r3	what sort of government does brazil have	O O O O O I O
+train-966	fb:m.07bcn	sacramento	fb:location.hud_county_place.county	fb:m.0bxqq	what county is sacramento located in	O O O I O O
+train-967	fb:m.05d8vj	mary kay	fb:organization.organization.founders	fb:m.02crtt	who started mary kay	O O I I
+train-968	fb:m.02k54	egypt	fb:location.country.languages_spoken	fb:m.012zfy	what languages do people speak in egypt	O O O O O O I
+train-969	fb:m.027z_f	eric cantor	fb:people.person.place_of_birth	fb:m.0dzt9	where is eric cantor from	O O I I O
+train-970	fb:m.010y34	morgantown	fb:location.citytown.postal_codes	fb:m.021l1w6	what is the zip code for morgantown in	O O O O O O I O
+train-971	fb:m.0c8wxp	catholics	fb:religion.religion.deities	fb:m.03qsc	what god do catholics believe in	O O O I O O
+train-972	fb:m.0d05w3	china	fb:location.country.form_of_government	fb:m.01fkst	what form of government exists in china	O O O O O O I
+train-973	fb:m.0cyhq	irving berlin	fb:people.person.profession	fb:m.01c72t	who was irving berlin and what did he do	O O I I O O O O O
+train-974	fb:m.0jgd	argentina	fb:location.country.currency_used	fb:m.024nzm	what the currency in argentina	O O O O I
+train-975	fb:m.0d6lp	san francisco	fb:travel.travel_destination.tourist_attractions	fb:m.012_1t	what to do downtown san francisco	O O O O I I
+train-976	fb:m.0rqyx	clearwater	fb:location.location.nearby_airports	fb:m.03d2j65	what airport do you fly into for clearwater florida	O O O O O O O I O
+train-977	fb:m.05cvs	niccolo machiavelli	fb:influence.influence_node.influenced_by	fb:m.01tf5	who was niccolo machiavelli influenced by	O O I I O O
+train-978	fb:m.0d060g	canada	fb:location.country.form_of_government	fb:m.018wl5	what form of government does canada have	O O O O O I O
+train-979	fb:m.01mpq7s	beyonce	fb:people.person.children	fb:m.0hvsrmc	what is beyonce 's daughters name	O O I O O O
+train-980	fb:m.02vydtw	chelsea kane	fb:people.person.profession	fb:m.02h6p92	who is chelsea kane	O O I I
+train-981	fb:m.0jdd	afghanistan	fb:location.country.form_of_government	fb:m.01fgl7	what form of government does afghanistan have	O O O O O I O
+train-982	fb:m.0chghy	australia	fb:location.country.form_of_government	fb:m.018wl5	what type of government does australia use	O O O O O I O
+train-983	fb:m.01ct6	baltimore ravens	fb:sports.sports_team.colors	fb:m.019sc	what color are the baltimore ravens	O O O O I I
+train-984	fb:m.08304	william morris	fb:influence.influence_node.influenced_by	fb:m.0k5mt	what influenced william morris to be an artist	O O I I O O O O
+train-985	fb:m.0d05w3	china	fb:sports.sports_team_location.teams	fb:m.026p73l	what sport is popular in china	O O O O O I
+train-986	fb:m.0dlwj	phnom penh	fb:travel.travel_destination.tourist_attractions	fb:m.026462	where to go in phnom penh cambodia	O O O O I I O
+train-987	fb:m.0261tkp	alvin smith	fb:people.deceased_person.cause_of_death	fb:m.0dh11	what did alvin smith died from	O O I I O O
+train-988	fb:m.02vzc	finland	fb:location.country.languages_spoken	fb:m.01gp_d	what language do you speak in finland	O O O O O O I
+train-989	fb:m.04f_d	kansas city	fb:location.location.people_born_here	fb:g.120l2v9b	what famous people are from kansas city	O O O O O I I
+train-990	fb:m.09c7w0	us	fb:location.country.currency_used	fb:m.09nqf	what type of currency does the us have	O O O O O O I O
+train-991	fb:m.036pg	gary coleman	fb:people.deceased_person.place_of_death	fb:m.0l39b	where did gary coleman live when he died	O O I I O O O O
+train-992	fb:m.01t807	georgia o'keeffe	fb:influence.influence_node.influenced	fb:m.06hzym	who did georgia o'keeffe inspired	O O I I O
+train-993	fb:m.0gcgd	roy lichtenstein	fb:influence.influence_node.influenced_by	fb:m.01sj_s	what influenced roy lichtenstein artwork	O O I I O
+train-994	fb:m.015fr	brazil	fb:location.country.languages_spoken	fb:m.02bjrlw	what language brazil use	O O I O
+train-995	fb:m.011wgw	toussaint l'ouverture	fb:people.person.place_of_birth	fb:m.01f5d8	where was toussaint l'ouverture from	O O I I O
+train-996	fb:m.0d35y	phoenix	fb:periodicals.newspaper_circulation_area.newspapers	fb:m.03cgzvj	what is the newspaper in phoenix	O O O O O I
+train-997	fb:m.0jg34	andres segovia	fb:music.group_member.instruments_played	fb:m.0342h	what guitar did andres segovia use	O O O I I O
+train-998	fb:m.040dv	jane austen	fb:people.person.place_of_birth	fb:m.06ybhf	where did jane austen grow up	O O I I O O
+train-999	fb:m.05csx	niger river	fb:geography.river.basin_countries	fb:m.0164v	what countries does the niger river flow through	O O O O I I O O
+train-1000	fb:m.046nx	the grimm brothers	fb:people.person.place_of_birth	fb:m.028_0l	where the grimm brothers were born	O I I I O O
+train-1001	fb:m.03wnh	did the baltimore colts	fb:american_football.football_team.division	fb:m.068g_2	what division did the baltimore colts play in	O O I I I I O O
+train-1002	fb:m.0ct18	henry clay	fb:people.person.profession	fb:m.016fc2	what is henry clay known for	O O I I O O
+train-1003	fb:m.06w2sn5	justin bieber	fb:people.person.place_of_birth	fb:m.0b1t1	where did justin bieber grew up	O O I I O O
+train-1004	fb:m.01dcm	battle of waterloo	fb:time.event.locations	fb:m.017qwy	where was the battle of waterloo held	O O O I I I O
+train-1005	fb:m.02h9_l	toni braxton	fb:people.person.place_of_birth	fb:m.0ttlb	where was toni braxton born and raised	O O I I O O O
+train-1006	fb:m.0345h	germany	fb:location.country.form_of_government	fb:m.0c9rw5	what is the government structure of germany	O O O O O O I
+train-1007	fb:m.0ff0d	gobi desert	fb:location.location.containedby	fb:m.04w8f	where is the gobi desert located	O O O I I O
+train-1008	fb:m.03_lpf	john garcia	fb:people.person.profession	fb:m.09jwl	who is john garcia	O O I I
+train-1009	fb:m.06c62	rome	fb:travel.travel_destination.tourist_attractions	fb:m.01_jls	what are some sights to see in rome	O O O O O O O I
+train-1010	fb:m.07ssc	united kingdom	fb:base.aareas.schema.administrative_area.administrative_children	fb:m.02jx1	what 4 countries are part of the united kingdom	O O O O O O O I I
+train-1011	fb:m.09c7w0	usa	fb:base.locations.countries.continent	fb:m.059g4	what continent is the usa located in	O O O O I O O
+train-1012	fb:m.01y4t	yangtze river	fb:geography.river.mouth	fb:m.018smn	what sea does the yangtze river empty into	O O O O I I O O
+train-1013	fb:m.0j11	aruba	fb:location.country.currency_used	fb:m.08s1k3	what money do you use in aruba	O O O O O O I
+train-1014	fb:m.0vmt	arizona	fb:location.location.time_zones	fb:m.02hczc	what utc time zone is arizona	O O O O O I
+train-1015	fb:m.03ryn	indonesia	fb:location.country.languages_spoken	fb:m.01qzl2	what is the language used in indonesia	O O O O O O I
+train-1016	fb:m.02h40lc	english	fb:language.human_language.countries_spoken_in	fb:m.0160w	what country speak english as native language	O O O I O O O
+train-1017	fb:m.0ngg	caesar augustus	fb:people.person.profession	fb:m.01g14w	what is caesar augustus known for	O O I I O O
+train-1018	fb:m.03ppx	helen keller	fb:medicine.notable_person_with_medical_condition.condition	fb:m.014wq_	what disease did helen keller	O O O I I
+train-1019	fb:m.0j8t3	jacques cartier	fb:people.person.nationality	fb:m.0f8l9c	what country did jacques cartier came from	O O O I I O O
+train-1020	fb:m.015fr	brazil	fb:location.country.languages_spoken	fb:m.02bjrlw	what language do people speak in brazil wikipedia	O O O O O O I O
+train-1021	fb:m.02zs4	ford motor company	fb:automotive.company.make_s	fb:m.018ff1	what car companies does ford motor company own	O O O O I I I O
+train-1022	fb:m.06t2t	singapore	fb:base.locations.countries.continent	fb:m.0j0k	where is singapore on a world map	O O I O O O O
+train-1023	fb:m.02_286	new york city	fb:location.citytown.postal_codes	fb:m.0_mhlxy	what is the zip code of new york city	O O O O O O I I I
+train-1024	fb:m.02y0yt	gilbert gottfried	fb:people.person.profession	fb:m.018gz8	who is gilbert gottfried snl	O O I I O
+train-1025	fb:m.06mkj	spain	fb:location.location.people_born_here	fb:g.11_p4s0fk	who are famous people from spain	O O O O O I
+train-1026	fb:m.06bnz	russia	fb:location.country.form_of_government	fb:m.01dw03	what form of government does russia have today	O O O O O I O O
+train-1027	fb:m.01ymn7	paige halliwell 's	fb:fictional_universe.fictional_character.powers_or_abilities	fb:m.04kb1zt	what is paige halliwell 's powers	O O I I I O
+train-1028	fb:m.02pn7	esther	fb:people.person.place_of_birth	fb:m.0gf0n	what city did esther live in	O O O I O O
+train-1029	fb:m.0rsjf	to do in daytona	fb:travel.travel_destination.tourist_attractions	fb:m.0260dxn	what to do in daytona	O I I I I
+train-1030	fb:m.01z4fn	american federation of labor	fb:organization.organization.founders	fb:m.01w91b	who helped form the american federation of labor	O O O O I I I I
+train-1031	fb:m.0211mz	singapore zoo	fb:location.location.containedby	fb:m.06t2t	where is the singapore zoo	O O O I I
+train-1032	fb:m.059rby	new york	fb:travel.travel_destination.tourist_attractions	fb:m.013r41	what are historical places in new york	O O O O O I I
+train-1033	fb:m.01762z	larry ellison	fb:people.person.profession	fb:m.012t_z	who is larry ellison oracle	O O I I O
+train-1034	fb:m.06t2t	singapore	fb:location.country.languages_spoken	fb:m.01r2l	what do you speak in singapore	O O O O O I
+train-1035	fb:m.0hnv0	tutsi	fb:people.ethnicity.geographic_distribution	fb:m.06dfg	where did the tutsi come from	O O O I O O
+train-1036	fb:m.05v8c	the philippines	fb:location.country.languages_spoken	fb:m.01jb8r	how many languages are there in the philippines	O O O O O O I I
+train-1037	fb:m.05b7q	north korea	fb:location.country.form_of_government	fb:m.01gt0n	what type of political system does north korea have	O O O O O O I I O
+train-1038	fb:m.041_y	jerome david salinger	fb:people.deceased_person.place_of_death	fb:m.0xk73	where did jerome david salinger died	O O I I I O
+train-1039	fb:m.07_fl	venice	fb:travel.travel_destination.tourist_attractions	fb:m.01z4sg	what to do in venice beach ca	O O O O I O O
+train-1040	fb:m.09bcm	venus	fb:symbols.namesake.named_after	fb:m.09cxs	what is venus named for	O O I O O
+train-1041	fb:m.05kr_	ontario	fb:location.province.capital	fb:m.0h7h6	what is capital city of ontario	O O O O O I
+train-1042	fb:m.07f1x	thailand	fb:location.country.currency_used	fb:m.0mcb5	what currency does thailand use	O O O I O
+train-1043	fb:m.02bjrlw	italian	fb:language.human_language.main_country	fb:m.03rjj	what two countries speak italian	O O O O I
+train-1044	fb:m.0jmfb	houston rockets	fb:sports.sports_team.arena_stadium	fb:m.01tx3t	where do the houston rockets play basketball	O O O I I O O
+train-1045	fb:m.09889g	michael jackson	fb:music.artist.album	fb:g.11b5q8l129	what are all of michael jackson albums	O O O O I I O
+train-1046	fb:m.0157m	bill clinton	fb:government.us_president.vice_president	fb:m.0d05fv	who was the vice president when bill clinton was in office	O O O O O O I I O O O
+train-1047	fb:m.03spz	israel	fb:location.country.official_language	fb:m.03hkp	what is the dominant language in israel	O O O O O O I
+train-1048	fb:m.0cmpn	george v	fb:people.deceased_person.cause_of_death	fb:m.02m25	what did george v die of	O O I I O O
+train-1049	fb:m.08bbzt	samsung lions	fb:sports.sports_team.arena_stadium	fb:m.0cmd6s	where do samsung lions play	O O I I O
+train-1050	fb:m.04jpl	london	fb:location.location.time_zones	fb:m.03bdv	what time zone is it in london england	O O O O O O I O
+train-1051	fb:m.04wqr	marilyn monroe	fb:people.person.profession	fb:m.01d_h8	who is marilyn monroe and why is she famous	O O I I O O O O O
+train-1052	fb:m.06rkl	sherlock holmes	fb:fictional_universe.fictional_character.occupation	fb:m.011__xll	what was sherlock holmes famous for	O O I I O O
+train-1053	fb:m.029jpy	new england	fb:location.location.time_zones	fb:m.02hcv8	what timezone is new england usa in	O O O I I O O
+train-1054	fb:m.043vc	jacksonville jaguars	fb:sports.sports_team.location	fb:m.0ggh3	what city is the jacksonville jaguars from	O O O O I I O
+train-1055	fb:m.04c28	kurdish	fb:people.ethnicity.geographic_distribution	fb:m.0j0k	where kurdish people from	O I O O
+train-1056	fb:m.05zjd	portuguese language	fb:language.human_language.countries_spoken_in	fb:m.015fr	where is portuguese language spoken	O O I I O
+train-1057	fb:m.09g125	greyton western cape	fb:location.location.containedby	fb:m.01tjt2	where is greyton western cape	O O I I I
+train-1058	fb:m.05zjd	portuguese	fb:base.rosetta.languoid.parent	fb:m.05tk9jx	where does portuguese originate	O O I O
+train-1059	fb:m.03h3y8v	duffy	fb:music.artist.track	fb:m.0_61gwm	what does duffy sing	O O I O
+train-1060	fb:m.02hv0w	bob ross	fb:people.deceased_person.cause_of_death	fb:m.0jdk0	what did bob ross die of	O O I I O O
+train-1061	fb:m.01d6g	the orioles	fb:sports.sports_team.championships	fb:m.046_p6	when did the orioles win the pennant	O O I I O O O
+train-1062	fb:m.05v8c	the philippines	fb:location.country.currency_used	fb:m.01h5bw	what kind of money do the philippines use	O O O O O I I O
+train-1063	fb:m.05tfm	steelers	fb:sports.professional_sports_team.owner_s	fb:m.03nrwfz	who owns the steelers football team	O O O I O O
+train-1064	fb:m.030q7	world cup	fb:user.gogza.default_domain.recurring_event.recurrance_period	fb:m.02sjt6q	what time is world cup soccer	O O O I I O
+train-1065	fb:m.02lp71	alice paul	fb:people.person.place_of_birth	fb:m.0xl8s	where was alice paul born	O O I I O
+train-1066	fb:m.01kmd4	kobe bryant	fb:people.person.profession	fb:m.01445t	who 's kobe bryant	O O I I
+train-1067	fb:m.0ws7	arizona cardinals	fb:american_football.football_team.current_head_coach	fb:m.027wt58	who is the arizona cardinals football coach	O O O I I O O
+train-1068	fb:m.0jnlm	chicago blackhawks	fb:ice_hockey.hockey_team.coach	fb:m.03clfy	who is the head coach of the chicago blackhawks	O O O O O O O I I
+train-1069	fb:m.04qh81	david ruffin	fb:people.deceased_person.cause_of_death	fb:m.01tf_6	who killed david ruffin	O O I I
+train-1070	fb:m.03spz	israel	fb:base.locations.countries.continent	fb:m.0j0k	what continent does israel belong to	O O O I O O
+train-1071	fb:m.06nm1	spanish	fb:language.human_language.countries_spoken_in	fb:m.0162v	what countries speak spanish wikipedia	O O O I O
+train-1072	fb:m.02h8k7	susan atkins	fb:people.deceased_person.cause_of_death	fb:m.09969	what did susan atkins die of	O O I I O O
+train-1073	fb:m.055c8	morgan freeman	fb:people.person.place_of_birth	fb:m.0c_m3	where did morgan freeman come from	O O I I O O
+train-1074	fb:m.08k5jg	navajo tribe live	fb:people.ethnicity.geographic_distribution	fb:m.0162sr	where did the navajo tribe live	O O O I I I
+train-1075	fb:m.0d060g	canada	fb:sports.sports_team_location.teams	fb:m.02py_tx	what sports do they do in canada	O O O O O O I
+train-1076	fb:m.0jgd	argentina	fb:location.country.languages_spoken	fb:m.02bjrlw	what is language in argentina	O O O O I
+train-1077	fb:m.06bnz	russian	fb:location.country.languages_spoken	fb:m.017dsl	what language do russian people speak	O O O I O O
+train-1078	fb:m.04lg6	leonardo da vinci	fb:influence.influence_node.influenced_by	fb:m.01fgbq	who was leonardo da vinci teacher	O O I I I O
+train-1079	fb:m.0cl9qq	vasco nunez de balboa	fb:people.person.profession	fb:m.040vc4s	what was vasco nunez de balboa original purpose of his journey	O O I I I I O O O O O
+train-1080	fb:m.0713r	the sf giants	fb:sports.professional_sports_team.owner_s	fb:m.03cyzbv	who owns the sf giants owner	O O I I I O
+train-1081	fb:m.01xpg	carthage	fb:location.location.containedby	fb:m.07fj_	where was ancient carthage located	O O O I O
+train-1082	fb:m.015fr	brazil	fb:location.country.currency_used	fb:m.03385m	what is the currency used in brazil	O O O O O O I
+train-1083	fb:m.084l5	washington redskins	fb:sports.sports_team.previously_known_as	fb:m.06mp_z5	what was the first name of the washington redskins	O O O O O O O I I
+train-1084	fb:m.06yxd	south carolina	fb:base.aareas.schema.administrative_area.capital	fb:m.0fv_t	what is the capital city of south carolina	O O O O O O I I
+train-1085	fb:m.065n9c	's wayne state	fb:location.location.containedby	fb:m.05fhy	where 's wayne state	O I I I
+train-1086	fb:m.026sgt0	shawn johnson	fb:people.person.place_of_birth	fb:m.02j3w	where is shawn johnson gymnast from	O O I I O O
+train-1087	fb:m.06bnz	russia	fb:location.country.form_of_government	fb:m.01dw03	what political system does russia use	O O O O I O
+train-1088	fb:m.01s21dg	john mayer	fb:music.artist.genre	fb:m.01243b	what kinda music does john mayer sing	O O O O I I O
+train-1089	fb:m.06mkj	spain	fb:location.country.official_language	fb:m.06nm1	what do people from spain speak	O O O O I O
+train-1090	fb:m.03rjj	italy	fb:location.country.official_language	fb:m.02bjrlw	what are the major languages in italy	O O O O O O I
+train-1091	fb:m.07bty	thomas edison	fb:law.inventor.inventions	fb:m.01cbh9	what things did thomas edison invent	O O O I I O
+train-1092	fb:m.0gg9kfr	where was the earthquake	fb:time.event.locations	fb:m.02yc5b	where was the earthquake in christchurch	I I I I O O
+train-1093	fb:m.059g4	north america	fb:base.locations.continents.countries_within	fb:m.0160w	what countries in north america continent	O O O I I O
+train-1094	fb:m.04h9h	roman language	fb:language.human_language.language_family	fb:m.03t28	where does the roman language come from	O O O I I O O
+train-1095	fb:m.0bv70	alice walker	fb:people.person.place_of_birth	fb:m.0frf_	where was alice walker born	O O I I O
+train-1096	fb:m.0d5qx	roman colosseum	fb:location.location.containedby	fb:m.03rjj	where was the roman colosseum located	O O O I I O
+train-1097	fb:m.06hx2	robert kennedy	fb:people.deceased_person.place_of_death	fb:m.030qb3t	what city was robert kennedy killed in	O O O I I O O
+train-1098	fb:m.0d05w3	china	fb:location.country.official_language	fb:m.0653m	what kind of language do china speak	O O O O O I O
+train-1099	fb:m.016m0v	stephen g. breyer	fb:people.person.place_of_birth	fb:m.0d6lp	where was stephen g. breyer born	O O I I I O
+train-1100	fb:m.03_r3	jamaica	fb:location.country.currency_used	fb:m.04xc2m	what kind of money should i take to jamaica	O O O O O O O O I
+train-1101	fb:m.06cmp	romans write	fb:fictional_universe.fictional_setting.languages	fb:m.0349s	what language did ancient romans write in	O O O O I I O
+train-1102	fb:m.04510	jackson pollock	fb:influence.influence_node.influenced_by	fb:m.01ny1z	what influenced jackson pollock 's work	O O I I O O
+train-1103	fb:m.05b7q	north korea	fb:location.country.form_of_government	fb:m.01gt0n	what form of government does north korea	O O O O O I I
+train-1104	fb:m.012pxw	ayrton senna	fb:people.person.profession	fb:m.02h6nn_	what is ayrton senna	O O I I
+train-1105	fb:m.01p1v	chile	fb:location.country.languages_spoken	fb:m.01y5tq	what language chile speak	O O I O
+train-1106	fb:m.0bv6k	richard wright	fb:common.topic.notable_types	fb:m.01xryvt	what was richard wright known for	O O I I O O
+train-1107	fb:m.02mjmr	obama	fb:people.person.place_of_birth	fb:m.02hrh0_	where was obama born	O O I O
+train-1108	fb:m.01ls2	colombia	fb:location.location.containedby	fb:m.06n3y	where is colombia the country	O O I O O
+train-1109	fb:m.034rd	george washington	fb:people.person.place_of_birth	fb:m.0mmyl	what is george washington 's hometown	O O I I O O
+train-1110	fb:m.06c1y	romanian	fb:location.country.languages_spoken	fb:m.012psb	what language does romanian people speak	O O O I O O
+train-1111	fb:m.015bvl	frances hodgson burnett	fb:book.author.book_editions_published	fb:m.04t_11d	what books did frances hodgson burnett wrote	O O O I I I O
+train-1112	fb:m.0164b	belize	fb:base.locations.countries.continent	fb:m.059g4	what continent is belize located in	O O O I O O
+train-1113	fb:m.03spz	israel	fb:location.country.currency_used	fb:m.01jcw8	what kind of money is used in israel	O O O O O O O I
+train-1114	fb:m.01hmk9	richard pryor	fb:people.person.children	fb:m.05z2sbw	who are richard pryor children	O O I I O
+train-1115	fb:m.0f8l9c	france	fb:location.country.form_of_government	fb:m.01dw03	what is the current government system in france	O O O O O O O I
+train-1116	fb:m.03p77	henry viii	fb:people.person.religion	fb:m.01spm	what religion is king henry viii	O O O O I I
+train-1117	fb:m.03bx_	giovanni pierluigi da palestrina	fb:people.person.place_of_birth	fb:m.02w93f	where did giovanni pierluigi da palestrina live	O O I I I I O
+train-1118	fb:m.04_by	mary shelley	fb:people.person.parents	fb:m.011zsy	who were mary shelley 's parents	O O I I O O
+train-1119	fb:m.08sx40	ben hall	fb:people.person.profession	fb:m.0fckr	what did ben hall do	O O I I O
+train-1120	fb:m.03spz	israel	fb:location.country.languages_spoken	fb:m.02h40lc	what is the local language of israel	O O O O O O I
+train-1121	fb:m.0cvy5	jordan river	fb:geography.river.origin	fb:m.01txc9	where does the jordan river begin	O O O I I O
+train-1122	fb:m.05nrg	oceania	fb:location.location.containedby	fb:m.05rgl	where is oceania on a map	O O I O O O
+train-1123	fb:m.0gct_	henri matisse	fb:visual_art.visual_artist.associated_periods_or_movements	fb:m.015r61	what style of art did henri matisse use	O O O O O I I O
+train-1124	fb:m.02bjrlw	italian	fb:language.human_language.countries_spoken_in	fb:m.015fr	what countries do they speak italian	O O O O O I
+train-1125	fb:m.0dl4g	battle of verdun	fb:time.event.locations	fb:m.0ny95	where was battle of verdun located	O O I I I O
+train-1126	fb:m.04jq2yz	roshon fegan	fb:people.person.ethnicity	fb:m.0x67	what is roshon fegan 's heritage	O O I I O O
+train-1127	fb:m.051vz	milwaukee brewers	fb:sports.sports_team.previously_known_as	fb:m.0fq2vj2	what was the milwaukee brewers old name	O O O I I O O
+train-1128	fb:m.0cgfb	victoria beckham	fb:people.person.children	fb:m.02vk62d	what victoria beckham kids names	O I I O O
+train-1129	fb:m.0ny57	sedona	fb:travel.travel_destination.tourist_attractions	fb:m.026h8t6	what to see near sedona arizona	O O O O I O
+train-1130	fb:m.0gj3r	hatshepsut	fb:people.person.place_of_birth	fb:m.02k54	where did pharaoh hatshepsut live	O O O I O
+train-1131	fb:m.02llzy	kurt busch	fb:base.nascar.nascar_driver.team	fb:m.073mq9	who is kurt busch driving for now	O O I I O O O
+train-1132	fb:m.05cgv	nigerians	fb:location.country.official_language	fb:m.02h40lc	what do most nigerians speak	O O O I O
+train-1133	fb:m.015fr	brazil	fb:location.country.currency_used	fb:m.03385m	what type of currency does brazil use	O O O O O I O
+train-1134	fb:m.081yw	washington	fb:base.aareas.schema.administrative_area.capital	fb:m.0fw1y	what city is the state capital of washington	O O O O O O O I
+train-1135	fb:m.03h64	hong kong	fb:base.locations.countries.continent	fb:m.0j0k	where is hong kong china	O O I I O
+train-1136	fb:m.0j11	aruba	fb:location.country.currency_used	fb:m.08s1k3	what kind of money do they use in aruba	O O O O O O O O I
+train-1137	fb:m.06c0j	ronald reagan	fb:people.person.place_of_birth	fb:m.0sj7b	where was ronald reagan born and raised	O O I I O O O
+train-1138	fb:m.0f1bg	luke skywalker	fb:fictional_universe.fictional_character.places_lived	fb:m.0kcq0	where does luke skywalker live in star wars	O O I I O O O O
+train-1139	fb:m.01ppq	cyprus	fb:location.country.languages_spoken	fb:m.012psb	what language is cyprus using	O O O I O
+train-1140	fb:m.0d05w3	china	fb:location.country.form_of_government	fb:m.01fkst	what kind of government is china	O O O O O I
+train-1141	fb:m.059j2	netherlands	fb:location.country.languages_spoken	fb:m.02bv9	what language does people in netherlands speak	O O O O O I O
+train-1142	fb:m.0dfyw6	matt dallas	fb:people.person.profession	fb:m.02hrh1q	what does matt dallas do now	O O I I O O
+train-1143	fb:m.011kz4	rudolf virchow	fb:people.person.profession	fb:m.03gq2jw	who was rudolf virchow	O O I I
+train-1144	fb:m.06mzp	switzerland	fb:location.country.languages_spoken	fb:m.02bjrlw	what languages are there in switzerland	O O O O O I
+train-1145	fb:m.01d6g	the world	fb:sports.sports_team.championships	fb:m.046_p6	what years did the orioles play in the world series	O O O O O O O I I O
+train-1146	fb:m.027rn	dominican republic	fb:location.country.official_language	fb:m.06nm1	what are the official languages of the dominican republic	O O O O O O O I I
+train-1147	fb:m.0gz_	aristotle	fb:book.author.book_editions_published	fb:m.059c9_l	what books did aristotle wrote	O O O I O
+train-1148	fb:m.01cf5	the columbia university	fb:location.location.containedby	fb:m.02_286	where is the columbia university located	O O I I I O
+train-1149	fb:m.01fc7p	gallipoli campaign	fb:time.event.locations	fb:m.03czv	where was the gallipoli campaign waged	O O O I I O
+train-1150	fb:m.0h1k6	duluth	fb:location.hud_county_place.county	fb:m.0nh1v	what county is duluth in	O O O I O
+train-1151	fb:m.086qd	whitney houston	fb:people.deceased_person.cause_of_death	fb:m.01g27f	what did whitney houston die of	O O I I O O
+train-1152	fb:m.0db0x	paul revere	fb:people.person.profession	fb:g.125_hzb47	who is paul revere and what did he do	O O I I O O O O O
+train-1153	fb:m.03_r3	jamaica	fb:location.country.official_language	fb:m.01428y	what are the official languages of jamaica	O O O O O O I
+train-1154	fb:m.05v8c	the philippines	fb:location.country.form_of_government	fb:m.01d9r3	what type of government is the philippines	O O O O O I I
+train-1155	fb:m.01vsl	colorado springs	fb:location.location.time_zones	fb:m.02hczc	what time zone is colorado springs co	O O O O I I O
+train-1156	fb:m.0rmg	andrew johnson	fb:people.deceased_person.cause_of_death	fb:m.02y0js	what did andrew johnson die from	O O I I O O
+train-1157	fb:m.0p_70	zambezi river	fb:geography.river.mouth	fb:m.03rz4	what does the zambezi river flow into	O O O I I O O
+train-1158	fb:m.02jx1	england	fb:location.location.time_zones	fb:m.03bdv	what is the timezone in england called	O O O O O I O
+train-1159	fb:m.01_d4	chicago	fb:location.citytown.postal_codes	fb:m.01_6p_k	what zip code is chicago il	O O O O I O
+train-1160	fb:m.01s8wm	lanzarote	fb:geography.island.island_group	fb:m.0hzjwx2	where is lanzarote in a world map	O O I O O O O
+train-1161	fb:m.0hmyfsv	facebook	fb:organization.organization.founders	fb:m.076zfg8	who is facebook 's founder	O O I O O
+train-1162	fb:m.0488g	kansas	fb:location.location.time_zones	fb:m.02fqwt	what time is kansas in	O O O I O
+train-1163	fb:m.0jgd	argentina	fb:location.country.currency_used	fb:m.024nzm	what kind of money does argentina use	O O O O O I O
+train-1164	fb:m.0bv70	alice walker	fb:people.person.profession	fb:m.02xhgwq	what was alice walker famous for	O O I I O O
+train-1165	fb:m.03s9v	isaac newton	fb:law.inventor.inventions	fb:m.01nhc9	what other discoveries did isaac newton discover	O O O O I I O
+train-1166	fb:m.0f8l9c	france	fb:location.country.capital	fb:m.05qtj	what are the major cities in france	O O O O O O I
+train-1167	fb:m.09889g	michael jackson	fb:music.artist.genre	fb:m.021_z5	what kind of music did michael jackson sing	O O O O O I I O
+train-1168	fb:m.0pf00	qin shi huang	fb:people.person.place_of_birth	fb:m.04xtcd	where was emperor qin shi huang born	O O O I I I O
+train-1169	fb:m.0f2w0	san antonio	fb:location.location.time_zones	fb:m.02fqwt	what timezone is texas san antonio in	O O O O I I O
+train-1170	fb:m.0jdx	albania	fb:location.country.languages_spoken	fb:m.012psb	what does albania speak	O O I O
+train-1171	fb:m.09c7w0	us	fb:location.country.form_of_government	fb:m.01d9r3	what kind government does the us have	O O O O O I O
+train-1172	fb:m.02jq1	elvis presley	fb:music.artist.origin	fb:m.0c_m3	where did elvis presley started his career	O O I I O O O
+train-1173	fb:m.0166b	bosnia	fb:base.locations.countries.continent	fb:m.02j9z	where is bosnia	O O I
+train-1174	fb:m.04k1p	lleyton hewitt	fb:people.person.profession	fb:m.02xhr73	who is lleyton hewitt	O O I I
+train-1175	fb:m.016wzw	peru	fb:location.country.languages_spoken	fb:m.01y5tq	what type of language does peru speak	O O O O O I O
+train-1176	fb:m.09k687g	raj kundra	fb:people.person.profession	fb:m.012t_z	what business does raj kundra do	O O O I I O
+train-1177	fb:m.0bwjj	celtics	fb:sports.sports_team.championships	fb:m.0403mzq	when did the celtics win championship	O O O I O O
+train-1178	fb:m.05l71	the raiders	fb:sports.sports_team.championships	fb:m.0_gt_px	when did the raiders win the superbowl	O O I I O O O
+train-1179	fb:m.05cgv	nigeria	fb:location.country.official_language	fb:m.02h40lc	what are the main languages of nigeria	O O O O O O I
+train-1180	fb:m.06mkj	spain	fb:location.country.form_of_government	fb:m.018wl5	what is the government of spain today	O O O O O I O
+train-1181	fb:m.0345_	guatemala	fb:location.country.form_of_government	fb:m.01d9r3	what is guatemala current system of government	O O I O O O O
+train-1182	fb:m.03bkbh	irish	fb:people.ethnicity.languages_spoken	fb:m.0165vf	what kind of language do irish speak	O O O O O I O
+train-1183	fb:m.0h7h6	toronto	fb:location.location.time_zones	fb:m.02hcv8	what time zone is ontario toronto	O O O O O I
+train-1184	fb:m.09889g	michael jackson	fb:medicine.notable_person_with_medical_condition.condition	fb:m.026k8yn	what disease michael jackson	O O I I
+train-1185	fb:m.071vr	san diego	fb:location.location.time_zones	fb:m.02lcqs	what time is in san diego california	O O O O I I O
+train-1186	fb:m.0chhs	invasion of france	fb:time.event.locations	fb:m.05g56	where did the allied invasion of france take place	O O O O I I I O O
+train-1187	fb:m.0jzc	arabic	fb:language.human_language.countries_spoken_in	fb:m.0161c	what countries in the world speak arabic	O O O O O O I
+train-1188	fb:m.07b_l	texas	fb:location.location.time_zones	fb:m.02fqwt	what timezone is the state of texas	O O O O O O I
+train-1189	fb:m.06bnz	russia	fb:location.country.languages_spoken	fb:m.017dsl	what languages do they speak in russia	O O O O O O I
+train-1190	fb:m.05zjd	portuguese language	fb:base.rosetta.languoid.parent	fb:m.05tk9jx	where is the portuguese language derived from	O O O I I O O
+train-1191	fb:m.06mkj	spain	fb:location.country.currency_used	fb:m.02l6h	what is the name of the money used in spain	O O O O O O O O O I
+train-1192	fb:m.019fz	benjamin franklin	fb:people.person.place_of_birth	fb:m.01cx_	where was benjamin franklin raised	O O I I O
+train-1193	fb:m.0chghy	australia	fb:location.country.form_of_government	fb:m.018wl5	what type of government does australia currently have	O O O O O I O O
+train-1194	fb:m.03bby1	google	fb:location.location.containedby	fb:m.01zjkmr	where are google headquarters located	O O I O O
+train-1195	fb:m.0pz91	adam sandler	fb:people.person.profession	fb:m.018gz8	who is adam sandler	O O I I
+train-1196	fb:m.0jm74	chicago bulls	fb:basketball.basketball_team.head_coach	fb:m.043jv80	who is the current coach of the chicago bulls	O O O O O O O I I
+train-1197	fb:m.0hzlz	south africa	fb:location.country.languages_spoken	fb:m.0121sr	what do people in south africa speak	O O O O I I O
+train-1198	fb:m.02mjmr	obama	fb:people.person.place_of_birth	fb:m.02hrh0_	what state obama was born	O O I O O
+train-1199	fb:m.0f8l9c	france	fb:location.country.currency_used	fb:m.01qyjx	what is the currency in france	O O O O O I
+train-1200	fb:m.05r7t	puerto rico	fb:sports.sports_team_location.teams	fb:m.02p6lm8	what 's the national sport of puerto rico	O O O O O O I I
+train-1201	fb:m.09jcvs	youtube	fb:organization.organization.founders	fb:m.0d36_b	who created youtube	O O I
+train-1202	fb:m.0cqt41	yankees	fb:sports.sports_team.championships	fb:m.04j70r	what years did yankees win championships	O O O I O O
+train-1203	fb:m.02rxpxn	jermaine paul	fb:people.person.nationality	fb:m.09c7w0	what nationality is jermaine paul	O O O I I
+train-1204	fb:m.042w00	carter g. woodson	fb:organization.organization_founder.organizations_founded	fb:m.08lhk3	what organization did dr. carter g. woodson found	O O O O I I I O
+train-1205	fb:m.0jgd	argentina	fb:location.country.form_of_government	fb:m.01d9r3	what is the political system in argentina	O O O O O O I
+train-1206	fb:m.082db	mozart	fb:people.person.profession	fb:m.012vv0	what did mozart do to become famous	O O I O O O O
+train-1207	fb:m.01lsst	was philip randolph	fb:people.person.profession	fb:m.04hx60	who was philip randolph	O I I I
+train-1208	fb:m.02_286	new york city	fb:tv.tv_location.tv_shows_filmed_here	fb:m.02rkkn1	what tv shows are taped in new york city	O O O O O O I I I
+train-1209	fb:m.019y_2	harlem renaissance	fb:book.book_subject.works	fb:m.0bm0crh	what did the harlem renaissance created	O O O I I O
+train-1210	fb:m.05l71	oakland raiders	fb:user.dylanrocks.national_football_league.nfl_teams_that_have_moved_cities.original_city	fb:m.030qb3t	where did the oakland raiders move from	O O O I I O O
+train-1211	fb:m.043zg	jennifer lopez	fb:people.person.profession	fb:m.012t_z	what does jennifer lopez do	O O I I O
+train-1212	fb:m.06mkj	spain	fb:location.country.currency_used	fb:m.02l6h	what do spain call their money	O O I O O O
+train-1213	fb:m.025_0c	benedict arnold	fb:base.honouriam.dishonoured_person.dishonor_bestowed	fb:m.07y2zxd	what is benedict arnold famous for	O O I I O O
+train-1214	fb:m.02l6h	euro	fb:finance.currency.countries_used	fb:m.014mxp	where is the euro used	O O O I O
+train-1215	fb:m.058w5	michelangelo	fb:influence.influence_node.influenced_by	fb:m.013w_3	what inspired michelangelo	O O I
+train-1216	fb:m.02k54	egypt	fb:location.country.form_of_government	fb:m.01dw03	what is the political system in egypt	O O O O O O I
+train-1217	fb:m.0fpzwf	minneapolis	fb:location.citytown.postal_codes	fb:m.01_x_4z	what is the zip code for minneapolis	O O O O O O I
+train-1218	fb:m.05nd_	olympics	fb:time.recurring_event.current_frequency	fb:m.04q0_4f	when do they have the olympics	O O O O O I
+train-1219	fb:m.06mt91	rihanna	fb:people.person.place_of_birth	fb:m.02p5kp	where did rihanna grow up	O O I O O
+train-1220	fb:m.06bkdx	kate spade	fb:people.person.profession	fb:m.02hqyhw	what is kate spade	O O I I
+train-1221	fb:m.028yj0	seneca	fb:people.ethnicity.geographic_distribution	fb:m.059rby	where the seneca indians lived	O O I O O
+train-1222	fb:m.081k8	william shakespeare	fb:people.person.children	fb:m.026db4d	what was the name of william shakespeare 's children	O O O O O I I O O
+train-1223	fb:m.01qmb2r	johnny crawford	fb:music.artist.track	fb:m.010f1rn	what did johnny crawford sing	O O I I O
+train-1224	fb:m.0hmyfsv	facebook	fb:organization.organization.founders	fb:m.076zfg8	who invented facebook wikipedia	O O I O
+train-1225	fb:m.07fj_	tunisia	fb:location.country.currency_used	fb:m.04z4ml	what is the currency used in tunisia	O O O O O O I
+train-1226	fb:m.034rd	george washington	fb:medicine.notable_person_with_medical_condition.condition	fb:m.0542n	what illnesses did george washington have	O O O I I O
+train-1227	fb:m.0chghy	australia	fb:location.country.languages_spoken	fb:m.02h40lc	what language does people speak in australia	O O O O O O I
+train-1228	fb:m.04wwh	marco polo	fb:people.person.place_of_birth	fb:m.02wm6l	what country did marco polo come from	O O O I I O O
+train-1229	fb:m.0nc3h	shoreditch	fb:location.location.containedby	fb:m.02jx1	where is shoreditch	O O I
+train-1230	fb:m.07ylj	venezuela	fb:sports.sports_team_location.teams	fb:m.03mf9_m	what are the major sports played in venezuela	O O O O O O O I
+train-1231	fb:m.0d3k14	was kennedy	fb:people.deceased_person.place_of_death	fb:m.0f2rq	what city was kennedy shot	O O I I O
+train-1232	fb:m.0k6d2	giovanni da verrazano	fb:people.person.nationality	fb:m.03rjj	what country did giovanni da verrazano represent	O O O I I I O
+train-1233	fb:m.09472	sparta	fb:location.country.form_of_government	fb:m.04mlzp	what form of government was practiced in sparta	O O O O O O O I
+train-1234	fb:m.0b22w	james garfield	fb:people.deceased_person.cause_of_death	fb:m.014w_8	what happened to president james garfield	O O O O I I
+train-1235	fb:m.05v8c	the philippines	fb:location.country.form_of_government	fb:m.01d9r3	what form of government is the philippines	O O O O O I I
+train-1236	fb:m.0ysy	was the first leader	fb:organization.organization.founders	fb:m.01wtr5	who was the first leader of the afl	O I I I I O O O
+train-1237	fb:m.03shp	iran	fb:location.country.form_of_government	fb:m.018wl5	what kind of government does iran have today	O O O O O I O O
+train-1238	fb:m.06mzp	switzerland	fb:location.country.languages_spoken	fb:m.02bjrlw	what other languages does switzerland speak	O O O O I O
+train-1239	fb:m.047sxrj	nicki minaj	fb:music.artist.track	fb:g.11b5x8vwp2	what are all the songs nicki minaj is in	O O O O O I I O O
+train-1240	fb:m.01mp_3	roger sherman	fb:people.person.profession	fb:m.04gc2	what did roger sherman do for a living	O O I I O O O O
+train-1241	fb:m.03qlj	hammurabi	fb:people.person.place_of_birth	fb:m.01cyh	where did hammurabi come from	O O I O O
+train-1242	fb:m.0cvyp	hudson river	fb:geography.river.origin	fb:m.07663d	where does hudson river start	O O I I O
+train-1243	fb:m.09c7w0	united states	fb:location.country.form_of_government	fb:m.01d9r3	what kind of system of government does the united states have	O O O O O O O O I I O
+train-1244	fb:m.081k8	william shakespeare	fb:people.person.profession	fb:m.025352	what did william shakespeare do for a living	O O I I O O O O
+train-1245	fb:m.019fz	benjamin franklin	fb:law.inventor.inventions	fb:m.0135nr	what are 2 inventions benjamin franklin is credited with creating	O O O O I I O O O O
+train-1246	fb:m.019fz	benjamin franklin	fb:law.inventor.inventions	fb:m.0135nr	what was one of benjamin franklin 's inventions	O O O O I I O O
+train-1247	fb:m.07gvx	taoism	fb:religion.religion.texts	fb:m.0164zy	what is the holy book in taoism	O O O O O O I
+train-1248	fb:m.022wr3	nadi fiji	fb:travel.travel_destination.tourist_attractions	fb:m.03cybpb	what to do in nadi fiji	O O O O I I
+train-1249	fb:m.09b6zr	w	fb:government.us_president.vice_president	fb:m.0d0vj4	who was the vice president during george w bush	O O O O O O O I O
+train-1250	fb:m.024xw1	jeremy sumpter	fb:people.person.profession	fb:m.02hrh1q	who is jeremy sumpter	O O I I
+train-1251	fb:m.06xxc	samuel pepys	fb:people.person.nationality	fb:m.07ssc	when was samuel pepys	O O I I
+train-1252	fb:m.0j0g5	mekong river	fb:location.location.partially_containedby	fb:m.01crd5	what country is the mekong river located in	O O O O I I O O
+train-1253	fb:m.01xvb	cleveland browns	fb:sports.professional_sports_team.owner_s	fb:m.0b84nt	who owns the cleveland browns	O O O I I
+train-1254	fb:m.0f2tj	new orleans	fb:location.location.time_zones	fb:m.02fqwt	what is time zone in new orleans	O O O O O I I
+train-1255	fb:m.01lc5	charlie chaplin	fb:film.director.film	fb:g.11r7rjf5y	what films did charlie chaplin direct	O O O I I O
+train-1256	fb:m.04sb4	morse code	fb:law.invention.inventor	fb:m.06q6n	who invented morse code	O O I I
+train-1257	fb:m.0fpzwf	minneapolis	fb:location.hud_county_place.county	fb:m.0nhmw	what county is minneapolis mn in	O O O I O O
+train-1258	fb:m.07_m9_	adolf hitler	fb:people.deceased_person.place_of_death	fb:m.0156q	where was adolf hitler died	O O I I O
+train-1259	fb:m.03jxc	hadrian	fb:people.person.place_of_birth	fb:m.05dn72	where was emperor hadrian born	O O O I O
+train-1260	fb:m.0fn2g	bangkok	fb:travel.travel_destination.tourist_attractions	fb:m.01c1gj	what to do if you have one day in bangkok	O O O O O O O O O I
+train-1261	fb:m.01wdl3	university of alabama	fb:location.location.containedby	fb:m.09c7w0	where is university of alabama located	O O I I I O
+train-1262	fb:m.027f42	michael vick	fb:people.person.profession	fb:m.01xr66	what does michael vick do	O O I I O
+train-1263	fb:m.0gyk6w	george soros	fb:people.person.religion	fb:m.03_gx	what does george soros believe	O O I I O
+train-1264	fb:m.076yxy	tex beneke	fb:people.person.profession	fb:m.029bkp	who was tex beneke	O O I I
+train-1265	fb:m.04107	john steinbeck	fb:people.person.profession	fb:m.02xhgwq	what is john steinbeck best known for	O O I I O O O
+train-1266	fb:m.043rm	james watt	fb:people.person.nationality	fb:m.014tss	what country did james watt come from	O O O I I O O
+train-1267	fb:m.0r1hb	novato	fb:location.hud_county_place.county	fb:m.0l2hf	what county is novato in	O O O I O
+train-1268	fb:m.0146pz	john williams	fb:music.group_member.instruments_played	fb:m.0342h	what instruments does john williams use	O O O I I O
+train-1269	fb:m.0cvy5	jordan river	fb:geography.river.mouth	fb:m.02cnp	where does the jordan river end	O O O I I O
+train-1270	fb:m.05cvs	niccolo machiavelli	fb:book.author.book_editions_published	fb:m.059cj5q	what book did niccolo machiavelli write	O O O I I O
+train-1271	fb:m.04lg6	da vinci	fb:law.inventor.inventions	fb:m.012rm	what inventions did da vinci made	O O O I I O
+train-1272	fb:m.0c9xl9	jackie french	fb:people.person.place_of_birth	fb:m.06y57	where does jackie french live	O O I I O
+train-1273	fb:m.0jm3v	knicks	fb:sports.sports_team.championships	fb:m.0cs1kg	what years did the knicks win the championship	O O O O I O O O
+train-1274	fb:m.0qpqn	scottsdale	fb:location.location.nearby_airports	fb:m.054v10	what airport is close to scottsdale arizona	O O O O O I O
+train-1275	fb:m.0chghy	australia	fb:location.country.currency_used	fb:m.0kz1h	what money system does australia use	O O O O I O
+train-1276	fb:m.0345_	guatemala	fb:location.country.currency_used	fb:m.01crby	what is the money currency in guatemala	O O O O O O I
+train-1277	fb:m.028rk	dwight d. eisenhower	fb:people.person.place_of_birth	fb:m.0101wz	where was dwight d. eisenhower from	O O I I I O
+train-1278	fb:m.01p8s	costa rica	fb:location.country.languages_spoken	fb:m.02hwk2m	what language do people speak in costa rica	O O O O O O I I
+train-1279	fb:m.03gxm	henry ford	fb:people.person.profession	fb:m.012t_z	what was henry ford best known for	O O I I O O O
+train-1280	fb:m.03rjj	italy	fb:location.country.currency_used	fb:m.02l6h	what currency should i bring to italy	O O O O O O I
+train-1281	fb:m.0k9p4	anaheim	fb:location.location.time_zones	fb:m.02lcqs	what time zone is anaheim ca	O O O O I O
+train-1282	fb:m.05v8c	the philippines	fb:location.country.official_language	fb:m.01jb8r	what language they speak in the philippines	O O O O O I I
+train-1283	fb:m.03shp	iran	fb:location.country.form_of_government	fb:m.018wl5	what type of political system does iran have	O O O O O O I O
+train-1284	fb:m.06mzp	switzerland	fb:location.country.languages_spoken	fb:m.02bjrlw	what languages do people speak in switzerland	O O O O O O I
+train-1285	fb:m.0127s7	christina aguilera	fb:people.person.place_of_birth	fb:m.0y62n	where is christina aguilera from	O O I I O
+train-1286	fb:m.0fvzg	oklahoma city	fb:location.location.time_zones	fb:m.02fqwt	what is the time zone in oklahoma city	O O O O O O I I
+train-1287	fb:m.0dl567	taylor swift	fb:music.artist.album	fb:g.11b6hzvg95	what are taylor swift 's albums	O O I I O O
+train-1288	fb:m.02l6h	euro	fb:finance.currency.countries_used	fb:m.014mxp	which countries use euro money	O O O I O

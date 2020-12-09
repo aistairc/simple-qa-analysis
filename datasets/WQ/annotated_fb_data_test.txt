@@ -1,0 +1,859 @@
+www.freebase.com/m/03_r3	www.freebase.com/location/country/languages_spoken	www.freebase.com/m/01428y	what does jamaican people speak
+www.freebase.com/m/0cjcdj	www.freebase.com/people/person/place_of_birth	www.freebase.com/m/058cm	where is jamarcus russell from
+www.freebase.com/m/03djm	www.freebase.com/people/person/place_of_birth	www.freebase.com/m/0xhsh	where was george washington carver from
+www.freebase.com/m/019fz	www.freebase.com/law/inventor/inventions	www.freebase.com/m/0135nr	what else did ben franklin invent
+www.freebase.com/m/0d3k14	www.freebase.com/government/us_president/vice_president	www.freebase.com/m/0f7fy	who was vice president after kennedy died
+www.freebase.com/m/04ly1	www.freebase.com/location/location/time_zones	www.freebase.com/m/02fqwt	what is my timezone in louisiana
+www.freebase.com/m/0w6w	www.freebase.com/people/person/profession	www.freebase.com/m/02h6fbs	what did st augustine do
+www.freebase.com/m/02k54	www.freebase.com/location/country/form_of_government	www.freebase.com/m/01dw03	what kind government does egypt have
+www.freebase.com/m/051cc	www.freebase.com/people/deceased_person/place_of_death	www.freebase.com/m/0c_m3	what town was martin luther king assassinated in
+www.freebase.com/m/02lt8	www.freebase.com/people/deceased_person/place_of_death	www.freebase.com/m/094jv	where did edgar allan poe died
+www.freebase.com/m/013yq	www.freebase.com/travel/travel_destination/tourist_attractions	www.freebase.com/m/0130ft	what to do today in atlanta with kids
+www.freebase.com/m/0d0vqn	www.freebase.com/location/location/time_zones	www.freebase.com/m/02llzg	what timezone is sweden
+www.freebase.com/m/0dhml	www.freebase.com/location/hud_county_place/county	www.freebase.com/m/0cc07	what county is frederick md in
+www.freebase.com/m/07srw	www.freebase.com/location/location/time_zones	www.freebase.com/m/02hczc	what timezone is utah in
+www.freebase.com/m/016zjj	www.freebase.com/location/location/containedby	www.freebase.com/m/02k1b	where is the galapagos islands located on a world map
+www.freebase.com/m/06w2sn5	www.freebase.com/music/composer/compositions	www.freebase.com/m/0116pj4q	what are the songs that justin bieber wrote
+www.freebase.com/m/0hff8	www.freebase.com/people/person/profession	www.freebase.com/m/016fc2	what did george clemenceau do
+www.freebase.com/m/06mt91	www.freebase.com/people/person/place_of_birth	www.freebase.com/m/02p5kp	where was rihanna born and raised
+www.freebase.com/m/02xfj0	www.freebase.com/people/person/place_of_birth	www.freebase.com/m/01kfz0	where george lopez was born
+www.freebase.com/m/0flw86	www.freebase.com/religion/religion/beliefs	www.freebase.com/m/019vqj	what did the islamic people believe in
+www.freebase.com/m/034bs	www.freebase.com/people/deceased_person/cause_of_death	www.freebase.com/m/07jwr	what did george orwell died of
+www.freebase.com/m/02xkkq	www.freebase.com/people/person/profession	www.freebase.com/m/02hrh1q	who is michael buble
+www.freebase.com/m/0tcj6	www.freebase.com/location/hud_county_place/county	www.freebase.com/m/0nnyr	what county is kansas city kansas
+www.freebase.com/m/02n9k	www.freebase.com/people/deceased_person/place_of_death	www.freebase.com/m/0cc56	where did eleanor roosevelt die
+www.freebase.com/m/0gzh	www.freebase.com/government/us_president/vice_president	www.freebase.com/m/03mpk	who was vp for lincoln
+www.freebase.com/m/01v9724	www.freebase.com/book/author/book_editions_published	www.freebase.com/m/028x_z3	what other books did charles dickens write
+www.freebase.com/m/05r7t	www.freebase.com/location/country/currency_used	www.freebase.com/m/09nqf	what is the currency of puerto rico called
+www.freebase.com/m/01n9vwg	www.freebase.com/people/deceased_person/cause_of_death	www.freebase.com/m/04p3w	what kind of cancer did carl wilson have
+www.freebase.com/m/0_xcq	www.freebase.com/location/hud_county_place/county	www.freebase.com/m/0msrq	what county is brentwood tennessee in
+www.freebase.com/m/054vv	www.freebase.com/people/ethnicity/languages_spoken	www.freebase.com/m/064kl7	what language do the maasai tribe speak
+www.freebase.com/m/02h3tp	www.freebase.com/people/deceased_person/cause_of_death	www.freebase.com/m/01_qc_	what disease did patrick swayze died from
+www.freebase.com/m/04lg6	www.freebase.com/visual_art/visual_artist/artworks	www.freebase.com/g/120p4__x	what works of art did leonardo da vinci produce
+www.freebase.com/m/0h7x	www.freebase.com/location/country/capital	www.freebase.com/m/0fhp9	what capital of austria
+www.freebase.com/m/015k7	www.freebase.com/people/person/nationality	www.freebase.com/m/016zwt	what country did buddha come from
+www.freebase.com/m/0rczx	www.freebase.com/location/hud_county_place/county	www.freebase.com/m/0n_ps	what county is greeley colorado in
+www.freebase.com/m/063tn	www.freebase.com/people/person/profession	www.freebase.com/m/01c72t	what did peter tchaikovsky do
+www.freebase.com/m/01vsl3_	www.freebase.com/music/artist/genre	www.freebase.com/m/02k_kn	what type of music did john lennon sing
+www.freebase.com/m/035v3	www.freebase.com/location/administrative_division/country	www.freebase.com/m/0k6nt	which country does greenland belong to
+www.freebase.com/m/0d9jr	www.freebase.com/location/citytown/postal_codes	www.freebase.com/m/020b572	what the zip code for seattle washington
+www.freebase.com/m/01r2l	www.freebase.com/language/human_language/writing_system	www.freebase.com/m/014lbg	what do you call the chinese writing system
+www.freebase.com/m/0d6lp	www.freebase.com/periodicals/newspaper_circulation_area/newspapers	www.freebase.com/m/0_l9flk	what is the name of the san francisco newspaper
+www.freebase.com/m/0jgx	www.freebase.com/base/locations/countries/continent	www.freebase.com/m/02j9z	what continent does armenia belong to
+www.freebase.com/m/02p7_z	www.freebase.com/people/deceased_person/cause_of_death	www.freebase.com/m/0gk4g	what did randy savage died of
+www.freebase.com/m/01lwx	www.freebase.com/book/author/works_written	www.freebase.com/m/010rjsvs	what was the title of the book charles darwin wrote
+www.freebase.com/m/06c97	www.freebase.com/people/deceased_person/place_of_death	www.freebase.com/m/02_286	where did richard nixon die
+www.freebase.com/m/012_6c	www.freebase.com/music/artist/track	www.freebase.com/g/11b67gkcy5	what songs does smokey robinson sing
+www.freebase.com/m/0d3k14	www.freebase.com/government/us_president/vice_president	www.freebase.com/m/0f7fy	who was vice president when jfk was president
+www.freebase.com/m/077qn	www.freebase.com/location/country/official_language	www.freebase.com/m/0k0sb	what is serbian language called
+www.freebase.com/m/03gyl	www.freebase.com/location/country/languages_spoken	www.freebase.com/m/02dhwl	what language is spoken in haiti today
+www.freebase.com/m/046lt	www.freebase.com/people/person/place_of_birth	www.freebase.com/m/0yc84	where is jay leno from
+www.freebase.com/m/07f1x	www.freebase.com/location/country/languages_spoken	www.freebase.com/m/011ln5	what language do people from thailand speak
+www.freebase.com/m/07cbs	www.freebase.com/people/person/profession	www.freebase.com/m/016fc2	what was thomas jefferson role in the declaration of independence
+www.freebase.com/m/01lwx	www.freebase.com/book/author/book_editions_published	www.freebase.com/m/04tvk_0	what was the book written by charles darwin
+www.freebase.com/m/0cdsk	www.freebase.com/location/location/containedby	www.freebase.com/m/02j9z	where is the carpathian mountain range located
+www.freebase.com/m/09482	www.freebase.com/people/person/profession	www.freebase.com/m/05z96	what was robert burns
+www.freebase.com/m/0jgb2	www.freebase.com/people/person/place_of_birth	www.freebase.com/m/0b283h	where did francisco coronado come from
+www.freebase.com/m/02k54	www.freebase.com/location/country/official_language	www.freebase.com/m/025rvv7	what language does egyptian people speak
+www.freebase.com/m/0pwb	www.freebase.com/people/person/children	www.freebase.com/m/01ghr4	what are abraham sons names
+www.freebase.com/m/0fl44	www.freebase.com/music/composition/composer	www.freebase.com/m/02vx721	who wrote the jana gana mana
+www.freebase.com/m/04nw9	www.freebase.com/people/person/profession	www.freebase.com/m/018gz8	what was lucille ball
+www.freebase.com/m/02mjmr	www.freebase.com/influence/influence_node/influenced_by	www.freebase.com/m/018q7p	who inspired obama
+www.freebase.com/m/02f1c	www.freebase.com/people/person/place_of_birth	www.freebase.com/m/0_wrs	where did dolly parton grow up
+www.freebase.com/m/0ldd	www.freebase.com/people/person/profession	www.freebase.com/m/02hv44_	what type of books did agatha christie wrote
+www.freebase.com/m/06mkj	www.freebase.com/location/country/languages_spoken	www.freebase.com/m/017k6	what are the four main languages spoken in spain
+www.freebase.com/m/07hzk	www.freebase.com/base/argumentmaps/original_idea/innovator	www.freebase.com/m/01_z5v	who developed the tcp ip reference model
+www.freebase.com/m/03__y	www.freebase.com/sports/sports_team_location/teams	www.freebase.com/m/0452m3	what team does jordan own
+www.freebase.com/m/05r4w	www.freebase.com/location/country/official_language	www.freebase.com/m/05zjd	what do portuguese people speak
+www.freebase.com/m/0d04z6	www.freebase.com/location/country/languages_spoken	www.freebase.com/m/02dhwl	what language does cuba speak
+www.freebase.com/m/056_y	www.freebase.com/travel/travel_destination/tourist_attractions	www.freebase.com/m/01bc9m	what are the sights to see in madrid
+www.freebase.com/m/04n32	www.freebase.com/music/group_member/instruments_played	www.freebase.com/m/020w2	what instruments did louis armstrong play
+www.freebase.com/m/01n7q	www.freebase.com/location/location/time_zones	www.freebase.com/m/02lcqs	what time zone am i in california
+www.freebase.com/m/0gbsb	www.freebase.com/location/location/containedby	www.freebase.com/m/01zs2h_	where is mission san buenaventura located
+www.freebase.com/m/0r_ch	www.freebase.com/location/location/time_zones	www.freebase.com/m/02lctm	what time in hilo hawaii
+www.freebase.com/m/01tdnyh	www.freebase.com/people/person/profession	www.freebase.com/m/016fly	what did stephen hawking become famous for
+www.freebase.com/m/0g39h	www.freebase.com/symbols/namesake/named_after	www.freebase.com/m/0cw10	where did queensland get its name from
+www.freebase.com/m/0424m	www.freebase.com/book/author/works_written	www.freebase.com/m/067vb8j	what document did james madison write
+www.freebase.com/m/0154j	www.freebase.com/location/country/official_language	www.freebase.com/m/02bv9	what are the three official languages of belgium
+www.freebase.com/m/0rp8x	www.freebase.com/location/location/nearby_airports	www.freebase.com/m/01q6d0	what airport do you fly into to get to destin fl
+www.freebase.com/m/07hyk	www.freebase.com/people/deceased_person/place_of_burial	www.freebase.com/m/05230qz	where was theodore roosevelt buried
+www.freebase.com/m/0gct_	www.freebase.com/visual_art/visual_artist/associated_periods_or_movements	www.freebase.com/m/015r61	what artistic movement did henri matisse belong to
+www.freebase.com/m/04ykz	www.freebase.com/geography/river/mouth	www.freebase.com/m/04yf_	where the missouri river ends
+www.freebase.com/m/07f1x	www.freebase.com/location/country/currency_used	www.freebase.com/m/0mcb5	what type of currency do they use in thailand
+www.freebase.com/m/0f8l9c	www.freebase.com/location/country/form_of_government	www.freebase.com/m/01dw03	what type of government does france use
+www.freebase.com/m/02g3w	www.freebase.com/people/person/profession	www.freebase.com/m/015h31	what did dr. seuss do
+www.freebase.com/m/03x1x	www.freebase.com/people/ethnicity/geographic_distribution	www.freebase.com/m/05kr_	where did the iroquois indians come from
+www.freebase.com/m/03bnv	www.freebase.com/music/guitarist/guitars_played	www.freebase.com/m/02m873	what kind of guitar did george harrison use
+www.freebase.com/m/08k5jg	www.freebase.com/people/ethnicity/languages_spoken	www.freebase.com/m/017yph	what language do navajo people speak
+www.freebase.com/m/0d05q4	www.freebase.com/location/country/form_of_government	www.freebase.com/m/018wl5	what type of government does iraq have now
+www.freebase.com/m/07_nf	www.freebase.com/time/event/locations	www.freebase.com/m/01crd5	where was the vietnam war location
+www.freebase.com/m/0c_md_	www.freebase.com/government/us_president/vice_president	www.freebase.com/m/05jd_	who did gerald ford select as his vice president when he became president
+www.freebase.com/m/03rjj	www.freebase.com/location/country/currency_used	www.freebase.com/m/02l6h	what is the currency used in italy
+www.freebase.com/m/02k54	www.freebase.com/location/country/capital	www.freebase.com/m/01w2v	what is the capital of modern egypt
+www.freebase.com/m/0cf_p_	www.freebase.com/basketball/basketball_player/position_s	www.freebase.com/m/02sf_r	what position does brandon roy play
+www.freebase.com/m/03ksy	www.freebase.com/location/location/containedby	www.freebase.com/m/01qh7	where is harvard university
+www.freebase.com/m/01l1b90	www.freebase.com/people/person/place_of_birth	www.freebase.com/m/027sp2	where is tyrese gibson from
+www.freebase.com/m/02vr7	www.freebase.com/people/person/place_of_birth	www.freebase.com/m/0nbrp	where was elvis costello born
+www.freebase.com/m/0ff0d	www.freebase.com/location/location/containedby	www.freebase.com/m/04w8f	where are the gobi desert located on a map
+www.freebase.com/m/09c7w0	www.freebase.com/location/country/form_of_government	www.freebase.com/m/01d9r3	what type of government does the us follow
+www.freebase.com/m/0345h	www.freebase.com/base/locations/countries/continent	www.freebase.com/m/02j9z	in which continent is germany
+www.freebase.com/m/01znc_	www.freebase.com/location/country/languages_spoken	www.freebase.com/m/02hwyss	what language turkey people speak
+www.freebase.com/m/06sw9	www.freebase.com/base/locations/countries/continent	www.freebase.com/m/0dg3n1	where is the seychelles on world map
+www.freebase.com/m/01wg0w	www.freebase.com/people/person/profession	www.freebase.com/m/015cjr	who is jimmy savile
+www.freebase.com/m/028yj0	www.freebase.com/people/ethnicity/geographic_distribution	www.freebase.com/m/059rby	where were the seneca indians located
+www.freebase.com/m/06nm1	www.freebase.com/language/human_language/countries_spoken_in	www.freebase.com/m/0162v	what countries have spanish as the national language
+www.freebase.com/m/0d35y	www.freebase.com/travel/travel_destination/tourist_attractions	www.freebase.com/m/0_ftvfh	what to see in phoenix arizona
+www.freebase.com/m/01lc5	www.freebase.com/people/person/profession	www.freebase.com/m/018gz8	what is charlie chaplin famous for
+www.freebase.com/m/01q7cb_	www.freebase.com/people/person/profession	www.freebase.com/m/012t_z	what did fred durst do
+www.freebase.com/m/02z_05	www.freebase.com/biology/animal_breed/place_of_origin	www.freebase.com/m/09c7w0	where do american bulldogs originate from
+www.freebase.com/m/09b6zr	www.freebase.com/people/person/place_of_birth	www.freebase.com/m/0f2nf	where did george w bush live as a child
+www.freebase.com/m/05d1y	www.freebase.com/law/inventor/inventions	www.freebase.com/m/01s499	what was nikola tesla inventions
+www.freebase.com/m/018hlv	www.freebase.com/people/ethnicity/geographic_distribution	www.freebase.com/m/0154j	where did flemish people come from
+www.freebase.com/m/02_286	www.freebase.com/base/biblioness/bibs_location/state	www.freebase.com/m/059rby	what state new york city belong to
+www.freebase.com/m/099d4	www.freebase.com/people/deceased_person/cause_of_death	www.freebase.com/m/0219bz	what was the cause of death for bruce lee
+www.freebase.com/m/09c7w0	www.freebase.com/location/country/form_of_government	www.freebase.com/m/01d9r3	what type of government does usa follow
+www.freebase.com/m/02jx1	www.freebase.com/location/country/currency_used	www.freebase.com/m/01nv4h	what type of currency do they use in england
+www.freebase.com/m/01r2l	www.freebase.com/language/human_language/countries_spoken_in	www.freebase.com/m/0167v	what countries in the world speak chinese
+www.freebase.com/m/0d05w3	www.freebase.com/location/country/official_language	www.freebase.com/m/0653m	what is the primary language of china
+www.freebase.com/m/0j3w2	www.freebase.com/location/location/containedby	www.freebase.com/m/0430_	where was the city of david
+www.freebase.com/m/074g02	www.freebase.com/people/person/profession	www.freebase.com/m/02jknp	what is cindy sherman known for
+www.freebase.com/m/0chghy	www.freebase.com/location/country/currency_used	www.freebase.com/m/0kz1h	what does australia use for currency
+www.freebase.com/m/04f_d	www.freebase.com/travel/travel_destination/tourist_attractions	www.freebase.com/m/02665lb	what is there to do for fun in kansas city
+www.freebase.com/m/051cc	www.freebase.com/people/person/place_of_birth	www.freebase.com/m/013yq	where was martin luther king jr raised
+www.freebase.com/m/0dtzd	www.freebase.com/geography/river/origin	www.freebase.com/m/032h51	where does delaware river start
+www.freebase.com/m/03_3d	www.freebase.com/location/country/form_of_government	www.freebase.com/m/018wl5	what kind of monarchy does japan have
+www.freebase.com/m/0271_s	www.freebase.com/people/person/place_of_birth	www.freebase.com/m/02dtg	where did mitt romney 's parents come from
+www.freebase.com/m/03_3d	www.freebase.com/sports/sports_team_location/teams	www.freebase.com/m/02ppd68	what type of sports do japanese play
+www.freebase.com/m/04h9h	www.freebase.com/language/human_language/language_family	www.freebase.com/m/03t28	where did the latin language originate from
+www.freebase.com/m/01lwd	www.freebase.com/people/person/profession	www.freebase.com/m/02h6p1f	who was carolus linnaeus
+www.freebase.com/m/0345h	www.freebase.com/location/country/form_of_government	www.freebase.com/m/0c9rw5	what type of government does germany have now
+www.freebase.com/m/04gqr	www.freebase.com/location/country/form_of_government	www.freebase.com/m/02tz3y	what kind of government does libya have today
+www.freebase.com/m/0k9p4	www.freebase.com/location/location/time_zones	www.freebase.com/m/02lcqs	what time zone is anaheim california
+www.freebase.com/m/01d6g	www.freebase.com/sports/sports_team/championships	www.freebase.com/m/046_p6	what year did the orioles go to the world series
+www.freebase.com/m/030dr	www.freebase.com/people/person/profession	www.freebase.com/g/125_hzb47	who is sir francis bacon
+www.freebase.com/m/0lngf	www.freebase.com/people/person/profession	www.freebase.com/m/0cbd2	what were amelia earhart 's achievements
+www.freebase.com/m/02896	www.freebase.com/sports/sports_team/colors	www.freebase.com/m/01g5v	what are the official colors of the dallas cowboys
+www.freebase.com/m/01myph	www.freebase.com/people/person/children	www.freebase.com/m/0b7m2p0	what is jamie oliver children names
+www.freebase.com/m/0d0vqn	www.freebase.com/location/country/form_of_government	www.freebase.com/m/018wl5	what kind of government is sweden
+www.freebase.com/m/01hb9p	www.freebase.com/people/person/place_of_birth	www.freebase.com/m/0f9hl3	where was country singer george jones born
+www.freebase.com/m/081k8	www.freebase.com/people/person/profession	www.freebase.com/m/025352	what did shakespeare become famous for
+www.freebase.com/m/06mzp	www.freebase.com/location/country/currency_used	www.freebase.com/m/01_h4b	what is the money of switzerland called
+www.freebase.com/m/0chghy	www.freebase.com/location/country/languages_spoken	www.freebase.com/m/02h40lc	what do people in australia speak
+www.freebase.com/m/0g2lq	www.freebase.com/film/director/film	www.freebase.com/m/011yd2	what movies did ron howard director
+www.freebase.com/m/0c_md_	www.freebase.com/people/deceased_person/cause_of_death	www.freebase.com/m/02k6hp	what did gerald r ford die from
+www.freebase.com/m/01znc_	www.freebase.com/base/locations/countries/continent	www.freebase.com/m/02qkt	what two continents is turkey on
+www.freebase.com/m/03rjj	www.freebase.com/location/country/form_of_government	www.freebase.com/m/01fpfn	what type of government was formed when italy unified
+www.freebase.com/m/014wy4	www.freebase.com/location/location/containedby	www.freebase.com/m/02fhym	where was the temple of karnak built
+www.freebase.com/m/0d04z6	www.freebase.com/location/country/currency_used	www.freebase.com/m/049p2z	what type of money to take to cuba
+www.freebase.com/m/04wgh	www.freebase.com/location/country/currency_used	www.freebase.com/m/06qsj1	what currency should you take to morocco
+www.freebase.com/m/025rv7p	www.freebase.com/people/person/profession	www.freebase.com/g/121bkpjb	who is mary mcleod bethune for kids
+www.freebase.com/m/03_3d	www.freebase.com/location/country/currency_used	www.freebase.com/m/088n7	what do they call money in japan
+www.freebase.com/m/01yv6p	www.freebase.com/people/person/nationality	www.freebase.com/m/03rk0	what nationality is mother teresa
+www.freebase.com/m/0vz77	www.freebase.com/location/hud_county_place/county	www.freebase.com/m/0nhr5	what county is west st paul in
+www.freebase.com/m/0f9wd	www.freebase.com/influence/influence_node/influenced	www.freebase.com/m/014nx0	what did baron de montesquie influence
+www.freebase.com/m/0852w8	www.freebase.com/book/newspaper/owner	www.freebase.com/m/05kh9x5	who owns the portland press herald
+www.freebase.com/m/0l4t	www.freebase.com/architecture/architect/structures_designed	www.freebase.com/m/03js7d	what did albert speer design
+www.freebase.com/m/04lg6	www.freebase.com/visual_art/visual_artist/associated_periods_or_movements	www.freebase.com/m/011nkkt6	what art movement did leonardo da vinci belong to
+www.freebase.com/m/0nqph	www.freebase.com/location/location/nearby_airports	www.freebase.com/m/02pq2d8	what airport is near arlington tx
+www.freebase.com/m/02sm8	www.freebase.com/people/person/place_of_birth	www.freebase.com/m/03xm9l	where did emperor hirohito live
+www.freebase.com/m/0fhp9	www.freebase.com/travel/travel_destination/tourist_attractions	www.freebase.com/g/121ymzrf	what to do and see in vienna austria
+www.freebase.com/m/0sf9_	www.freebase.com/travel/travel_destination/tourist_attractions	www.freebase.com/m/025vxh4	what is there to do in peoria illinois
+www.freebase.com/m/07ssc	www.freebase.com/location/country/languages_spoken	www.freebase.com/m/01v0g	what language do british speak
+www.freebase.com/m/02jq1	www.freebase.com/people/person/profession	www.freebase.com/m/02hrh1q	what makes elvis presley famous
+www.freebase.com/m/059j2	www.freebase.com/location/country/languages_spoken	www.freebase.com/m/02bv9	what language do people speak in the netherlands
+www.freebase.com/m/035qy	www.freebase.com/location/country/official_language	www.freebase.com/m/0349s	what are the major languages spoken in greece
+www.freebase.com/m/0gct_	www.freebase.com/visual_art/visual_artist/art_forms	www.freebase.com/m/01bsxb	what type of artist is henri matisse
+www.freebase.com/m/0ldd	www.freebase.com/book/author/book_editions_published	www.freebase.com/m/028xw99	what books did agatha christie wrote
+www.freebase.com/m/094xz	www.freebase.com/location/location/containedby	www.freebase.com/m/059g4	where is mount st helens volcano
+www.freebase.com/m/02_286	www.freebase.com/tv/tv_location/tv_shows_filmed_here	www.freebase.com/m/02rkkn1	what shows are shot in new york
+www.freebase.com/m/07pzc	www.freebase.com/book/author/book_editions_published	www.freebase.com/m/04xl32f	what book did tupac write
+www.freebase.com/m/01r2l	www.freebase.com/language/human_language/writing_system	www.freebase.com/m/014lbg	what language do chinese people write in
+www.freebase.com/m/09482	www.freebase.com/people/person/profession	www.freebase.com/m/05z96	what was robert burns famous for
+www.freebase.com/m/0flw86	www.freebase.com/religion/religion/holidays	www.freebase.com/m/0_tkhhs	what are the important holidays of islam
+www.freebase.com/m/01vvy	www.freebase.com/music/artist/genre	www.freebase.com/m/014m9r	what type of music did claude debussy play
+www.freebase.com/m/05v10	www.freebase.com/location/country/official_language	www.freebase.com/m/06nm1	what are the two official languages of paraguay
+www.freebase.com/m/05tfm	www.freebase.com/sports/sports_team/location	www.freebase.com/m/068p2	what state is the steelers from
+www.freebase.com/m/03ksy	www.freebase.com/education/educational_institution/colors	www.freebase.com/m/01jnf1	what are the school colors for harvard university
+www.freebase.com/m/03wbmx5	www.freebase.com/location/location/containedby	www.freebase.com/m/01n4w	where is the university of the rockies located
+www.freebase.com/m/06k3_t	www.freebase.com/medicine/notable_person_with_medical_condition/condition	www.freebase.com/m/019gky	what disease does robin roberts have
+www.freebase.com/m/017cw	www.freebase.com/location/country/capital	www.freebase.com/m/01q0l	what was the capital city of the east roman empire
+www.freebase.com/m/01znc_	www.freebase.com/location/country/languages_spoken	www.freebase.com/m/02hwyss	what kind of language does turkey speak
+www.freebase.com/m/01jnm	www.freebase.com/base/culturalevent/event/entity_involved	www.freebase.com/m/012pml	who fought the battle of gettysburg
+www.freebase.com/m/0ysy	www.freebase.com/organization/organization/founders	www.freebase.com/m/01wtr5	who was the first president of the afl
+www.freebase.com/m/0b0tw3	www.freebase.com/people/person/place_of_birth	www.freebase.com/m/0fhsz	where did giuliana rancic grow up
+www.freebase.com/m/07t21	www.freebase.com/location/country/capital	www.freebase.com/m/02sn34	what are the major cities in ukraine
+www.freebase.com/m/0d05w3	www.freebase.com/location/country/currency_used	www.freebase.com/m/0hn4_	what form of currency does china have
+www.freebase.com/m/033ky	www.freebase.com/people/person/nationality	www.freebase.com/m/0285m87	what country did magellan represent
+www.freebase.com/m/09nkq	www.freebase.com/location/location/containedby	www.freebase.com/m/01087l	where is perpignan located
+www.freebase.com/m/02h40lc	www.freebase.com/language/human_language/countries_spoken_in	www.freebase.com/m/0160w	where english is spoken
+www.freebase.com/m/07s6gb8	www.freebase.com/location/location/containedby	www.freebase.com/m/012b0q	where is giza pyramids located
+www.freebase.com/m/013n2h	www.freebase.com/location/citytown/postal_codes	www.freebase.com/m/020zz8q	what is the zip code for midland tx
+www.freebase.com/m/0q76g	www.freebase.com/location/location/contains	www.freebase.com/m/03kch9	what states make up the midwest us
+www.freebase.com/m/0chghy	www.freebase.com/location/country/languages_spoken	www.freebase.com/m/02h40lc	what language does australians speak
+www.freebase.com/m/0p_70	www.freebase.com/geography/river/origin	www.freebase.com/m/07cdmr	where does the zambezi river start
+www.freebase.com/m/05cgv	www.freebase.com/location/location/time_zones	www.freebase.com/m/0gsrsm	what is the nigeria time
+www.freebase.com/m/01v5vfj	www.freebase.com/people/deceased_person/place_of_death	www.freebase.com/m/0nycl8h	where did they find jenni rivera 's body
+www.freebase.com/m/06mz5	www.freebase.com/location/location/time_zones	www.freebase.com/m/02fqwt	where is the time zone line in south dakota
+www.freebase.com/m/0259r0	www.freebase.com/music/artist/origin	www.freebase.com/m/01n7q	where is jason mraz from
+www.freebase.com/m/015pvx	www.freebase.com/people/deceased_person/cause_of_death	www.freebase.com/m/023l3k_	what killed john bonham
+www.freebase.com/m/0841v	www.freebase.com/business/business_operation/industry	www.freebase.com/m/0191_7	what industry does walmart operate in
+www.freebase.com/m/0d9z_y	www.freebase.com/location/hud_county_place/county	www.freebase.com/m/0p2xk	what county is texarkana arkansas in
+www.freebase.com/m/04k15	www.freebase.com/music/artist/genre	www.freebase.com/m/05lls	what music period did beethoven live in
+www.freebase.com/m/01bt87	www.freebase.com/book/author/book_editions_published	www.freebase.com/m/028xv15	what did laura ingalls wilder wrote
+www.freebase.com/m/03rjj	www.freebase.com/location/country/form_of_government	www.freebase.com/m/01fpfn	what type of government system does italy have
+www.freebase.com/m/042v2	www.freebase.com/book/author/works_written	www.freebase.com/m/01l9hr	what did john irving wrote
+www.freebase.com/m/02lp71	www.freebase.com/common/topic/notable_types	www.freebase.com/m/02_77lg	what did alice paul accomplish
+www.freebase.com/m/01p8s	www.freebase.com/location/country/languages_spoken	www.freebase.com/m/02hwk2m	what languages do they speak in costa rica
+www.freebase.com/m/01x2fx0	www.freebase.com/people/person/place_of_birth	www.freebase.com/m/0j7ng	where did hank marvin come from
+www.freebase.com/m/055d_1d	www.freebase.com/people/deceased_person/place_of_death	www.freebase.com/m/04f_d	where did jovan belcher kill himself
+www.freebase.com/m/03l2n	www.freebase.com/location/location/time_zones	www.freebase.com/m/02fqwt	what time is it in texas houston right now
+www.freebase.com/m/0d05w3	www.freebase.com/location/country/form_of_government	www.freebase.com/m/01fkst	what is the political structure of china
+www.freebase.com/m/015fr	www.freebase.com/location/country/languages_spoken	www.freebase.com/m/02bjrlw	what language brazil speak
+www.freebase.com/m/016cff	www.freebase.com/people/person/place_of_birth	www.freebase.com/m/0r0ls	where did venus williams come from
+www.freebase.com/m/05qx1	www.freebase.com/location/country/currency_used	www.freebase.com/m/0200cp	what currency is used in panama
+www.freebase.com/m/0p_70	www.freebase.com/geography/river/origin	www.freebase.com/m/07cdmr	where does the zambezi river originate
+www.freebase.com/m/01ly5m	www.freebase.com/location/location/nearby_airports	www.freebase.com/m/01_t37	which airport to fly into in buenos aires
+www.freebase.com/m/05tbn	www.freebase.com/symbols/namesake/named_after	www.freebase.com/m/03br25	where does name pennsylvania come from
+www.freebase.com/m/0345h	www.freebase.com/location/country/currency_used	www.freebase.com/m/02l6h	what kind of money do they use in germany
+www.freebase.com/m/0chghy	www.freebase.com/location/country/languages_spoken	www.freebase.com/m/02h40lc	what language does australia use
+www.freebase.com/m/06cmp	www.freebase.com/location/country/official_language	www.freebase.com/m/04h9h	what did the ancient romans speak
+www.freebase.com/m/01vrnsk	www.freebase.com/music/artist/track	www.freebase.com/g/11bbmk7fg7	what does ringo sing
+www.freebase.com/m/01r0zd	www.freebase.com/people/deceased_person/place_of_death	www.freebase.com/m/071bn	where was st. lucy born
+www.freebase.com/m/0chghy	www.freebase.com/location/country/form_of_government	www.freebase.com/m/018wl5	what type of government does australia have
+www.freebase.com/m/0fvxz	www.freebase.com/location/citytown/postal_codes	www.freebase.com/m/0206ng_	what is the zip code for trenton
+www.freebase.com/m/06mzp	www.freebase.com/location/country/languages_spoken	www.freebase.com/m/02bjrlw	what language is spoken in switzerland
+www.freebase.com/m/012tjy	www.freebase.com/fictional_universe/person_in_fiction/representations_in_fiction	www.freebase.com/m/075pg8m	who was philip in acts chapter 8
+www.freebase.com/m/02jx1	www.freebase.com/location/location/time_zones	www.freebase.com/m/03bdv	what the time zone in england
+www.freebase.com/m/01znc_	www.freebase.com/location/country/currency_used	www.freebase.com/m/04dq0w	what is the best currency to take to turkey
+www.freebase.com/m/05cgv	www.freebase.com/location/country/form_of_government	www.freebase.com/m/01d9r3	what system of government is practiced in nigeria
+www.freebase.com/m/04_by	www.freebase.com/people/person/profession	www.freebase.com/m/02h6676	who were mary shelley
+www.freebase.com/m/0chghy	www.freebase.com/location/country/languages_spoken	www.freebase.com/m/02h40lc	what language do most australians speak
+www.freebase.com/m/09pmkv	www.freebase.com/location/country/form_of_government	www.freebase.com/m/018wl5	what is the government system of malaysia
+www.freebase.com/m/0d060g	www.freebase.com/location/country/languages_spoken	www.freebase.com/m/0121sr	what do people speak in canada
+www.freebase.com/m/05jbn	www.freebase.com/location/location/time_zones	www.freebase.com/m/02fqwt	what timezone is nashville tn
+www.freebase.com/m/07_m9_	www.freebase.com/people/deceased_person/place_of_death	www.freebase.com/m/0156q	where did adolf hitler die
+www.freebase.com/m/018w0j	www.freebase.com/time/event/locations	www.freebase.com/m/01z215	where was the first gulf war fought
+www.freebase.com/m/0272y2y	www.freebase.com/people/person/place_of_birth	www.freebase.com/m/0jgvy	where does robert irvine come from
+www.freebase.com/m/09889g	www.freebase.com/music/artist/genre	www.freebase.com/m/021_z5	what style of music does michael jackson perform
+www.freebase.com/m/01k4jy3	www.freebase.com/people/person/profession	www.freebase.com/m/016z4k	what does julian lennon do
+www.freebase.com/m/051vz	www.freebase.com/sports/sports_team/team_mascot	www.freebase.com/m/0100sszz	what is the milwaukee brewers mascot
+www.freebase.com/m/024bwn	www.freebase.com/people/deceased_person/place_of_death	www.freebase.com/m/0f2tj	where did alex chilton die
+www.freebase.com/m/01sb5r	www.freebase.com/music/guitarist/guitars_played	www.freebase.com/m/02m873	what guitar did joe walsh play
+www.freebase.com/m/0_6t_z8	www.freebase.com/user/ktrueman/default_domain/international_organization/official_language_s	www.freebase.com/m/02bjrlw	what are the official languages of the eu
+www.freebase.com/m/02b9g4	www.freebase.com/broadcast/artist/content	www.freebase.com/m/02ttn8	what is ryan seacrest radio show
+www.freebase.com/m/03rjj	www.freebase.com/location/country/official_language	www.freebase.com/m/02bjrlw	what language do most italians speak
+www.freebase.com/m/06mkj	www.freebase.com/location/country/currency_used	www.freebase.com/m/02l6h	what money do they use in spain
+www.freebase.com/m/05474b	www.freebase.com/time/holiday/day_of_year	www.freebase.com/m/0tht	when is saint george day celebrated
+www.freebase.com/m/06cmp	www.freebase.com/location/country/form_of_government	www.freebase.com/m/0d8tn	what government did the roman empire have
+www.freebase.com/m/0137hn	www.freebase.com/music/group_member/instruments_played	www.freebase.com/m/05r5c	what instrument did robin gibb play
+www.freebase.com/m/0gzh	www.freebase.com/base/inaugurations/inauguration_speaker/inauguration	www.freebase.com/m/05brd51	when was abe lincoln president
+www.freebase.com/m/07l8x	www.freebase.com/sports/sports_team/arena_stadium	www.freebase.com/m/01wmlm	where are the texas rangers playing
+www.freebase.com/m/0qqw9	www.freebase.com/location/citytown/postal_codes	www.freebase.com/m/01z5r29	what is the zip code for nogales az
+www.freebase.com/m/083pr	www.freebase.com/people/person/profession	www.freebase.com/m/04gc2	what is william taft famous for
+www.freebase.com/m/019jy5	www.freebase.com/people/deceased_person/place_of_death	www.freebase.com/m/012d9h	where did robin cook die
+www.freebase.com/m/01k8vh	www.freebase.com/sports/sports_team/location	www.freebase.com/m/0fsb8	where are the new orleans hornets moving to
+www.freebase.com/m/0h3y	www.freebase.com/location/country/languages_spoken	www.freebase.com/m/035y4y	what language does algerian people speak
+www.freebase.com/m/09sxn	www.freebase.com/people/deceased_person/place_of_death	www.freebase.com/m/07nqn	where was anne boleyn executed
+www.freebase.com/m/034ks	www.freebase.com/people/person/profession	www.freebase.com/m/025rxky	what did galileo do to become famous
+www.freebase.com/m/015k7	www.freebase.com/people/person/place_of_birth	www.freebase.com/m/06_86x	where buddha come from
+www.freebase.com/m/03p77	www.freebase.com/royalty/monarch/kingdom	www.freebase.com/m/02jx1	what did king henry viii rule
+www.freebase.com/m/06bnz	www.freebase.com/location/country/official_language	www.freebase.com/m/06b_j	what russian language called
+www.freebase.com/m/018ptv	www.freebase.com/medicine/notable_person_with_medical_condition/condition	www.freebase.com/m/0dcqh	what kind of disease does montel williams have
+www.freebase.com/m/049n7	www.freebase.com/sports/sports_team/location	www.freebase.com/m/04f_d	where did kansas city royals come from
+www.freebase.com/m/01s21dg	www.freebase.com/music/artist/genre	www.freebase.com/m/01243b	what style of music does john mayer play
+www.freebase.com/m/07bty	www.freebase.com/law/inventor/inventions	www.freebase.com/m/01cbh9	what inventions did thomas edison invent list
+www.freebase.com/m/01znc_	www.freebase.com/location/country/currency_used	www.freebase.com/m/04dq0w	what money to take to turkey
+www.freebase.com/m/01vsy3q	www.freebase.com/music/artist/genre	www.freebase.com/m/0155w	what kind of music did jimi hendrix play
+www.freebase.com/m/071wp	www.freebase.com/people/deceased_person/place_of_death	www.freebase.com/m/06c62	where was st peter killed
+www.freebase.com/m/03p77	www.freebase.com/people/person/children	www.freebase.com/m/02rg_	what were the names of henry viii 's three children
+www.freebase.com/m/0g7km1	www.freebase.com/people/person/place_of_birth	www.freebase.com/m/01dvzy	where did tim tebow grow up
+www.freebase.com/m/03xksb	www.freebase.com/transportation/bridge/locale	www.freebase.com/m/0dn8b	where is chesapeake bay bridge
+www.freebase.com/m/07jqh	www.freebase.com/organization/organization/geographic_scope	www.freebase.com/m/0jdd	where did the taliban began
+www.freebase.com/m/07ldhs	www.freebase.com/people/person/nationality	www.freebase.com/m/09c7w0	what nationality is taylor lautner jacob black
+www.freebase.com/m/01ls2	www.freebase.com/location/country/languages_spoken	www.freebase.com/g/1q6h_1_4j	what language do colombian people speak
+www.freebase.com/m/01gq0b	www.freebase.com/people/person/profession	www.freebase.com/m/02hrh1q	what is claire danes famous for
+www.freebase.com/m/0f2w0	www.freebase.com/location/hud_county_place/county	www.freebase.com/m/0ms5v	what county is san antonio in
+www.freebase.com/m/04rrx	www.freebase.com/location/location/time_zones	www.freebase.com/m/02_37z	what timezone is the state of michigan and
+www.freebase.com/m/05vz3zq	www.freebase.com/location/country/form_of_government	www.freebase.com/m/01fkst	what type of government did soviet union have
+www.freebase.com/m/03_3d	www.freebase.com/location/country/languages_spoken	www.freebase.com/m/02h40lc	what languages are there in japan
+www.freebase.com/m/060nc	www.freebase.com/people/person/profession	www.freebase.com/m/02k_m1q	who was saint paul the apostle
+www.freebase.com/m/0ddqw	www.freebase.com/fictional_universe/fictional_character/places_lived	www.freebase.com/m/065lhy	where does princess leia live
+www.freebase.com/m/02k8k	www.freebase.com/location/location/people_born_here	www.freebase.com/g/11b8058v7j	what famous people are from el salvador
+www.freebase.com/m/04lg6	www.freebase.com/visual_art/visual_artist/art_forms	www.freebase.com/m/02csf	what type of art did leonardo da vinci make
+www.freebase.com/m/01j324	www.freebase.com/people/person/place_of_birth	www.freebase.com/m/0j7ng	where did mary bell live
+www.freebase.com/m/0345h	www.freebase.com/location/country/currency_used	www.freebase.com/m/02l6h	what is the currency of germany now
+www.freebase.com/m/0gs6vr	www.freebase.com/people/person/ethnicity	www.freebase.com/m/09k5jvk	what kind of hispanic is selena gomez
+www.freebase.com/m/02k54	www.freebase.com/location/country/currency_used	www.freebase.com/m/04phzg	what are egyptian money called
+www.freebase.com/m/0v9xs	www.freebase.com/location/citytown/postal_codes	www.freebase.com/m/01_xtr9	what is the zip code for wyoming michigan
+www.freebase.com/m/051cc	www.freebase.com/people/deceased_person/place_of_death	www.freebase.com/m/0c_m3	where did martin luther king got shot at
+www.freebase.com/m/038vs	www.freebase.com/book/written_work/author	www.freebase.com/m/046_b	who wrote the gospel according to john
+www.freebase.com/m/07ssc	www.freebase.com/location/country/form_of_government	www.freebase.com/m/018wl5	what form of government is the uk
+www.freebase.com/m/01mjq	www.freebase.com/location/country/currency_used	www.freebase.com/m/04rpc3	what currency does the czech republic use now
+www.freebase.com/m/01dyhm	www.freebase.com/computer/software/languages_used	www.freebase.com/m/011y70	what was firefox programmed in
+www.freebase.com/m/0ctw_b	www.freebase.com/location/country/form_of_government	www.freebase.com/m/018wl5	what government does new zealand have
+www.freebase.com/m/04zwft	www.freebase.com/location/location/containedby	www.freebase.com/m/06n3y	where is isthmus of panama located on the map
+www.freebase.com/m/03rt9	www.freebase.com/location/country/capital	www.freebase.com/m/02cft	what is the capital of republic of ireland
+www.freebase.com/m/0lhsd	www.freebase.com/people/person/profession	www.freebase.com/m/05t4q	what did dr josef mengele do
+www.freebase.com/m/02k54	www.freebase.com/location/country/official_language	www.freebase.com/m/025rvv7	what kind of language does egypt speak
+www.freebase.com/m/05b7q	www.freebase.com/location/country/form_of_government	www.freebase.com/m/01gt0n	what form of government does north korea have
+www.freebase.com/m/0rmlp	www.freebase.com/location/hud_county_place/county	www.freebase.com/m/0jrjb	what county is st james city fl in
+www.freebase.com/m/034m8	www.freebase.com/location/country/form_of_government	www.freebase.com/m/01dw03	what system of government does guyana have
+www.freebase.com/m/05cgv	www.freebase.com/location/country/form_of_government	www.freebase.com/m/01d9r3	what sort of government does nigeria have
+www.freebase.com/m/0x2p	www.freebase.com/sports/sports_team/championships	www.freebase.com/m/04j712	when the atlanta braves won the world series
+www.freebase.com/m/03shp	www.freebase.com/location/country/languages_spoken	www.freebase.com/m/01bcw_	what kind of language do they speak in iran
+www.freebase.com/m/06mkj	www.freebase.com/location/country/official_language	www.freebase.com/m/06nm1	what was the first language spoken in spain
+www.freebase.com/m/07b69	www.freebase.com/music/group_member/instruments_played	www.freebase.com/m/05r5c	what did scott joplin play
+www.freebase.com/m/0jdd	www.freebase.com/location/country/languages_spoken	www.freebase.com/m/02hwl5z	what language do most people speak in afghanistan
+www.freebase.com/m/0chgr2	www.freebase.com/base/aareas/schema/administrative_area/capital	www.freebase.com/m/0chgzm	what is the capital of australia victoria state
+www.freebase.com/m/064_8sq	www.freebase.com/language/human_language/countries_spoken_in	www.freebase.com/m/0154j	where is french spoken most
+www.freebase.com/m/0b90_r	www.freebase.com/location/country/currency_used	www.freebase.com/m/012ts8	what currency should i take to mexico
+www.freebase.com/m/09fcm	www.freebase.com/people/person/profession	www.freebase.com/m/01d_h8	who is thor heyerdahl
+www.freebase.com/m/06f5j	www.freebase.com/people/deceased_person/cause_of_death	www.freebase.com/m/0dq9p	what did general robert e lee die from
+www.freebase.com/m/0gct_	www.freebase.com/visual_art/visual_artist/associated_periods_or_movements	www.freebase.com/m/015r61	what style of art did henri matisse do
+www.freebase.com/m/0g0jx7	www.freebase.com/base/gossipgirl/character/played_by	www.freebase.com/m/02w4x29	who plays chuck bass in gossip girl
+www.freebase.com/m/0xdhj	www.freebase.com/location/hud_county_place/county	www.freebase.com/m/0nhmw	what county is st. louis park in
+www.freebase.com/m/0hzlz	www.freebase.com/location/country/form_of_government	www.freebase.com/m/0c9rw5	what is the political system of south africa
+www.freebase.com/m/04306rv	www.freebase.com/language/human_language/language_family	www.freebase.com/m/0140qt	what language group does germany belong to
+www.freebase.com/m/0fr0t	www.freebase.com/location/location/time_zones	www.freebase.com/m/02hczc	what timezone is tucson arizona in right now
+www.freebase.com/m/01gw8b	www.freebase.com/people/deceased_person/cause_of_death	www.freebase.com/m/02bg7m	what kind of leukemia did jill clayburgh have
+www.freebase.com/m/06y57	www.freebase.com/travel/travel_destination/tourist_attractions	www.freebase.com/m/0_ymvs4	what is there to see in sydney australia
+www.freebase.com/m/04wqr	www.freebase.com/people/deceased_person/place_of_death	www.freebase.com/m/01yq4f	where was marilyn monroe found dead
+www.freebase.com/m/035qy	www.freebase.com/location/country/languages_spoken	www.freebase.com/m/012v8	what language is spoken in greek
+www.freebase.com/m/025ldg	www.freebase.com/music/artist/label	www.freebase.com/m/0181dw	what record label is kelly clarkson signed with
+www.freebase.com/m/021yzs	www.freebase.com/people/person/place_of_birth	www.freebase.com/m/0n9h9	where does tim roth come from
+www.freebase.com/m/01crd5	www.freebase.com/location/country/currency_used	www.freebase.com/m/03ksl6	what currency should you take to vietnam
+www.freebase.com/m/0154j	www.freebase.com/location/country/capital	www.freebase.com/m/0177z	what is the name of the capital of belgium
+www.freebase.com/m/03_3d	www.freebase.com/location/country/form_of_government	www.freebase.com/m/018wl5	what kind of government does japan have now
+www.freebase.com/m/01vvy	www.freebase.com/music/composer/compositions	www.freebase.com/g/11b821q1dm	what pieces of music did claude debussy compose
+www.freebase.com/m/037yx	www.freebase.com/time/event/locations	www.freebase.com/m/0dzs0	where did the gettysburg address
+www.freebase.com/m/07pzc	www.freebase.com/music/artist/label	www.freebase.com/m/01n2m6	who was tupac signed to
+www.freebase.com/m/0ngg	www.freebase.com/people/person/profession	www.freebase.com/m/01g14w	what was augustus caesar famous for
+www.freebase.com/m/01ls2	www.freebase.com/location/country/languages_spoken	www.freebase.com/g/1q6h_1_4j	what language does colombia
+www.freebase.com/m/0fdpd	www.freebase.com/location/citytown/postal_codes	www.freebase.com/m/020g9r_	what is the zip code for schenectady new york
+www.freebase.com/m/0h24w	www.freebase.com/law/inventor/inventions	www.freebase.com/m/01yvs	what drink did john pemberton create
+www.freebase.com/m/013s6x	www.freebase.com/soccer/football_player/position_s	www.freebase.com/m/02nzb8	what position did stanley matthews play
+www.freebase.com/m/0fssd	www.freebase.com/fictional_universe/person_in_fiction/representations_in_fiction	www.freebase.com/m/0q2445b	what was bonnie prince charlie full name
+www.freebase.com/m/0f4vbz	www.freebase.com/people/person/parents	www.freebase.com/m/01mqgf	who is angelina jolie mom and dad
+www.freebase.com/m/0d6lp	www.freebase.com/location/citytown/postal_codes	www.freebase.com/m/01zn_8s	what is san francisco zip code
+www.freebase.com/m/09pmkv	www.freebase.com/location/country/currency_used	www.freebase.com/m/01_c9q	what is malaysian currency
+www.freebase.com/m/02zmx0	www.freebase.com/people/deceased_person/cause_of_death	www.freebase.com/m/02qnd1b	what did steve mcnair died from
+www.freebase.com/m/027rn	www.freebase.com/location/country/currency_used	www.freebase.com/m/04lt7_	what kind of currency does the dominican republic have
+www.freebase.com/m/052bw	www.freebase.com/travel/travel_destination/tourist_attractions	www.freebase.com/m/02lv55	what to do this weekend in manchester with kids
+www.freebase.com/m/03rjj	www.freebase.com/sports/sports_team_location/teams	www.freebase.com/g/11x7vhqcx	what sport is popular in italy
+www.freebase.com/m/03whyr	www.freebase.com/film/film/genre	www.freebase.com/m/01hmnh	what is the new movie john carter about
+www.freebase.com/m/03l2n	www.freebase.com/location/hud_county_place/county	www.freebase.com/m/0fxwx	what county is houston tx in
+www.freebase.com/m/05vv6l	www.freebase.com/location/location/containedby	www.freebase.com/m/0cv3w	where is the riviera casino
+www.freebase.com/m/092bf5	www.freebase.com/religion/religion/texts	www.freebase.com/m/01hnwm	what is the holy book of the buddhist religion
+www.freebase.com/m/0835q	www.freebase.com/government/us_president/vice_president	www.freebase.com/m/042dk	who became president when henry harrison died
+www.freebase.com/m/01tglh	www.freebase.com/people/person/place_of_birth	www.freebase.com/m/0m7dd	where did richard arkwright grow up
+www.freebase.com/m/01bq8d	www.freebase.com/book/author/book_editions_published	www.freebase.com/m/028xsvy	what other books did louis sachar write
+www.freebase.com/m/023_lp	www.freebase.com/symbols/namesake/named_after	www.freebase.com/m/023xsb	when did roth ira originate
+www.freebase.com/m/07r3d	www.freebase.com/people/person/profession	www.freebase.com/m/03l_bhv	what did thomas malthus do
+www.freebase.com/m/0qx_6	www.freebase.com/location/citytown/postal_codes	www.freebase.com/m/01zjg6s	what is the zip code for newark california
+www.freebase.com/m/02k54	www.freebase.com/location/country/form_of_government	www.freebase.com/m/01dw03	what kind of government is egypt
+www.freebase.com/m/01vsl3_	www.freebase.com/people/deceased_person/place_of_death	www.freebase.com/m/02_286	where do john lennon die
+www.freebase.com/m/09c17	www.freebase.com/location/location/time_zones	www.freebase.com/m/02k8gd	what is the current time in bangalore india
+www.freebase.com/m/035qy	www.freebase.com/location/country/languages_spoken	www.freebase.com/m/012v8	what language do people from greece speak
+www.freebase.com/m/05kyr	www.freebase.com/location/location/containedby	www.freebase.com/m/01ffbn	where was the ottoman empire based
+www.freebase.com/m/05mg9	www.freebase.com/people/deceased_person/place_of_death	www.freebase.com/m/011hs1	where was bin laden found and killed
+www.freebase.com/m/02676m4	www.freebase.com/film/film_series/films_in_series	www.freebase.com/m/02pth35	what are the names of harry potter movies in order
+www.freebase.com/m/07ms9g	www.freebase.com/people/deceased_person/cause_of_death	www.freebase.com/m/01tf_6	what did pamela courson die from
+www.freebase.com/m/01ctkj	www.freebase.com/base/activism/activist/area_of_activism	www.freebase.com/m/020f6w	what did dr jack kevorkian do
+www.freebase.com/m/06w2sn5	www.freebase.com/people/person/nationality	www.freebase.com/m/0d060g	what country does justin bieber come from
+www.freebase.com/m/07sz1	www.freebase.com/government/governmental_body/offices_positions	www.freebase.com/m/07szk	what is the head judge of the supreme court called
+www.freebase.com/m/015k04	www.freebase.com/influence/influence_node/influenced_by	www.freebase.com/m/0q2c2	who was frida kahlo influenced by
+www.freebase.com/m/0dl567	www.freebase.com/people/person/place_of_birth	www.freebase.com/m/0zlgm	where is taylor swift from
+www.freebase.com/m/0d05w3	www.freebase.com/location/country/official_language	www.freebase.com/m/0653m	what is the main language used in china
+www.freebase.com/m/01dcm	www.freebase.com/time/event/locations	www.freebase.com/m/017qwy	where did the battle of waterloo occur
+www.freebase.com/m/03rjj	www.freebase.com/location/country/currency_used	www.freebase.com/m/02l6h	what is money called in italy
+www.freebase.com/m/033ky	www.freebase.com/people/person/nationality	www.freebase.com/m/0285m87	what country sponsored ferdinand magellan
+www.freebase.com/m/022sm6	www.freebase.com/people/deceased_person/cause_of_death	www.freebase.com/m/0qcr0	what did vera ellen die from
+www.freebase.com/m/02k54	www.freebase.com/location/country/capital	www.freebase.com/m/01w2v	what is the capital of modern day egypt
+www.freebase.com/m/0h7h6	www.freebase.com/base/biblioness/bibs_location/state	www.freebase.com/m/05kr_	what province is toronto in ( 7 letters )
+www.freebase.com/m/015fr	www.freebase.com/location/country/currency_used	www.freebase.com/m/03385m	what is the currency of brazil now
+www.freebase.com/m/0kc6	www.freebase.com/visual_art/visual_artist/associated_periods_or_movements	www.freebase.com/m/015r61	what types of art did andy warhol do
+www.freebase.com/m/01y3c	www.freebase.com/american_football/football_team/current_head_coach	www.freebase.com/m/04g57l	who will coach carolina panthers in 2013
+www.freebase.com/m/01bq8d	www.freebase.com/people/person/place_of_birth	www.freebase.com/m/0y277	where did louis sachar grow up
+www.freebase.com/m/03l2n	www.freebase.com/travel/travel_destination/tourist_attractions	www.freebase.com/m/01_nc_	what to do for fun in houston
+www.freebase.com/m/0617q	www.freebase.com/location/location/containedby	www.freebase.com/m/04hqz	where is ancient phoenician
+www.freebase.com/m/0bwjj	www.freebase.com/sports/sports_team/arena_stadium	www.freebase.com/m/02hqj2	where does the celtics practice
+www.freebase.com/m/05mg9	www.freebase.com/people/deceased_person/place_of_death	www.freebase.com/m/011hs1	where bin laden got killed
+www.freebase.com/m/0h7h6	www.freebase.com/base/infrastructure/infrastructural_municipality/sewage_treatment_plant	www.freebase.com/m/02vnl7x	where does toronto get its water from
+www.freebase.com/m/0166b	www.freebase.com/location/country/languages_spoken	www.freebase.com/m/06x8y	what language do people from bosnia speak
+www.freebase.com/m/0flw86	www.freebase.com/religion/religion/deities	www.freebase.com/m/055v4c	who do islamic people pray to
+www.freebase.com/m/01ypl0	www.freebase.com/people/person/place_of_birth	www.freebase.com/m/0d9y6	where was mary todd lincoln from
+www.freebase.com/m/01lwx	www.freebase.com/people/deceased_person/place_of_death	www.freebase.com/m/02_675	where did charles darwin die
+www.freebase.com/m/045m1_	www.freebase.com/people/deceased_person/place_of_death	www.freebase.com/m/065sh7	where was jesus after he died on the cross
+www.freebase.com/m/0209vm	www.freebase.com/people/person/profession	www.freebase.com/m/01c979	who is sir james dyson
+www.freebase.com/m/02189	www.freebase.com/organization/organization/founders	www.freebase.com/m/02d42c	who was the leader of the first communist party of china
+www.freebase.com/m/053yx	www.freebase.com/people/deceased_person/cause_of_death	www.freebase.com/m/019dmc	what did miles davis died of
+www.freebase.com/m/013n59	www.freebase.com/location/citytown/postal_codes	www.freebase.com/m/020zj8h	what is the zip code for azle texas
+www.freebase.com/m/0hn2q	www.freebase.com/sports/sports_team/championships	www.freebase.com/m/03by14v	when did the philadelphia flyers win the cup
+www.freebase.com/m/0yk9v	www.freebase.com/location/hud_county_place/county	www.freebase.com/m/0n3s6	what county is st paul nc in
+www.freebase.com/m/015nrn	www.freebase.com/base/usnationalparks/us_national_park/state	www.freebase.com/m/081yw	where is olympic national park wa
+www.freebase.com/m/0hb7h_z	www.freebase.com/people/ethnicity/geographic_distribution	www.freebase.com/m/0154j	where turkish people originate
+www.freebase.com/m/0k70	www.freebase.com/people/deceased_person/place_of_death	www.freebase.com/m/08npx8	where did alexander graham bell die
+www.freebase.com/m/01znc_	www.freebase.com/location/country/currency_used	www.freebase.com/m/04dq0w	what currency should i take to turkey
+www.freebase.com/m/01ct6	www.freebase.com/sports/sports_team/championships	www.freebase.com/m/0_gt_qt	what superbowl did the baltimore ravens win
+www.freebase.com/m/06bnz	www.freebase.com/location/country/languages_spoken	www.freebase.com/m/017dsl	what is the language of russia s spoken
+www.freebase.com/m/015z4j	www.freebase.com/people/person/parents	www.freebase.com/m/05p91sl	who are serena williams parents
+www.freebase.com/m/02kddt	www.freebase.com/people/deceased_person/cause_of_death	www.freebase.com/m/0m32h	what was the cause of death for huell howser
+www.freebase.com/m/0bpd5z	www.freebase.com/book/author/book_editions_published	www.freebase.com/m/028x_pw	what books are written by suzanne collins
+www.freebase.com/m/048qr	www.freebase.com/organization/organization/founders	www.freebase.com/m/0wl1pl9	who founded the kkk
+www.freebase.com/m/05mg9	www.freebase.com/people/deceased_person/place_of_death	www.freebase.com/m/011hs1	where was osama bin laden killed
+www.freebase.com/m/0jzc	www.freebase.com/language/human_language/countries_spoken_in	www.freebase.com/m/0161c	where are people who speak arabic from
+www.freebase.com/m/060_7	www.freebase.com/visual_art/visual_artist/associated_periods_or_movements	www.freebase.com/m/015r61	what type of art did pablo picasso paint
+www.freebase.com/m/0d9xq	www.freebase.com/people/person/parents	www.freebase.com/m/0kcwjlp	what is ella fitzgerald parents name
+www.freebase.com/m/02vntj	www.freebase.com/people/person/parents	www.freebase.com/m/07ylp26	who is anne hathaway parents
+www.freebase.com/m/06mkj	www.freebase.com/location/country/form_of_government	www.freebase.com/m/018wl5	what political system did spain have
+www.freebase.com/m/07sz1	www.freebase.com/law/court/legal_cases	www.freebase.com/m/0_xc06k	what are the supreme court cases
+www.freebase.com/m/0hjy	www.freebase.com/base/biblioness/bibs_location/country	www.freebase.com/m/09c7w0	what country does alaska belong to
+www.freebase.com/m/04f_d	www.freebase.com/location/hud_county_place/county	www.freebase.com/m/0ndpz	where is kansas city
+www.freebase.com/m/0fk3s	www.freebase.com/people/ethnicity/languages_spoken	www.freebase.com/m/02h40lc	what language did the sioux indians speak
+www.freebase.com/m/02k8k	www.freebase.com/location/location/people_born_here	www.freebase.com/g/11b8058v7j	what are some famous people from el salvador
+www.freebase.com/m/071vr	www.freebase.com/location/hud_county_place/county	www.freebase.com/m/0l2rj	what county is san diego ca
+www.freebase.com/m/07_m9_	www.freebase.com/people/deceased_person/cause_of_death	www.freebase.com/m/02qnd1b	what did hitler use to kill himself
+www.freebase.com/m/0345h	www.freebase.com/location/country/languages_spoken	www.freebase.com/m/0140n_	what do people speak in germany
+www.freebase.com/m/041wm	www.freebase.com/people/deceased_person/place_of_death	www.freebase.com/m/05l4p5	where was caesar when he was stabbed
+www.freebase.com/m/0dq47	www.freebase.com/music/artist/genre	www.freebase.com/m/0155w	what style of music did bessie smith perform
+www.freebase.com/m/01_d4	www.freebase.com/location/location/time_zones	www.freebase.com/m/02fqwt	what time zone is chicago in right now
+www.freebase.com/m/06c0j	www.freebase.com/government/us_president/vice_president	www.freebase.com/m/034ls	who was the vice president under ronald reagan
+www.freebase.com/m/01slc	www.freebase.com/sports/sports_team/arena_stadium	www.freebase.com/m/02nwdt	where do the chicago white sox play home games
+www.freebase.com/m/0162v	www.freebase.com/location/country/currency_used	www.freebase.com/m/05hy7p	what currency to take to barbados
+www.freebase.com/m/0hn79	www.freebase.com/symbols/namesake/named_after	www.freebase.com/m/01q69p	where did they get the name stanley cup
+www.freebase.com/m/071cn	www.freebase.com/location/citytown/postal_codes	www.freebase.com/m/020gbdx	what is the zip code of syracuse ny
+www.freebase.com/m/0521dwp	www.freebase.com/people/person/profession	www.freebase.com/m/02h6p92	who is jacob latimore
+www.freebase.com/m/04gwy	www.freebase.com/user/alexander/misc/murdered_person/murdered_by	www.freebase.com/m/044sb	who killed lee harvey oswald shot
+www.freebase.com/m/0bwjj	www.freebase.com/sports/sports_team/championships	www.freebase.com/m/0403mzq	when did celtics win the championship
+www.freebase.com/m/047sxrj	www.freebase.com/people/person/nationality	www.freebase.com/m/09c7w0	what country is nicki minaj from
+www.freebase.com/m/04wgh	www.freebase.com/location/country/capital	www.freebase.com/m/0fs44	what is capital city of morocco
+www.freebase.com/m/0skd2	www.freebase.com/location/location/containedby	www.freebase.com/m/03chrxx	where is walton indiana
+www.freebase.com/m/064r7fk	www.freebase.com/language/human_language/main_country	www.freebase.com/m/0d05w3	where do they speak tibetan
+www.freebase.com/m/0f2wj	www.freebase.com/travel/travel_destination/tourist_attractions	www.freebase.com/m/02_4ml	what to do in hollywood ca this weekend
+www.freebase.com/m/0261x8t	www.freebase.com/people/person/place_of_birth	www.freebase.com/m/030qb3t	where did kim kardashian come from
+www.freebase.com/m/01czt9	www.freebase.com/location/location/events	www.freebase.com/m/0136_03w	what happened at benghazi
+www.freebase.com/m/0b90_r	www.freebase.com/location/country/currency_used	www.freebase.com/m/012ts8	what kind of money do i bring to mexico
+www.freebase.com/m/0b90_r	www.freebase.com/location/country/languages_spoken	www.freebase.com/m/01_0ct	what is the main language spoken in mexico
+www.freebase.com/m/0222qb	www.freebase.com/people/ethnicity/included_in_group	www.freebase.com/m/03rkmh	what are italians classified as
+www.freebase.com/m/0f4vbz	www.freebase.com/people/person/profession	www.freebase.com/m/01d_h8	what has angelina jolie accomplished
+www.freebase.com/m/02zjd	www.freebase.com/people/person/profession	www.freebase.com/m/02xhgwq	what was f. scott fitzgerald
+www.freebase.com/m/03_r3	www.freebase.com/location/country/official_language	www.freebase.com/m/01428y	what is the dominant language spoken in jamaica
+www.freebase.com/m/0jm3v	www.freebase.com/basketball/basketball_team/head_coach	www.freebase.com/m/04lvwk	who is the coach for the new york knicks
+www.freebase.com/m/02lymt	www.freebase.com/people/person/profession	www.freebase.com/m/012t_z	who was wesley snipes
+www.freebase.com/m/01ls2	www.freebase.com/location/country/languages_spoken	www.freebase.com/g/1q6h_1_4j	what kind of language does colombia speak
+www.freebase.com/m/02jx1	www.freebase.com/location/country/currency_used	www.freebase.com/m/01nv4h	what currency does england use now
+www.freebase.com/m/04v09	www.freebase.com/location/country/form_of_government	www.freebase.com/m/01dw03	what kind of government is mali
+www.freebase.com/m/010y34	www.freebase.com/location/citytown/postal_codes	www.freebase.com/m/021l1w6	what is the zip code for morgantown wv
+www.freebase.com/m/0ggh3	www.freebase.com/location/location/time_zones	www.freebase.com/m/02hcv8	what is jacksonville fl timezone
+www.freebase.com/m/03p6r	www.freebase.com/people/person/children	www.freebase.com/m/0183g3	who were king henry vii children
+www.freebase.com/m/02ly_	www.freebase.com/travel/travel_destination/tourist_attractions	www.freebase.com/m/04g1431	what to do with kids in essex
+www.freebase.com/m/03d9rk	www.freebase.com/people/deceased_person/place_of_death	www.freebase.com/m/0139dh	what concentration camp did anne frank died in
+www.freebase.com/m/02lx0	www.freebase.com/location/country/languages_spoken	www.freebase.com/m/025t0jp	what language does east timor speak
+www.freebase.com/m/03rjj	www.freebase.com/location/country/currency_used	www.freebase.com/m/02l6h	what is the currency in italy
+www.freebase.com/m/03rjj	www.freebase.com/location/country/currency_used	www.freebase.com/m/02l6h	what is the name of the currency used in italy
+www.freebase.com/m/0dqcm	www.freebase.com/people/person/place_of_birth	www.freebase.com/m/06nz8h	where is audrey hepburn from
+www.freebase.com/m/0162v	www.freebase.com/location/location/people_born_here	www.freebase.com/g/11b7k2x4z9	what famous people are from barbados
+www.freebase.com/m/0d05w3	www.freebase.com/location/country/currency_used	www.freebase.com/m/0hn4_	what is the name of the currency used in china
+www.freebase.com/m/09889g	www.freebase.com/people/person/children	www.freebase.com/m/0598rm4	what are the names of michael jackson 's 3 children
+www.freebase.com/m/036mk	www.freebase.com/architecture/building/building_complex	www.freebase.com/m/06bkmh	where were the great pyramids of giza built
+www.freebase.com/m/06bnz	www.freebase.com/location/country/languages_spoken	www.freebase.com/m/017dsl	what language do the russian speak
+www.freebase.com/m/0chghy	www.freebase.com/location/country/languages_spoken	www.freebase.com/m/02h40lc	what language do australia people speak
+www.freebase.com/m/06mkj	www.freebase.com/sports/sports_team_location/teams	www.freebase.com/m/026p7n3	what are the sports in spain
+www.freebase.com/m/02mjmr	www.freebase.com/people/person/place_of_birth	www.freebase.com/m/02hrh0_	where president obama was born
+www.freebase.com/m/05qhw	www.freebase.com/sports/sports_team_location/teams	www.freebase.com/m/025wfz7	what sports do people play in poland
+www.freebase.com/m/03s9v	www.freebase.com/people/person/profession	www.freebase.com/m/01pxg	who was isaac newton and what did he do
+www.freebase.com/m/0hqgp	www.freebase.com/music/artist/genre	www.freebase.com/m/05lls	what kind of music did franz liszt compose
+www.freebase.com/m/07cbs	www.freebase.com/book/author/works_written	www.freebase.com/m/0_l_szn	what document did thomas jefferson wrote
+www.freebase.com/m/051cc	www.freebase.com/people/person/profession	www.freebase.com/m/010b8yqs	who is martin luther king jr facts
+www.freebase.com/m/07ypt	www.freebase.com/location/location/containedby	www.freebase.com/m/015jr	where is victoria british columbia
+www.freebase.com/m/0f8l9c	www.freebase.com/location/country/currency_used	www.freebase.com/m/01qyjx	what do we call the currency of france
+www.freebase.com/m/046cp	www.freebase.com/people/person/place_of_birth	www.freebase.com/m/02_286	where was john jay born
+www.freebase.com/m/0cks0	www.freebase.com/location/location/containedby	www.freebase.com/m/02hf4r	where is mount fuji located
+www.freebase.com/m/011wgw	www.freebase.com/people/person/place_of_birth	www.freebase.com/m/01f5d8	where was toussaint l'ouverture born
+www.freebase.com/m/0z53k	www.freebase.com/location/citytown/postal_codes	www.freebase.com/m/020qj4c	what is lawton ok zip code
+www.freebase.com/m/06mkj	www.freebase.com/location/country/capital	www.freebase.com/m/056_y	what is the capital city of spain wiki answers
+www.freebase.com/m/04306rv	www.freebase.com/language/human_language/countries_spoken_in	www.freebase.com/m/0154j	where do they speak german
+www.freebase.com/m/0c_5g9	www.freebase.com/common/topic/notable_types	www.freebase.com/m/01y2hnl	what is colorado technical university
+www.freebase.com/m/0f8l9c	www.freebase.com/location/country/currency_formerly_used	www.freebase.com/m/01m4tk	what was the currency used in france before the euro
+www.freebase.com/m/03s9v	www.freebase.com/people/person/profession	www.freebase.com/m/01pxg	what area of science did sir isaac newton study
+www.freebase.com/m/071vr	www.freebase.com/location/hud_county_place/county	www.freebase.com/m/0l2rj	what county is san diego in
+www.freebase.com/m/027g6wt	www.freebase.com/fictional_universe/fictional_character/based_on	www.freebase.com/m/0f9q7	what is real name of santa claus
+www.freebase.com/m/0289jv	www.freebase.com/people/deceased_person/cause_of_death	www.freebase.com/m/019dmc	what did coretta scott king died from
+www.freebase.com/m/06c97	www.freebase.com/government/us_president/vice_president	www.freebase.com/m/09r62	who was vp for nixon
+www.freebase.com/m/07_m9_	www.freebase.com/people/person/religion	www.freebase.com/m/01lp8	what religion did adolf hitler follow
+www.freebase.com/m/0j1qb	www.freebase.com/location/location/containedby	www.freebase.com/m/03v0t	where is the illinois river on a map
+www.freebase.com/m/03h2c	www.freebase.com/location/location/containedby	www.freebase.com/m/01tzh	where honduras in the world
+www.freebase.com/m/034ks	www.freebase.com/user/lindenb/default_domain/scientist/known_for	www.freebase.com/m/01kf8z	what galileo galilei was famous for
+www.freebase.com/m/0qskp	www.freebase.com/location/citytown/postal_codes	www.freebase.com/m/01z4426	what is the zip code for jonesboro ar
+www.freebase.com/m/0p52s	www.freebase.com/people/person/children	www.freebase.com/m/07zq7jk	what is jamie spears baby name
+www.freebase.com/m/012vwb	www.freebase.com/education/educational_institution/mascot	www.freebase.com/m/02nv3yz	what is the clemson mascot name
+www.freebase.com/m/01xnj	www.freebase.com/visual_art/visual_artist/associated_periods_or_movements	www.freebase.com/m/015r61	what type of art does claude monet do
+www.freebase.com/m/0484q	www.freebase.com/music/guitarist/guitars_played	www.freebase.com/m/047q4j	what guitar did kurt cobain
+www.freebase.com/m/0nym5	www.freebase.com/location/location/containedby	www.freebase.com/m/06kt1_8	where is walton county ga
+www.freebase.com/m/05tbn	www.freebase.com/location/location/time_zones	www.freebase.com/m/02_37z	what time zone is pennsylvania in right now
+www.freebase.com/m/07pzc	www.freebase.com/people/person/place_of_birth	www.freebase.com/m/02cx_2	where is tupac from originally
+www.freebase.com/m/052s_8	www.freebase.com/film/film_story_contributor/film_story_credits	www.freebase.com/m/04y364	what sarah dessen books are movies
+www.freebase.com/m/03gh4	www.freebase.com/location/location/time_zones	www.freebase.com/m/02lctm	what is the current time in kauai hawaii
+www.freebase.com/m/01j851	www.freebase.com/people/deceased_person/place_of_burial	www.freebase.com/m/018mm4	where was farrah fawcett buried
+www.freebase.com/m/04107	www.freebase.com/influence/influence_node/influenced_by	www.freebase.com/m/023jy9	what inspired steinbeck
+www.freebase.com/m/0d04z6	www.freebase.com/location/country/form_of_government	www.freebase.com/m/01dw03	what kind of government does cuba have today
+www.freebase.com/m/02h40lc	www.freebase.com/language/human_language/countries_spoken_in	www.freebase.com/m/0160w	where are english speakers distributed
+www.freebase.com/m/03rjj	www.freebase.com/location/country/capital	www.freebase.com/m/06c62	what is the capital of italy today
+www.freebase.com/m/0160w	www.freebase.com/location/country/languages_spoken	www.freebase.com/m/026qjbs	what language do people speak in the bahamas
+www.freebase.com/m/0160w	www.freebase.com/location/location/time_zones	www.freebase.com/m/02_37z	what time zone is in the bahamas
+www.freebase.com/m/015fr	www.freebase.com/location/country/languages_spoken	www.freebase.com/m/02bjrlw	what language do people speak in brazil
+www.freebase.com/m/078w2	www.freebase.com/influence/influence_node/influenced_by	www.freebase.com/m/015_hb	who influenced samuel taylor coleridge
+www.freebase.com/m/0261x8t	www.freebase.com/people/person/profession	www.freebase.com/m/012t_z	what does kim kardashian work as
+www.freebase.com/m/04yf_	www.freebase.com/geography/river/mouth	www.freebase.com/m/03f_9	where did the mississippi river end
+www.freebase.com/m/0lyq	www.freebase.com/people/ethnicity/geographic_distribution	www.freebase.com/m/027v6g	where did the anasazi indians live
+www.freebase.com/m/030dr	www.freebase.com/people/person/profession	www.freebase.com/g/125_hzb47	what was francis bacon contributions
+www.freebase.com/m/01jtkg	www.freebase.com/people/person/profession	www.freebase.com/m/016fly	who was stephen r covey
+www.freebase.com/m/06mt91	www.freebase.com/people/person/nationality	www.freebase.com/m/0162v	what nationality is rihanna
+www.freebase.com/m/0chghy	www.freebase.com/location/country/form_of_government	www.freebase.com/m/018wl5	what form of government does australia use
+www.freebase.com/m/0358gm	www.freebase.com/language/language_writing_system/parent_writing_systems	www.freebase.com/m/0j59b	where did the greek alphabet come from
+www.freebase.com/m/0tdxc	www.freebase.com/location/location/time_zones	www.freebase.com/m/02hcv8	what timezone is elizabethtown kentucky
+www.freebase.com/m/02yc5b	www.freebase.com/travel/travel_destination/tourist_attractions	www.freebase.com/m/02qld5z	what to see in christchurch new zealand
+www.freebase.com/m/0cymln	www.freebase.com/people/person/nationality	www.freebase.com/m/09c7w0	where is chris paul from
+www.freebase.com/m/05gg4	www.freebase.com/sports/sports_team/colors	www.freebase.com/m/01g5v	what are the colors of the ny giants
+www.freebase.com/m/03s9v	www.freebase.com/law/inventor/inventions	www.freebase.com/m/01nhc9	what was sir isaac newton 's inventions
+www.freebase.com/m/057ph	www.freebase.com/fictional_universe/fictional_character/character_created_by	www.freebase.com/m/081nh	who was the artist of mickey mouse
+www.freebase.com/m/0qymv	www.freebase.com/location/citytown/postal_codes	www.freebase.com/m/01zcvrz	what is the zip code for concord
+www.freebase.com/m/01n86	www.freebase.com/geography/river/origin	www.freebase.com/m/02r8kvz	where does the columbia river start
+www.freebase.com/m/03647x	www.freebase.com/book/book_character/appears_in_book	www.freebase.com/m/014jst	what are all the names of the harry potter books
+www.freebase.com/m/084t6	www.freebase.com/people/person/profession	www.freebase.com/m/016wtf	who was sir walter raleigh and what did he do
+www.freebase.com/m/02l6h	www.freebase.com/finance/currency/countries_used	www.freebase.com/m/014mxp	what countries are in the euro dollar
+www.freebase.com/m/0162v	www.freebase.com/location/country/currency_used	www.freebase.com/m/05hy7p	what currency can you use in barbados
+www.freebase.com/m/0f4vbz	www.freebase.com/people/person/profession	www.freebase.com/m/01d_h8	who is angelina jolie
+www.freebase.com/m/05fym	www.freebase.com/location/location/containedby	www.freebase.com/m/01chdh	where is nineveh city
+www.freebase.com/m/0hrf6ww	www.freebase.com/time/event/locations	www.freebase.com/m/04tk4bp	where is augusta masters 2012
+www.freebase.com/m/0dltj	www.freebase.com/people/deceased_person/cause_of_death	www.freebase.com/m/0d_bk	what type of cancer did eva peron die from
+www.freebase.com/m/0_kl9	www.freebase.com/location/hud_county_place/county	www.freebase.com/m/0mw39	where is denmark south carolina
+www.freebase.com/m/02kz_	www.freebase.com/book/author/book_editions_published	www.freebase.com/m/028xtjw	what books did ernest hemingway write
+www.freebase.com/m/0c3mz	www.freebase.com/time/event/locations	www.freebase.com/m/02pb6l5	where did the battle of passchendaele happen
+www.freebase.com/m/04rrx	www.freebase.com/location/location/time_zones	www.freebase.com/m/02_37z	what standard time is michigan
+www.freebase.com/m/042dk	www.freebase.com/common/topic/notable_types	www.freebase.com/m/01xljv7	what was john tyler
+www.freebase.com/m/04cyz8g	www.freebase.com/people/person/profession	www.freebase.com/m/02h664g	what did romo do
+www.freebase.com/m/03_r3	www.freebase.com/location/country/currency_used	www.freebase.com/m/04xc2m	what currency can you use in jamaica
+www.freebase.com/m/04jswm8	www.freebase.com/people/deceased_person/place_of_death	www.freebase.com/m/04ty8	where did jay moriarty die
+www.freebase.com/m/0ccd96	www.freebase.com/time/event/locations	www.freebase.com/m/04n7kgz	where was the boston tea party 1773
+www.freebase.com/m/087k1_	www.freebase.com/people/person/profession	www.freebase.com/m/02hrh1q	what does helen flanagan do
+www.freebase.com/m/05nd_	www.freebase.com/time/recurring_event/current_frequency	www.freebase.com/m/04q0_4f	when are the summer and winter olympics held
+www.freebase.com/m/01spb0	www.freebase.com/location/location/partially_containedby	www.freebase.com/m/0498y	where is tennessee river
+www.freebase.com/m/07ylj	www.freebase.com/location/location/events	www.freebase.com/g/122dshgz	what are some major events in venezuela
+www.freebase.com/m/05qbc_9	www.freebase.com/people/person/place_of_birth	www.freebase.com/m/0dclg	where did kate gosselin grew up
+www.freebase.com/m/09c7w0	www.freebase.com/location/country/form_of_government	www.freebase.com/m/01d9r3	under what political system does the united states government operate
+www.freebase.com/m/05qtj	www.freebase.com/travel/travel_destination/tourist_attractions	www.freebase.com/m/01q_np	what to do in paris in 1 day
+www.freebase.com/m/01ymq1	www.freebase.com/location/location/containedby	www.freebase.com/m/01n7q	what city is mt lassen in
+www.freebase.com/m/082db	www.freebase.com/music/artist/genre	www.freebase.com/m/021dvj	what type of music did mozart composed
+www.freebase.com/m/01qlg1	www.freebase.com/people/person/children	www.freebase.com/m/0194xc	how many kids were there in the kennedy family
+www.freebase.com/m/01f62	www.freebase.com/location/location/nearby_airports	www.freebase.com/m/013q7r	which barcelona airport is closest to the port
+www.freebase.com/m/02h40lc	www.freebase.com/language/human_language/language_family	www.freebase.com/m/0140qt	where has the english language evolved from
+www.freebase.com/m/01vpgl	www.freebase.com/people/person/profession	www.freebase.com/m/02h664x	what was scottie pippen known for
+www.freebase.com/m/0d060g	www.freebase.com/base/locations/countries/continent	www.freebase.com/m/059g4	what continent does canada belong to
+www.freebase.com/m/0gmk9p	www.freebase.com/people/person/profession	www.freebase.com/m/02h665k	what does george wilson do for a living
+www.freebase.com/m/02_lt	www.freebase.com/sports/sports_team/location	www.freebase.com/m/0126hc	what city does fulham play in
+www.freebase.com/m/07bcn	www.freebase.com/travel/travel_destination/tourist_attractions	www.freebase.com/m/03mdd2l	what are fun things to do in sacramento ca
+www.freebase.com/m/07_m9_	www.freebase.com/organization/organization_founder/organizations_founded	www.freebase.com/m/01c73n	what was hitler the leader of
+www.freebase.com/m/03shp	www.freebase.com/location/country/form_of_government	www.freebase.com/m/018wl5	what kind of government does iran have after 1979
+www.freebase.com/m/0856z	www.freebase.com/visual_art/visual_artist/art_forms	www.freebase.com/m/05qdh	what art did wassily kandinsky do
+www.freebase.com/m/0yb0	www.freebase.com/influence/influence_node/influenced_by	www.freebase.com/m/02mpv	what was antoni gaudi inspired by
+www.freebase.com/m/0295r	www.freebase.com/language/human_language/main_country	www.freebase.com/m/0k6nt	in what country do people speak danish
+www.freebase.com/m/05qtj	www.freebase.com/travel/travel_destination/accommodation	www.freebase.com/m/04fcxl	where should a family stay in paris
+www.freebase.com/m/051vz	www.freebase.com/sports/sports_team/arena_stadium	www.freebase.com/m/038br5	what is the milwaukee brewers stadium called
+www.freebase.com/m/01fc7p	www.freebase.com/time/event/locations	www.freebase.com/m/03czv	where did the gallipoli war take place
+www.freebase.com/m/013yq	www.freebase.com/travel/travel_destination/tourist_attractions	www.freebase.com/m/0130ft	what to visit in atlanta
+www.freebase.com/m/04v3q	www.freebase.com/location/country/languages_spoken	www.freebase.com/m/02h40lc	what language do maltese speak
+www.freebase.com/m/07bty	www.freebase.com/law/inventor/inventions	www.freebase.com/m/01cbh9	what did thomas edison do for the world
+www.freebase.com/m/01wj18h	www.freebase.com/music/artist/origin	www.freebase.com/m/01ls2	where is shakira from
+www.freebase.com/m/01spb0	www.freebase.com/geography/river/mouth	www.freebase.com/m/05lx3	where does the tennessee river go
+www.freebase.com/m/035dk	www.freebase.com/location/country/languages_spoken	www.freebase.com/m/01_lfh	what language do they in ghana
+www.freebase.com/m/019fz	www.freebase.com/law/inventor/inventions	www.freebase.com/m/0135nr	what all did ben franklin invent
+www.freebase.com/m/01yqrk	www.freebase.com/people/person/nationality	www.freebase.com/m/07ssc	what is steve nash nationality
+www.freebase.com/m/0f8l9c	www.freebase.com/location/country/official_language	www.freebase.com/m/064_8sq	what kind of language does france speak
+www.freebase.com/m/016wzw	www.freebase.com/location/country/currency_used	www.freebase.com/m/0b423v	what is the name of the currency used in peru
+www.freebase.com/m/07ssc	www.freebase.com/base/aareas/schema/administrative_area/administrative_children	www.freebase.com/m/02jx1	what are the four nations of the united kingdom
+www.freebase.com/m/04wqr	www.freebase.com/people/deceased_person/cause_of_death	www.freebase.com/m/0bwj2gf	what drug killed marilyn monroe
+www.freebase.com/m/030qb3t	www.freebase.com/location/location/time_zones	www.freebase.com/m/02lcqs	what is los angeles california time zone
+www.freebase.com/m/0b90_r	www.freebase.com/location/country/currency_used	www.freebase.com/m/012ts8	what currency should take to mexico
+www.freebase.com/m/06q1r	www.freebase.com/location/country/official_language	www.freebase.com/m/02h40lc	what do they speak in scotland
+www.freebase.com/m/0c0x7	www.freebase.com/people/person/profession	www.freebase.com/m/01pxg	what did john dalton study
+www.freebase.com/m/0408z4w	www.freebase.com/music/artist/track	www.freebase.com/m/0101zp_w	what songs do zac brown band sing
+www.freebase.com/m/0g78h	www.freebase.com/location/location/containedby	www.freebase.com/m/01pgbg	where is glastonbury england
+www.freebase.com/m/01z4fn	www.freebase.com/organization/organization/founders	www.freebase.com/m/01w91b	who formed the american federation of labor
+www.freebase.com/m/02cl1	www.freebase.com/travel/travel_destination/tourist_attractions	www.freebase.com/m/02bjgd	what to visit in denver
+www.freebase.com/m/0d3k14	www.freebase.com/people/deceased_person/place_of_death	www.freebase.com/m/0f2rq	where was john f kennedy when he got shot
+www.freebase.com/m/03rjj	www.freebase.com/location/country/form_of_government	www.freebase.com/m/01fpfn	what type of government does italy have 2011
+www.freebase.com/m/052p7	www.freebase.com/base/biblioness/bibs_location/state	www.freebase.com/m/0694j	what province is montreal canada located
+www.freebase.com/m/0hqgp	www.freebase.com/people/person/profession	www.freebase.com/m/01c72t	what did franz liszt do to earn a living
+www.freebase.com/m/05d1y	www.freebase.com/people/person/profession	www.freebase.com/m/02xhgx0	what was nikola tesla known for
+www.freebase.com/m/0ljsz	www.freebase.com/location/citytown/postal_codes	www.freebase.com/m/02070mv	what is the zip code for princeton nj
+www.freebase.com/m/03rj0	www.freebase.com/location/country/languages_spoken	www.freebase.com/m/01gmkg	what language does people in iceland speak
+www.freebase.com/m/0h7h6	www.freebase.com/location/location/time_zones	www.freebase.com/m/02hcv8	what time zone is toronto gmt
+www.freebase.com/m/09482	www.freebase.com/people/person/profession	www.freebase.com/m/05z96	what jobs did robert burns have
+www.freebase.com/m/03ryn	www.freebase.com/location/country/languages_spoken	www.freebase.com/m/01qzl2	what the language spoken in indonesia
+www.freebase.com/m/01y3c	www.freebase.com/american_football/football_team/current_head_coach	www.freebase.com/m/04g57l	who coaches the carolina panthers
+www.freebase.com/m/0f2r6	www.freebase.com/travel/travel_destination/tourist_attractions	www.freebase.com/g/121xqqc4	what there to do in salt lake city utah
+www.freebase.com/m/07ssc	www.freebase.com/location/country/official_language	www.freebase.com/m/02h40lc	what are the major languages spoken in the united kingdom
+www.freebase.com/m/0f9q7	www.freebase.com/people/person/profession	www.freebase.com/m/027k49j	what did st. nicholas do in his life
+www.freebase.com/m/05yfx	www.freebase.com/people/deceased_person/cause_of_death	www.freebase.com/m/0g02vk	what happened to pope john paul ii
+www.freebase.com/m/02z51	www.freebase.com/common/topic/notable_types	www.freebase.com/m/01xljv7	what was franklin pierce famous for
+www.freebase.com/m/058w5	www.freebase.com/influence/influence_node/influenced_by	www.freebase.com/m/013w_3	what inspired michelangelo buonarroti
+www.freebase.com/m/0n8m6	www.freebase.com/business/business_operation/industry	www.freebase.com/m/02ntf00	what does monsanto own
+www.freebase.com/m/0d0vqn	www.freebase.com/location/country/languages_spoken	www.freebase.com/m/012psb	what language do they speak in sweden yahoo
+www.freebase.com/m/035dk	www.freebase.com/location/country/languages_spoken	www.freebase.com/m/01_lfh	what language did they speak in ghana
+www.freebase.com/m/05v8c	www.freebase.com/location/country/form_of_government	www.freebase.com/m/01d9r3	what form of government do we have in the philippines
+www.freebase.com/m/08w78j	www.freebase.com/people/person/place_of_birth	www.freebase.com/m/0d9s5	where is ibrahim afellay from
+www.freebase.com/m/0ctw_b	www.freebase.com/location/country/currency_used	www.freebase.com/m/015f1d	what currency is accepted in new zealand
+www.freebase.com/m/0dyjz	www.freebase.com/base/aareas/schema/administrative_area/administrative_children	www.freebase.com/m/01ycxx	what places are in the west midlands
+www.freebase.com/m/0ydpd	www.freebase.com/travel/travel_destination/tourist_attractions	www.freebase.com/m/01vnqb	what to do with kids in asheville nc
+www.freebase.com/m/0h8b0	www.freebase.com/baseball/baseball_league/teams	www.freebase.com/m/01d5z	who is in the american league in baseball
+www.freebase.com/m/01pj7	www.freebase.com/location/country/currency_used	www.freebase.com/m/02z8jt	what currency shall i take to croatia
+www.freebase.com/m/01bt87	www.freebase.com/people/person/profession	www.freebase.com/m/01d30f	what was laura ingalls wilder famous for
+www.freebase.com/m/01vs_v8	www.freebase.com/people/person/place_of_birth	www.freebase.com/m/0v1xg	where did madonna grew up
+www.freebase.com/m/015fr	www.freebase.com/location/country/capital	www.freebase.com/m/01hy_	what capital city of brazil
+www.freebase.com/m/0b90_r	www.freebase.com/location/country/currency_used	www.freebase.com/m/012ts8	what kind of currency does mexico use
+www.freebase.com/m/014635	www.freebase.com/book/author/book_editions_published	www.freebase.com/m/04t__sd	what are some books that mark twain wrote
+www.freebase.com/m/039c5	www.freebase.com/people/person/profession	www.freebase.com/m/0266rh	what was gregor mendel contribution
+www.freebase.com/m/02mjmr	www.freebase.com/government/us_president/vice_president	www.freebase.com/m/012gx2	who is running for vice president with barack obama 2012
+www.freebase.com/m/07ssc	www.freebase.com/location/country/official_language	www.freebase.com/m/02h40lc	what language do people from the uk speak
+www.freebase.com/m/0h7h6	www.freebase.com/travel/travel_destination/tourist_attractions	www.freebase.com/m/01_zt4	what to do with my kids in toronto
+www.freebase.com/m/06qd3	www.freebase.com/location/country/form_of_government	www.freebase.com/m/01d9r3	what kind of government is south korea
+www.freebase.com/m/06m_5	www.freebase.com/location/country/capital	www.freebase.com/m/02r9rz	what sri lanka capital
+www.freebase.com/m/05qhw	www.freebase.com/location/country/form_of_government	www.freebase.com/m/026wp	what kind of government does poland have
+www.freebase.com/m/026mj	www.freebase.com/location/location/people_born_here	www.freebase.com/m/0_xw9n5	what famous people came from delaware
+www.freebase.com/m/01ppq	www.freebase.com/location/country/currency_used	www.freebase.com/m/02l6h	what currency does cyprus use
+www.freebase.com/m/0jfx1	www.freebase.com/music/group_member/instruments_played	www.freebase.com/m/0342h	what type of guitar does johnny depp play
+www.freebase.com/m/04n4sw4	www.freebase.com/people/person/profession	www.freebase.com/m/025smyp	who is dustin johnson the golfer
+www.freebase.com/m/0345h	www.freebase.com/location/country/form_of_government	www.freebase.com/m/0c9rw5	what is the political system in germany
+www.freebase.com/m/081k8	www.freebase.com/influence/influence_node/influenced_by	www.freebase.com/m/01612m	what prompted shakespeare to write poetry
+www.freebase.com/m/01znc_	www.freebase.com/location/country/currency_used	www.freebase.com/m/04dq0w	what is the currency in turkey called
+www.freebase.com/m/0g_j0	www.freebase.com/visual_art/visual_artist/associated_periods_or_movements	www.freebase.com/m/015r61	what type of art does marc chagall do
+www.freebase.com/m/0jgd	www.freebase.com/location/country/languages_spoken	www.freebase.com/m/02bjrlw	what language is spoken in argentina
+www.freebase.com/m/05qtj	www.freebase.com/symbols/namesake/named_after	www.freebase.com/m/0283_dl	where does the city of paris get its name
+www.freebase.com/m/015nrn	www.freebase.com/base/usnationalparks/us_national_park/state	www.freebase.com/m/081yw	where is olympic national park located
+www.freebase.com/m/07kwl	www.freebase.com/people/deceased_person/place_of_death	www.freebase.com/m/02_286	where did thomas paine die
+www.freebase.com/m/05g3b	www.freebase.com/sports/sports_team/arena_stadium	www.freebase.com/m/0299m7	where is the home stadium of the new england patriots
+www.freebase.com/m/0d8pw	www.freebase.com/people/person/profession	www.freebase.com/m/012t_z	who was kate chopin
+www.freebase.com/m/01kv93	www.freebase.com/biology/animal_breed/breed_of	www.freebase.com/m/0bt9lr	what are staffordshire terriers
+www.freebase.com/m/07bcn	www.freebase.com/travel/travel_destination/tourist_attractions	www.freebase.com/m/03mdd2l	what to do downtown sacramento
+www.freebase.com/m/0hz_1	www.freebase.com/people/person/parents	www.freebase.com/m/0gxtzg3	who is michael j fox parents
+www.freebase.com/m/015fr	www.freebase.com/location/country/languages_spoken	www.freebase.com/m/02bjrlw	what language speak in brazil
+www.freebase.com/m/0flw86	www.freebase.com/religion/religion/founding_figures	www.freebase.com/m/04s9n	who invented islamic religion
+www.freebase.com/m/06mzp	www.freebase.com/location/country/languages_spoken	www.freebase.com/m/02bjrlw	how many languages do they speak in switzerland
+www.freebase.com/m/021tl	www.freebase.com/people/deceased_person/place_of_death	www.freebase.com/m/01678j	where did emperor constantine die
+www.freebase.com/m/04v09	www.freebase.com/base/locations/countries/continent	www.freebase.com/m/0dg3n1	where is mali located
+www.freebase.com/m/0f1bg	www.freebase.com/fictional_universe/fictional_character/place_of_birth	www.freebase.com/g/120mc0gk	what planet did luke skywalker came from
+www.freebase.com/m/05l71	www.freebase.com/american_football/football_team/current_head_coach	www.freebase.com/m/03h4k5d	who are the coaches for the oakland raiders
+www.freebase.com/m/01bq8d	www.freebase.com/book/author/book_editions_published	www.freebase.com/m/028xsvy	what books did louis sachar wrote
+www.freebase.com/m/0pth	www.freebase.com/music/artist/genre	www.freebase.com/m/01fsz	what type of music did antonio vivaldi play
+www.freebase.com/m/014635	www.freebase.com/people/person/profession	www.freebase.com/m/01d30f	what is samuel langhorne clemens well known for
+www.freebase.com/m/0tfw	www.freebase.com/people/deceased_person/place_of_death	www.freebase.com/m/0kx9d	where did antoine lavoisier die
+www.freebase.com/m/015fr	www.freebase.com/location/country/official_language	www.freebase.com/m/05zjd	what is the official language of brazil now
+www.freebase.com/m/0j8js	www.freebase.com/sports/sports_team/arena_stadium	www.freebase.com/m/038hc3	where do florida panthers play
+www.freebase.com/m/0f04v	www.freebase.com/travel/travel_destination/tourist_attractions	www.freebase.com/m/01nmrx	what to do san jose ca
+www.freebase.com/m/0bwfn	www.freebase.com/organization/organization/founders	www.freebase.com/m/01p369	who founded new york university
+www.freebase.com/m/0px0r	www.freebase.com/tv/tv_program/program_creator	www.freebase.com/m/02g2wh	who created arthur
+www.freebase.com/m/0pj9t	www.freebase.com/people/deceased_person/cause_of_death	www.freebase.com/m/02wgfrh	what did bobby darin die of
+www.freebase.com/m/09cl0w	www.freebase.com/sports/sports_team/location	www.freebase.com/m/03l2n	where does houston dynamo play
+www.freebase.com/m/01s21dg	www.freebase.com/music/guitarist/guitars_played	www.freebase.com/m/02m873	what kind of guitar john mayer
+www.freebase.com/m/03_r3	www.freebase.com/location/country/currency_used	www.freebase.com/m/04xc2m	what jamaican money called
+www.freebase.com/m/0ws7	www.freebase.com/sports/sports_team/location	www.freebase.com/m/0vmt	where is the arizona cardinals stadium located
+www.freebase.com/m/03s9v	www.freebase.com/base/argumentmaps/innovator/original_ideas	www.freebase.com/m/01kffn	what is sir isaac newton theory
+www.freebase.com/m/0d6lp	www.freebase.com/travel/travel_destination/tourist_attractions	www.freebase.com/m/012_1t	what should i do today in san francisco
+www.freebase.com/m/060_7	www.freebase.com/influence/influence_node/influenced_by	www.freebase.com/m/016s03	who influenced picasso art
+www.freebase.com/m/05tbn	www.freebase.com/location/location/time_zones	www.freebase.com/m/02_37z	what is my timezone in pennsylvania
+www.freebase.com/m/09c7w0	www.freebase.com/location/country/form_of_government	www.freebase.com/m/01d9r3	what type of democracy is the united states
+www.freebase.com/m/03h64	www.freebase.com/location/location/time_zones	www.freebase.com/m/04qqww	what time in china hong kong
+www.freebase.com/m/02lj6p	www.freebase.com/people/deceased_person/cause_of_death	www.freebase.com/m/01q5y6	what disease did bernie mac die of
+www.freebase.com/m/02mjmr	www.freebase.com/people/person/profession	www.freebase.com/m/04gc2	what was obama 's former occupation
+www.freebase.com/m/0d2kt	www.freebase.com/geography/river/origin	www.freebase.com/m/02pj_tp	where is the thames river source
+www.freebase.com/m/05sb1	www.freebase.com/location/country/official_language	www.freebase.com/m/02h40lc	what language do they use in pakistan
+www.freebase.com/m/0lwkh	www.freebase.com/business/business_operation/industry	www.freebase.com/m/02kztmt	what kind of products does nike sell
+www.freebase.com/m/0143y5	www.freebase.com/people/deceased_person/place_of_death	www.freebase.com/m/0cw5k	where did kim jong il die
+www.freebase.com/m/07gvx	www.freebase.com/religion/religion/texts	www.freebase.com/m/0164zy	what is the sacred text of daoism
+www.freebase.com/m/02h40lc	www.freebase.com/language/human_language/main_country	www.freebase.com/m/014tss	what countries speak english natively
+www.freebase.com/m/0c_md_	www.freebase.com/government/us_president/vice_president	www.freebase.com/m/05jd_	who was gerald ford vp
+www.freebase.com/m/0jgx	www.freebase.com/location/country/currency_used	www.freebase.com/m/033xr3	what is armenian currency
+www.freebase.com/m/0c43g	www.freebase.com/visual_art/visual_artist/art_forms	www.freebase.com/m/02csf	what type of art did raphael sanzio create
+www.freebase.com/m/04v3q	www.freebase.com/location/country/languages_spoken	www.freebase.com/m/02h40lc	what language do they speak in malta
+www.freebase.com/m/04pwg	www.freebase.com/people/person/religion	www.freebase.com/m/0c8wxp	what religion was king louis xiv
+www.freebase.com/m/01w2x6z	www.freebase.com/people/deceased_person/cause_of_death	www.freebase.com/m/01tf_6	what did shannon hoon die from
+www.freebase.com/m/01vvm4	www.freebase.com/base/argumentmaps/innovator/original_ideas	www.freebase.com/m/01kf8z	what did nicholas copernicus discover
+www.freebase.com/m/0lm0n	www.freebase.com/location/location/containedby	www.freebase.com/m/059g4	where do the appalachian mountains run
+www.freebase.com/m/0jbt3	www.freebase.com/geography/island/body_of_water	www.freebase.com/m/05rgl	what ocean is around hawaii
+www.freebase.com/m/0jgd	www.freebase.com/location/country/official_language	www.freebase.com/m/06nm1	what is the most common language spoken in argentina
+www.freebase.com/m/07fj_	www.freebase.com/location/country/languages_spoken	www.freebase.com/m/064_8sq	what language tunisia
+www.freebase.com/m/04lg6	www.freebase.com/law/inventor/inventions	www.freebase.com/m/012rm	what are some inventions that leonardo da vinci invented
+www.freebase.com/m/09pmkv	www.freebase.com/location/country/currency_used	www.freebase.com/m/01_c9q	what are malaysian coins called
+www.freebase.com/m/0b90_r	www.freebase.com/location/country/form_of_government	www.freebase.com/m/01d9r3	what type government does mexico have
+www.freebase.com/m/027rn	www.freebase.com/location/country/currency_used	www.freebase.com/m/04lt7_	what currency does dominican republic take
+www.freebase.com/m/09889g	www.freebase.com/influence/influence_node/influenced_by	www.freebase.com/m/01b9db	what inspired michael jackson to become a singer
+www.freebase.com/m/04jpl	www.freebase.com/travel/travel_destination/tourist_attractions	www.freebase.com/m/012vvtp_	what to visit in london city
+www.freebase.com/m/0jbg2	www.freebase.com/visual_art/artwork/art_genre	www.freebase.com/m/01dv4h	what genre of art is the mona lisa
+www.freebase.com/m/0c8wxp	www.freebase.com/religion/religion/holidays	www.freebase.com/m/0_kv0v5	what are the catholic holy days
+www.freebase.com/m/0154j	www.freebase.com/location/country/official_language	www.freebase.com/m/02bv9	what language is most commonly spoken in belgium
+www.freebase.com/m/04mby	www.freebase.com/people/deceased_person/place_of_death	www.freebase.com/m/0f2wj	where did frank baum die
+www.freebase.com/m/07fj_	www.freebase.com/base/locations/countries/continent	www.freebase.com/m/0dg3n1	where is tunis on a map
+www.freebase.com/m/04_cw	www.freebase.com/base/activism/activist/area_of_activism	www.freebase.com/m/012h0y	what did mary wollstonecraft fight for
+www.freebase.com/m/03rj0	www.freebase.com/location/country/languages_spoken	www.freebase.com/m/01gmkg	what language does iceland speak
+www.freebase.com/m/01rnwj	www.freebase.com/organization/organization_founder/organizations_founded	www.freebase.com/m/027hxmd	what did gloria steinem founded
+www.freebase.com/m/06q1r	www.freebase.com/location/country/official_language	www.freebase.com/m/02h40lc	what language they speak in scotland
+www.freebase.com/m/06815z	www.freebase.com/food/dish/type_of_dish1	www.freebase.com/m/0jnxw	what are bigos
+www.freebase.com/m/04lg6	www.freebase.com/law/inventor/inventions	www.freebase.com/m/012rm	what are some of leonardo da vinci most famous inventions
+www.freebase.com/m/02hwyss	www.freebase.com/language/human_language/countries_spoken_in	www.freebase.com/m/01ppq	where do they speak turkish
+www.freebase.com/m/0qyzb	www.freebase.com/location/citytown/postal_codes	www.freebase.com/m/01zs6f0	what is the zip code for walnut creek
+www.freebase.com/m/02h40lc	www.freebase.com/language/human_language/countries_spoken_in	www.freebase.com/m/0160w	where is english spoken around the world
+www.freebase.com/m/04n32	www.freebase.com/music/artist/genre	www.freebase.com/m/015y_n	what music did louis armstrong play
+www.freebase.com/m/0345h	www.freebase.com/location/country/currency_used	www.freebase.com/m/02l6h	what form of currency does germany use
+www.freebase.com/m/04h9h	www.freebase.com/language/human_language/language_family	www.freebase.com/m/03t28	where is the latin language from
+www.freebase.com/m/06c62	www.freebase.com/travel/travel_destination/tourist_attractions	www.freebase.com/m/01_jls	what are the top tourist attractions in rome
+www.freebase.com/m/070h3	www.freebase.com/people/person/children	www.freebase.com/m/01qn77	who were the children of king solomon
+www.freebase.com/m/03xn54	www.freebase.com/people/deceased_person/cause_of_death	www.freebase.com/m/0gk4g	what did andy irons die from
+www.freebase.com/m/01wdj_	www.freebase.com/location/location/containedby	www.freebase.com/m/06_g97h	where is auburn university located
+www.freebase.com/m/01knh9l	www.freebase.com/people/person/parents	www.freebase.com/m/0jwnfyd	who is tatyana ali parents
+www.freebase.com/m/054vv	www.freebase.com/people/ethnicity/languages_spoken	www.freebase.com/m/064kl7	what language do the maasai speak
+www.freebase.com/m/0lm0n	www.freebase.com/location/location/partially_containedby	www.freebase.com/m/01x73	where do the appalachian mountains run through
+www.freebase.com/m/06mkj	www.freebase.com/location/country/currency_used	www.freebase.com/m/02l6h	what money does spain use
+www.freebase.com/m/013p_j	www.freebase.com/people/person/place_of_birth	www.freebase.com/m/01425k	where was terry waite born
+www.freebase.com/m/01tf88	www.freebase.com/time/event/locations	www.freebase.com/m/01j4rs	what country did the battle of san juan hill take place
+www.freebase.com/m/09c7w0	www.freebase.com/location/country/form_of_government	www.freebase.com/m/01d9r3	what kind of government does the united states have currently
+www.freebase.com/m/05b4w	www.freebase.com/location/country/official_language	www.freebase.com/m/01648r	what is the most common language in norway
+www.freebase.com/m/081k8	www.freebase.com/influence/influence_node/influenced_by	www.freebase.com/m/01612m	what influenced william shakespeare to start writing
+www.freebase.com/m/06pjs	www.freebase.com/film/director/film	www.freebase.com/m/0_r3q4v	what movies has spike lee made
+www.freebase.com/m/02lj6p	www.freebase.com/people/deceased_person/cause_of_death	www.freebase.com/m/01q5y6	what did bernie mac died of
+www.freebase.com/m/03l2n	www.freebase.com/location/location/time_zones	www.freebase.com/m/02fqwt	what is houston timezone
+www.freebase.com/m/033ky	www.freebase.com/people/person/profession	www.freebase.com/m/016wtf	what did ferdinand magellan do
+www.freebase.com/m/01mvkt	www.freebase.com/biology/animal_breed/place_of_origin	www.freebase.com/m/04xn_	where do burmese cats originate from
+www.freebase.com/m/094xz	www.freebase.com/location/location/containedby	www.freebase.com/m/059g4	where is mt st helens located
+www.freebase.com/m/02ft60	www.freebase.com/music/artist/origin	www.freebase.com/m/0hyxv	where was franz ferdinand from
+www.freebase.com/m/025_0c	www.freebase.com/base/honouriam/dishonoured_person/dishonor_bestowed	www.freebase.com/m/07y2zxd	what was benedict arnold most famous for
+www.freebase.com/m/02896	www.freebase.com/sports/sports_team/colors	www.freebase.com/m/01g5v	what are dallas cowboys colors
+www.freebase.com/m/01mjq	www.freebase.com/location/country/currency_used	www.freebase.com/m/04rpc3	what is the currency of the czech republic
+www.freebase.com/m/0gzh	www.freebase.com/medicine/notable_person_with_medical_condition/condition	www.freebase.com/m/02s645	what disease did abraham lincoln had
+www.freebase.com/m/05c95x	www.freebase.com/people/person/nationality	www.freebase.com/m/027rn	what is carlos pena jr nationality
+www.freebase.com/m/016wzw	www.freebase.com/location/country/languages_spoken	www.freebase.com/m/01y5tq	what language does peru speak
+www.freebase.com/m/02h40lc	www.freebase.com/language/human_language/countries_spoken_in	www.freebase.com/m/0160w	where is english spoken in the world map
+www.freebase.com/m/0d35y	www.freebase.com/location/location/time_zones	www.freebase.com/m/02hczc	what timezone is phoenix az in right now
+www.freebase.com/m/0tpk4	www.freebase.com/location/hud_county_place/county	www.freebase.com/m/0nm9h	where is south portland
+www.freebase.com/m/05_0t	www.freebase.com/people/person/profession	www.freebase.com/m/025rxky	who was ptolemy and what did he do
+www.freebase.com/m/02xsr6	www.freebase.com/location/location/containedby	www.freebase.com/m/06n3y	where does the parana river flow
+www.freebase.com/m/02wlk	www.freebase.com/influence/influence_node/influenced_by	www.freebase.com/m/01cqpy	who or what influenced frank lloyd wright
+www.freebase.com/m/03gk2	www.freebase.com/location/location/containedby	www.freebase.com/m/02j9z	where is holy roman empire located
+www.freebase.com/m/03_3d	www.freebase.com/location/country/form_of_government	www.freebase.com/m/018wl5	what type of government japan have
+www.freebase.com/m/0169t	www.freebase.com/base/locations/countries/continent	www.freebase.com/m/0dg3n1	where is burundi country
+www.freebase.com/m/02zjd	www.freebase.com/people/person/profession	www.freebase.com/m/02xhgwq	what did f. scott fitzgerald do
+www.freebase.com/m/03shp	www.freebase.com/location/country/official_language	www.freebase.com/m/032f6	what is the national language of iran
+www.freebase.com/m/06mkj	www.freebase.com/location/country/official_language	www.freebase.com/m/06nm1	what languages do people speak in spain
+www.freebase.com/m/03ccsym	www.freebase.com/american_football/football_player/position_s	www.freebase.com/m/02g_6x	what did michael crabtree do
+www.freebase.com/m/0x82	www.freebase.com/language/human_language/countries_spoken_in	www.freebase.com/m/0166v	where do they speak afrikaans
+www.freebase.com/m/01znc_	www.freebase.com/base/locations/countries/continent	www.freebase.com/m/02qkt	what region is turkey considered
+www.freebase.com/m/06bnz	www.freebase.com/location/country/languages_spoken	www.freebase.com/m/017dsl	what language do russians speak
+www.freebase.com/m/051cc	www.freebase.com/people/deceased_person/place_of_burial	www.freebase.com/m/050my1	where was martin luther king jr buried
+www.freebase.com/m/0jgd	www.freebase.com/location/country/official_language	www.freebase.com/m/06nm1	what are the official languages of argentina
+www.freebase.com/m/051q39	www.freebase.com/people/person/nationality	www.freebase.com/m/06mkj	what country does rafael nadal play for
+www.freebase.com/m/0flw86	www.freebase.com/religion/religion/beliefs	www.freebase.com/m/019vqj	what is the islamic belief
+www.freebase.com/m/06mkj	www.freebase.com/location/country/languages_spoken	www.freebase.com/m/017k6	how many languages do they speak in spain
+www.freebase.com/m/01w1vt	www.freebase.com/location/location/containedby	www.freebase.com/m/05g2v	where are the sahara desert located
+www.freebase.com/m/0jcx	www.freebase.com/influence/influence_node/influenced_by	www.freebase.com/m/012102	who or what influenced albert einstein
+www.freebase.com/m/02rdf6	www.freebase.com/visual_art/visual_artist/associated_periods_or_movements	www.freebase.com/m/015r61	what artistic style did henri rousseau work in
+www.freebase.com/m/018y0w	www.freebase.com/people/deceased_person/place_of_death	www.freebase.com/m/0dc95	where was huey newton killed
+www.freebase.com/m/011w8v	www.freebase.com/location/location/containedby	www.freebase.com/m/06q1r	where is midlothian scotland
+www.freebase.com/m/0271_s	www.freebase.com/people/person/place_of_birth	www.freebase.com/m/02dtg	where is mitt romney 's family from
+www.freebase.com/m/029f79	www.freebase.com/people/person/children	www.freebase.com/m/0j51lwj	what are john terry 's children called
+www.freebase.com/m/09889g	www.freebase.com/people/person/place_of_birth	www.freebase.com/m/03b12	what city was michael jackson born in
+www.freebase.com/m/01hf7f	www.freebase.com/base/culturalevent/event/entity_involved	www.freebase.com/m/02_qg_	who fought in the battle of vicksburg
+www.freebase.com/m/0113sg	www.freebase.com/people/person/profession	www.freebase.com/m/02hv44_	what kind of writing is nikolai gogol famous for
+www.freebase.com/m/09c7w0	www.freebase.com/location/location/time_zones	www.freebase.com/m/027wj2_	where are the timezones in the usa
+www.freebase.com/m/035nm	www.freebase.com/business/business_operation/industry	www.freebase.com/m/015smg	what does gm make
+www.freebase.com/m/07ssc	www.freebase.com/location/country/languages_spoken	www.freebase.com/m/01v0g	what do people speak in uk
+www.freebase.com/m/03_r3	www.freebase.com/location/country/languages_spoken	www.freebase.com/m/01428y	what do people in jamaica speak
+www.freebase.com/m/01jz6d	www.freebase.com/basketball/basketball_player/position_s	www.freebase.com/m/01pv51	what position did lebron james play
+www.freebase.com/m/0k1bs	www.freebase.com/music/guitarist/guitars_played	www.freebase.com/m/01jyd4	what kind of guitar did jerry garcia play
+www.freebase.com/m/04lg6	www.freebase.com/visual_art/visual_artist/art_forms	www.freebase.com/m/02csf	what type of art leonardo da vinci do
+www.freebase.com/m/06mt91	www.freebase.com/people/person/place_of_birth	www.freebase.com/m/02p5kp	where was rihanna raised
+www.freebase.com/m/0d05q4	www.freebase.com/location/country/form_of_government	www.freebase.com/m/018wl5	what government does iraq use
+www.freebase.com/m/06mkj	www.freebase.com/location/country/currency_used	www.freebase.com/m/02l6h	what type of currency do they use in spain
+www.freebase.com/m/01bw1c	www.freebase.com/book/author/works_written	www.freebase.com/m/068tvkv	what did lincoln steffens wrote
+www.freebase.com/m/02_286	www.freebase.com/travel/travel_destination/tourist_attractions	www.freebase.com/m/0_ymbw6	what can do in new york
+www.freebase.com/m/0f8l9c	www.freebase.com/location/country/currency_used	www.freebase.com/m/01qyjx	what currency does france accept
+www.freebase.com/m/01ls2	www.freebase.com/location/country/languages_spoken	www.freebase.com/g/1q6h_1_4j	what language do they speak in colombia south america
+www.freebase.com/m/015fr	www.freebase.com/location/country/form_of_government	www.freebase.com/m/01d9r3	what kind of government does brazil has
+www.freebase.com/m/0345h	www.freebase.com/sports/sports_team_location/teams	www.freebase.com/m/01l3wr	what sports are popular in germany
+www.freebase.com/m/05mph	www.freebase.com/location/location/time_zones	www.freebase.com/m/02fqwt	what 's my timezone in oklahoma
+www.freebase.com/m/05b4w	www.freebase.com/location/country/languages_spoken	www.freebase.com/m/02glq_	what do they speak in norway
+www.freebase.com/m/06t2t	www.freebase.com/location/country/currency_used	www.freebase.com/m/02f32g	what currency does singapore use
+www.freebase.com/m/016f5d	www.freebase.com/people/ethnicity/languages_spoken	www.freebase.com/m/02h40lc	what did the blackfoot indians speak
+www.freebase.com/m/07b_l	www.freebase.com/location/location/time_zones	www.freebase.com/m/02fqwt	what standard time is texas
+www.freebase.com/m/04c28	www.freebase.com/people/ethnicity/geographic_distribution	www.freebase.com/m/0j0k	where does kurdish people live
+www.freebase.com/m/04n32	www.freebase.com/music/group_member/instruments_played	www.freebase.com/m/020w2	what instrument does louis armstrong
+www.freebase.com/m/01vs_v8	www.freebase.com/people/person/religion	www.freebase.com/m/01n15n	what religion does madonna practice
+www.freebase.com/m/02508x	www.freebase.com/people/person/profession	www.freebase.com/m/015cjr	what made richard hammond famous
+www.freebase.com/m/034ks	www.freebase.com/astronomy/astronomer/astronomical_objects_discovered	www.freebase.com/m/041sd6	what discovery did galileo make
+www.freebase.com/m/01z215	www.freebase.com/location/country/form_of_government	www.freebase.com/m/01fpfn	what is the government system of saudi arabia
+www.freebase.com/m/045m1_	www.freebase.com/people/person/profession	www.freebase.com/m/019x4f	what did jesus do for living
+www.freebase.com/m/02_286	www.freebase.com/base/biblioness/bibs_location/state	www.freebase.com/m/059rby	what is the state name of new york city
+www.freebase.com/m/0hn79	www.freebase.com/symbols/namesake/named_after	www.freebase.com/m/01q69p	what is the stanley cup named after
+www.freebase.com/m/01r2l	www.freebase.com/language/human_language/main_country	www.freebase.com/m/0d05w3	where is traditional chinese used
+www.freebase.com/m/015fr	www.freebase.com/location/country/form_of_government	www.freebase.com/m/01d9r3	what type of political system is brazil
+www.freebase.com/m/0cn3b	www.freebase.com/location/country/languages_spoken	www.freebase.com/m/0dc0d	what language did the ancient babylonians speak
+www.freebase.com/m/0856z	www.freebase.com/visual_art/visual_artist/associated_periods_or_movements	www.freebase.com/m/015r61	what kind of painter was wassily kandinsky
+www.freebase.com/m/09c7w0	www.freebase.com/location/country/form_of_government	www.freebase.com/m/01d9r3	what form of government does the united states use
+www.freebase.com/m/0d04z6	www.freebase.com/location/country/currency_used	www.freebase.com/m/049p2z	what money does cuba use
+www.freebase.com/m/0d0vqn	www.freebase.com/location/location/time_zones	www.freebase.com/m/02llzg	what timezone is sweden gmt
+www.freebase.com/m/074l5	www.freebase.com/religion/deity/deity_of	www.freebase.com/m/03j6c	what does god shiva represent
+www.freebase.com/m/019fz	www.freebase.com/law/inventor/inventions	www.freebase.com/m/0135nr	what inventions were made by ben franklin
+www.freebase.com/m/06mzp	www.freebase.com/location/country/currency_used	www.freebase.com/m/01_h4b	what is the name of the currency used in switzerland
+www.freebase.com/m/0157m	www.freebase.com/government/us_president/vice_president	www.freebase.com/m/0d05fv	who was vice president with bill clinton
+www.freebase.com/m/0hqgp	www.freebase.com/music/composer/compositions	www.freebase.com/g/122bxplw	what songs did franz liszt compose
+www.freebase.com/m/0c4gf	www.freebase.com/time/event/locations	www.freebase.com/m/01krx6	where did the russian japanese war happen
+www.freebase.com/m/0jnq8	www.freebase.com/sports/sports_team/championships	www.freebase.com/m/010fdzhp	what year did the la kings win the cup
+www.freebase.com/m/02k54	www.freebase.com/location/country/currency_used	www.freebase.com/m/04phzg	what kind of money does egypt have
+www.freebase.com/m/0cg4t	www.freebase.com/geography/river/mouth	www.freebase.com/m/0j8pq	what body of water does st lawrence river flow into
+www.freebase.com/m/09c7w0	www.freebase.com/location/country/form_of_government	www.freebase.com/m/01d9r3	what form of government does the united states have
+www.freebase.com/m/013yq	www.freebase.com/travel/travel_destination/tourist_attractions	www.freebase.com/m/0130ft	what 's there to see in atlanta
+www.freebase.com/m/0v_x	www.freebase.com/location/location/containedby	www.freebase.com/m/021p2p	where was auschwitz concentration camp located
+www.freebase.com/m/027rn	www.freebase.com/location/country/currency_used	www.freebase.com/m/04lt7_	what kind of currency does dominican republic use
+www.freebase.com/m/01mjq	www.freebase.com/location/country/languages_spoken	www.freebase.com/m/012psb	what is spoken in czech republic
+www.freebase.com/m/081k8	www.freebase.com/people/person/place_of_birth	www.freebase.com/m/0g251	where was shakespeare born at
+www.freebase.com/m/0cgbf	www.freebase.com/people/deceased_person/cause_of_death	www.freebase.com/m/01_qc_	what did joan crawford died of
+www.freebase.com/m/0lpk3	www.freebase.com/location/hud_county_place/county	www.freebase.com/m/0fc_9	what county is utica ny in
+www.freebase.com/m/01qmz	www.freebase.com/law/inventor/inventions	www.freebase.com/m/029wv	what did charles babbage discover
+www.freebase.com/m/0btx2g	www.freebase.com/people/person/profession	www.freebase.com/m/012t_z	who is rick scott
+www.freebase.com/m/0cmc2	www.freebase.com/time/event/locations	www.freebase.com/m/01522	where did the crimean war take place
+www.freebase.com/m/05qtj	www.freebase.com/travel/travel_destination/tourist_attractions	www.freebase.com/m/01q_np	what do see in paris
+www.freebase.com/m/09889g	www.freebase.com/music/artist/origin	www.freebase.com/m/03b12	where michael jackson from
+www.freebase.com/m/03_j8	www.freebase.com/people/person/profession	www.freebase.com/m/016wtf	who is captain james cook facts
+www.freebase.com/m/0d060g	www.freebase.com/location/country/form_of_government	www.freebase.com/m/018wl5	what form of government does canada
+www.freebase.com/m/0flw86	www.freebase.com/religion/religion/deities	www.freebase.com/m/055v4c	who do islamic people follow
+www.freebase.com/m/016wzw	www.freebase.com/location/country/form_of_government	www.freebase.com/m/01d9r3	what kind of government does peru
+www.freebase.com/m/0cj5y	www.freebase.com/time/event/people_involved	www.freebase.com/m/012bk	who was in the israeli palestinian conflict
+www.freebase.com/m/0ysy	www.freebase.com/organization/organization/founders	www.freebase.com/m/01wtr5	who founded the afl
+www.freebase.com/m/0k92y	www.freebase.com/people/deceased_person/place_of_death	www.freebase.com/m/056_y	where did diego velazquez die
+www.freebase.com/m/06mzp	www.freebase.com/location/country/currency_used	www.freebase.com/m/01_h4b	what currency do they use in switzerland
+www.freebase.com/m/0d3k14	www.freebase.com/people/deceased_person/place_of_burial	www.freebase.com/m/0lbp_	where is president kennedy buried
+www.freebase.com/m/04s9n	www.freebase.com/people/person/place_of_birth	www.freebase.com/m/058wp	where was the prophet mohammed from
+www.freebase.com/m/07t21	www.freebase.com/location/country/languages_spoken	www.freebase.com/m/012v8	what language do ukrainian people speak
+www.freebase.com/m/016_mj	www.freebase.com/people/person/place_of_birth	www.freebase.com/m/013l1h	where is chris rock from
+www.freebase.com/m/02k54	www.freebase.com/location/country/official_language	www.freebase.com/m/025rvv7	what kind of language do egyptian speak
+www.freebase.com/m/015fr	www.freebase.com/location/country/languages_spoken	www.freebase.com/m/02bjrlw	what language do brazilians use
+www.freebase.com/m/07_xf	www.freebase.com/american_football/football_player/position_s	www.freebase.com/m/06v_1nj	what position did vince lombardi play
+www.freebase.com/m/077qn	www.freebase.com/location/country/official_language	www.freebase.com/m/0k0sb	what language do serbs speak
+www.freebase.com/m/01f6vb	www.freebase.com/people/deceased_person/cause_of_death	www.freebase.com/m/051_y	what was the cause of death for laci peterson
+www.freebase.com/m/0pth	www.freebase.com/music/artist/genre	www.freebase.com/m/01fsz	what type of music did vivaldi compose
+www.freebase.com/m/0jgd	www.freebase.com/location/country/languages_spoken	www.freebase.com/m/02bjrlw	what language do speak in argentina
+www.freebase.com/m/09889g	www.freebase.com/people/person/children	www.freebase.com/m/0598rm4	what are the names of michael jackson 's kids
+www.freebase.com/m/03_3d	www.freebase.com/location/location/time_zones	www.freebase.com/m/019rdm	what the time zone in japan
+www.freebase.com/m/02sj66	www.freebase.com/people/person/ethnicity	www.freebase.com/m/05t0ydg	what race is vanessa carlton
+www.freebase.com/m/01mjq	www.freebase.com/location/country/languages_spoken	www.freebase.com/m/012psb	what do people in czech republic speak
+www.freebase.com/m/0jzc	www.freebase.com/language/human_language/countries_spoken_in	www.freebase.com/m/0161c	which countries speak arabic language
+www.freebase.com/m/0bkf4	www.freebase.com/people/deceased_person/place_of_burial	www.freebase.com/m/0ggh7j1	where is bob marley buried
+www.freebase.com/m/04jpl	www.freebase.com/location/location/time_zones	www.freebase.com/m/03bdv	what is london uk time zone
+www.freebase.com/m/01_d4	www.freebase.com/travel/travel_destination/accommodation	www.freebase.com/m/0ldv2s1	where to stay in chicago tourist
+www.freebase.com/m/0jgd	www.freebase.com/location/country/form_of_government	www.freebase.com/m/01d9r3	what type of government does argentina have today
+www.freebase.com/m/030_wt	www.freebase.com/people/person/place_of_birth	www.freebase.com/m/0fgn_n	where does fabio capello come from
+www.freebase.com/m/0bt23	www.freebase.com/people/person/profession	www.freebase.com/m/016wtf	what did jack london do for a living
+www.freebase.com/m/04107	www.freebase.com/influence/influence_node/influenced_by	www.freebase.com/m/023jy9	what influenced john steinbeck to start writing
+www.freebase.com/m/014g_s	www.freebase.com/people/person/ethnicity	www.freebase.com/m/07j80c	where is dwayne johnson ethnicity
+www.freebase.com/m/0p_70	www.freebase.com/geography/river/mouth	www.freebase.com/m/03rz4	which ocean does the zambezi river flow into
+www.freebase.com/m/0ksnn	www.freebase.com/location/location/containedby	www.freebase.com/m/01xyy	where was the palace of knossos located
+www.freebase.com/m/0yjq	www.freebase.com/location/location/containedby	www.freebase.com/m/059_c	where is roswell area 51

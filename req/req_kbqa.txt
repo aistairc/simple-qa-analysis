@@ -1,0 +1,5 @@
+pandas==0.25.1
+tensorboard==1.7.0
+tensorflow-gpu==1.7.0
+numpy
+pyyaml

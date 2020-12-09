@@ -1,0 +1,271 @@
+www.freebase.com/m/068395	www.freebase.com/broadcast/radio_station/owner	www.freebase.com/m/01cj3p	who owns wxpn
+www.freebase.com/m/04dtx9	www.freebase.com/internet/website/owner	www.freebase.com/m/01cj3p	who owns flickr
+www.freebase.com/m/01r3kd	www.freebase.com/organization/organization/founders	www.freebase.com/m/01cj3p	who founded gsusa
+www.freebase.com/m/025s4r0	www.freebase.com/chemistry/chemical_element/discoverer	www.freebase.com/m/01cj3p	who discovered neon
+www.freebase.com/m/070vn	www.freebase.com/comic_books/comic_book_character/created_by	www.freebase.com/m/01cj3p	who created superman
+www.freebase.com/m/06ynv	www.freebase.com/law/invention/inventor	www.freebase.com/m/01cj3p	who invented scrabble
+www.freebase.com/m/0f13t	www.freebase.com/fictional_universe/fictional_character/species	www.freebase.com/m/01cj3p	what species is spock
+www.freebase.com/m/02hxhz	www.freebase.com/film/film/rating	www.freebase.com/m/01cj3p	what is big daddy rated
+www.freebase.com/m/027lnzs	www.freebase.com/computer/computer/key_designers	www.freebase.com/m/01cj3p	who designed the iphone
+www.freebase.com/m/07g75	www.freebase.com/fictional_universe/work_of_fiction/setting	www.freebase.com/m/01cj3p	where is the hobbit set
+www.freebase.com/m/0299q	www.freebase.com/comic_strips/comic_strip/genre	www.freebase.com/m/01cj3p	what genre is doonesbury
+www.freebase.com/m/02mgxp	www.freebase.com/fashion/textile/fiber	www.freebase.com/m/01cj3p	what is serge made out of
+www.freebase.com/m/02zs4	www.freebase.com/automotive/company/make_s	www.freebase.com/m/01cj3p	what makes does ford have
+www.freebase.com/m/0jbg2	www.freebase.com/visual_art/artwork/artist	www.freebase.com/m/01cj3p	who painted the mona lisa
+www.freebase.com/m/011j44	www.freebase.com/fictional_universe/fictional_character/character_created_by	www.freebase.com/m/01cj3p	who created charlie brown
+www.freebase.com/m/0cwrr	www.freebase.com/tv/tv_program/program_creator	www.freebase.com/m/01cj3p	who created sesame street
+www.freebase.com/m/01tckg	www.freebase.com/boats/ship/ship_builder	www.freebase.com/m/01cj3p	who built the uss nautilus
+www.freebase.com/m/01b39j	www.freebase.com/business/business_operation/industry	www.freebase.com/m/01cj3p	what is target 's industry
+www.freebase.com/m/01v7z	www.freebase.com/dining/cuisine/dishes	www.freebase.com/m/01cj3p	what are some cajun dishes
+www.freebase.com/m/0bf9j1	www.freebase.com/people/deceased_person/place_of_death	www.freebase.com/m/01cj3p	where did nathan smith die
+www.freebase.com/m/0hx5v	www.freebase.com/law/legal_case/subject	www.freebase.com/m/01cj3p	what was roe v. wade about
+www.freebase.com/m/0cl53	www.freebase.com/people/deceased_person/place_of_burial	www.freebase.com/m/01cj3p	where was henry iii buried
+www.freebase.com/m/07sxww	www.freebase.com/music/artist/genre	www.freebase.com/m/01cj3p	what genre of music is b12
+www.freebase.com/m/03thkf	www.freebase.com/fictional_universe/fictional_character/species	www.freebase.com/m/01cj3p	what species is the doctor
+www.freebase.com/m/06whf	www.freebase.com/people/deceased_person/cause_of_death	www.freebase.com/m/01cj3p	how did samuel beckett die
+www.freebase.com/m/041w8j2	www.freebase.com/broadcast/content/producer	www.freebase.com/m/01cj3p	who produces meet the press
+www.freebase.com/m/02dl1y	www.freebase.com/fashion/garment/more_specialized_forms	www.freebase.com/m/01cj3p	what are some types of hats
+www.freebase.com/m/074m2	www.freebase.com/medicine/infectious_disease/transmission	www.freebase.com/m/01cj3p	how is syphilis transmitted
+www.freebase.com/m/0dr_4	www.freebase.com/film/film/produced_by	www.freebase.com/m/01cj3p	who was titanic produced by
+www.freebase.com/m/030ljv	www.freebase.com/visual_art/artwork/media	www.freebase.com/m/01cj3p	what is the thinker made of
+www.freebase.com/m/04psf	www.freebase.com/medicine/disease/causes	www.freebase.com/m/01cj3p	what diseases cause leukemia
+www.freebase.com/m/0bx7rw	www.freebase.com/internet/website/category	www.freebase.com/m/01cj3p	what kind of website is bing
+www.freebase.com/m/02lzfx	www.freebase.com/location/location/containedby	www.freebase.com/m/01cj3p	where is walden pond located
+www.freebase.com/m/07gyv	www.freebase.com/martial_arts/martial_art/origin	www.freebase.com/m/01cj3p	where did taekwondo originate
+www.freebase.com/m/0q5hw	www.freebase.com/people/person/place_of_birth	www.freebase.com/m/01cj3p	where was jerry seinfeld born
+www.freebase.com/m/033fqh	www.freebase.com/film/film/directed_by	www.freebase.com/m/01cj3p	who directed meet the parents
+www.freebase.com/m/03h82p	www.freebase.com/people/person/religion	www.freebase.com/m/01cj3p	what is ron glass 's religion
+www.freebase.com/m/01_zz	www.freebase.com/broadcast/content/artist	www.freebase.com/m/01cj3p	who are the hosts of car talk
+www.freebase.com/m/09q84	www.freebase.com/astronomy/orbital_relationship/orbited_by	www.freebase.com/m/01cj3p	what are the moons of jupiter
+www.freebase.com/m/03v0t	www.freebase.com/location/location/time_zones	www.freebase.com/m/01cj3p	in what time zone is illinois
+www.freebase.com/m/0f1bg	www.freebase.com/fictional_universe/fictional_character/place_of_birth	www.freebase.com/m/01cj3p	where was luke skywalker born
+www.freebase.com/m/025sm93	www.freebase.com/games/game/designer	www.freebase.com/m/01cj3p	who designed the game of life
+www.freebase.com/m/024lff	www.freebase.com/film/film/directed_by	www.freebase.com/m/01cj3p	who directed 2 fast 2 furious
+www.freebase.com/m/09hvx	www.freebase.com/opera/opera/language	www.freebase.com/m/01cj3p	what language is lohengrin in
+www.freebase.com/m/01sy7	www.freebase.com/geology/rock_type/sub_types	www.freebase.com/m/01cj3p	what are the sub-types of coal
+www.freebase.com/m/04clgrg	www.freebase.com/internet/blog/language	www.freebase.com/m/01cj3p	what language is tagliablog in
+www.freebase.com/m/01kdws	www.freebase.com/business/customer/supplier	www.freebase.com/m/01cj3p	who is wells fargo 's supplier
+www.freebase.com/m/0h0yt	www.freebase.com/influence/influence_node/influenced_by	www.freebase.com/m/01cj3p	who has influenced stephen fry
+www.freebase.com/m/0dr_4	www.freebase.com/film/film/music	www.freebase.com/m/01cj3p	who was the music by in titanic
+www.freebase.com/m/067y_k7	www.freebase.com/book/written_work/author	www.freebase.com/m/01cj3p	who wrote travels with my cello
+www.freebase.com/m/03_gx	www.freebase.com/religion/religion/includes	www.freebase.com/m/01cj3p	what types of judaism are there
+www.freebase.com/m/060_7	www.freebase.com/people/person/religion	www.freebase.com/m/01cj3p	what religion was pablo picasso
+www.freebase.com/m/08lcnf	www.freebase.com/basketball/basketball_coach/team	www.freebase.com/m/01cj3p	what team does mike brown coach
+www.freebase.com/m/01c3gj	www.freebase.com/finance/stock_exchange/primary_regions	www.freebase.com/m/01cj3p	what regions does the lse cover
+www.freebase.com/m/01_2_2	www.freebase.com/aviation/aircraft_model/manufacturer	www.freebase.com/m/01cj3p	who manufactures the t-38 talon
+www.freebase.com/m/01b90_	www.freebase.com/medicine/vaccine/developed_by	www.freebase.com/m/01cj3p	who developed the polio vaccine
+www.freebase.com/m/074m2	www.freebase.com/medicine/disease/causes	www.freebase.com/m/01cj3p	what are the causes of syphilis
+www.freebase.com/m/01tq62	www.freebase.com/architecture/architectural_style/architects	www.freebase.com/m/01cj3p	who are some bauhaus architects
+www.freebase.com/m/03j6c	www.freebase.com/religion/religion/deities	www.freebase.com/m/01cj3p	what are the deities of hinduism
+www.freebase.com/m/02z3r	www.freebase.com/dining/cuisine/restaurant	www.freebase.com/m/01cj3p	what are some french restaurants
+www.freebase.com/m/0q9kd	www.freebase.com/people/person/religion	www.freebase.com/m/01cj3p	what is danny devito 's religion
+www.freebase.com/m/01bpn	www.freebase.com/people/deceased_person/cause_of_death	www.freebase.com/m/01cj3p	what did bertrand russell die of
+www.freebase.com/m/0cnn5	www.freebase.com/book/newspaper/circulation_areas	www.freebase.com/m/01cj3p	where is the guardian circulated
+www.freebase.com/m/032d2y	www.freebase.com/aviation/aircraft_model/designed_by	www.freebase.com/m/01cj3p	who designed the hawker sea hawk
+www.freebase.com/m/07sjg	www.freebase.com/law/constitutional_amendment/proposed_by	www.freebase.com/m/01cj3p	who proposed the fifth amendment
+www.freebase.com/m/01xrpc	www.freebase.com/language/language_writing_system/languages	www.freebase.com/m/01cj3p	what languages use bengali script
+www.freebase.com/m/05njw	www.freebase.com/computer/software_developer/software	www.freebase.com/m/01cj3p	what software has oracle designed
+www.freebase.com/m/017d93	www.freebase.com/film/film/genre	www.freebase.com/m/01cj3p	what genres did 8 mile consist of
+www.freebase.com/m/05qfh	www.freebase.com/education/field_of_study/journals_in_this_discipline	www.freebase.com/m/01cj3p	what are some psychology journals
+www.freebase.com/m/0blh2	www.freebase.com/comic_strips/comic_strip/characters	www.freebase.com/m/01cj3p	who are the characters in peanuts
+www.freebase.com/m/05q6nq	www.freebase.com/food/tea/tea_type	www.freebase.com/m/01cj3p	what type of tea is gunpowder tea
+www.freebase.com/m/099d4	www.freebase.com/martial_arts/martial_artist/martial_arts_students	www.freebase.com/m/01cj3p	who are the students of bruce lee
+www.freebase.com/m/06yyp	www.freebase.com/religion/religion/practices	www.freebase.com/m/01cj3p	what are the practices of sikhism
+www.freebase.com/m/01st38	www.freebase.com/computer/software_developer/software	www.freebase.com/m/01cj3p	what software has claris developed
+www.freebase.com/m/081k8	www.freebase.com/people/person/place_of_birth	www.freebase.com/m/01cj3p	where was william shakespeare born
+www.freebase.com/m/074m2	www.freebase.com/medicine/infectious_disease/infectious_agent_type	www.freebase.com/m/01cj3p	what type of infection is syphilis
+www.freebase.com/m/095zt	www.freebase.com/fashion/fiber/textiles_made_from_this_fiber	www.freebase.com/m/01cj3p	what textiles are made from cotton
+www.freebase.com/m/03_8r	www.freebase.com/martial_arts/martial_art/well_known_practitioner	www.freebase.com/m/01cj3p	who are some practitioners of judo
+www.freebase.com/m/01_yh5	www.freebase.com/location/location/containedby	www.freebase.com/m/01cj3p	where is independence hall located
+www.freebase.com/m/01482f	www.freebase.com/food/cheese/texture	www.freebase.com/m/01cj3p	what is the texture of brie cheese
+www.freebase.com/m/0qkc	www.freebase.com/medicine/medical_treatment/used_to_treat	www.freebase.com/m/01cj3p	what conditions does aspirin treat
+www.freebase.com/m/0tyq	www.freebase.com/book/book_subject/works	www.freebase.com/m/01cj3p	what are some books about art deco
+www.freebase.com/m/03d5yt5	www.freebase.com/broadcast/content/location	www.freebase.com/m/01cj3p	where is between the lines produced
+www.freebase.com/m/0j6tr	www.freebase.com/ice_hockey/hockey_team/coach	www.freebase.com/m/01cj3p	who coaches the toronto maple leafs
+www.freebase.com/m/016w97	www.freebase.com/boats/ship_class/ships_in_class	www.freebase.com/m/01cj3p	what are some gato class submarines
+www.freebase.com/m/03h82p	www.freebase.com/people/person/place_of_birth	www.freebase.com/m/01cj3p	what is ron glass 's place of birth
+www.freebase.com/m/025sk79	www.freebase.com/chemistry/chemical_element/chemical_series	www.freebase.com/m/01cj3p	what chemical series is tungsten in
+www.freebase.com/m/0wxp	www.freebase.com/computer/computer/processor	www.freebase.com/m/01cj3p	what processor did the apple ii use
+www.freebase.com/m/0d4bd_	www.freebase.com/soccer/football_match/teams	www.freebase.com/m/01cj3p	who played in the 1973 fa cup final
+www.freebase.com/m/03pdkw	www.freebase.com/skiing/ski_area/lodges	www.freebase.com/m/01cj3p	what lodges are in the alta ski area
+www.freebase.com/m/0m66w	www.freebase.com/interests/hobbyist/hobbies	www.freebase.com/m/01cj3p	what is sarah jessica parker's hobby
+www.freebase.com/m/045c7b	www.freebase.com/conferences/conference_sponsor/conferences	www.freebase.com/m/01cj3p	what conferences does google sponsor
+www.freebase.com/m/07y14	www.freebase.com/boats/ship/place_built	www.freebase.com/m/01cj3p	where was the uss constitution built
+www.freebase.com/m/05xvj	www.freebase.com/sports/sports_team/arena_stadium	www.freebase.com/m/01cj3p	what stadium do the phillies play in
+www.freebase.com/m/04yp5	www.freebase.com/projects/project/project_focus	www.freebase.com/m/01cj3p	what was the manhattan project about
+www.freebase.com/m/026kj	www.freebase.com/language/language_family/geographic_distribution	www.freebase.com/m/01cj3p	where are dravidian languages spoken
+www.freebase.com/m/078tg	www.freebase.com/religion/religion/sacred_sites	www.freebase.com/m/01cj3p	what are sacred sites in sunni islam
+www.freebase.com/m/014v3t	www.freebase.com/tv/tv_program/languages	www.freebase.com/m/01cj3p	what languages are spoken in firefly
+www.freebase.com/m/04sv4	www.freebase.com/computer/programming_language_designer/languages_designed	www.freebase.com/m/01cj3p	what languages has microsoft designed
+www.freebase.com/m/015blr	www.freebase.com/cricket/cricket_tournament_event/host	www.freebase.com/m/01cj3p	who hosted the 2003 cricket world cup
+www.freebase.com/m/04112qf	www.freebase.com/geology/geological_formation/type_of_rock	www.freebase.com/m/01cj3p	what rock is gruta das torres made of
+www.freebase.com/m/055pr	www.freebase.com/medicine/medical_treatment/side_effects	www.freebase.com/m/01cj3p	what are the side effects of morphine
+www.freebase.com/m/01jft4	www.freebase.com/film/film/music	www.freebase.com/m/01cj3p	who is the music by in bruce almighty
+www.freebase.com/m/04yd_	www.freebase.com/religion/founding_figure/religion_founded	www.freebase.com/m/01cj3p	what religion did martin luther found
+www.freebase.com/m/07sbkfb	www.freebase.com/computer/programming_language/developers	www.freebase.com/m/01cj3p	who is the developer of java language
+www.freebase.com/m/0kq2	www.freebase.com/religion/religion/notable_figures	www.freebase.com/m/01cj3p	who are some notable agnostic figures
+www.freebase.com/m/0kd_x	www.freebase.com/transportation/road/major_cities	www.freebase.com/m/01cj3p	what cities does us interstate 5 pass
+www.freebase.com/m/01w5m	www.freebase.com/education/educational_institution/colors	www.freebase.com/m/01cj3p	what are columbia university's colors
+www.freebase.com/m/07f3by	www.freebase.com/basketball/basketball_player/position_s	www.freebase.com/m/01cj3p	what position does keyon dooling play
+www.freebase.com/m/01m_c6	www.freebase.com/opera/opera_director/operas_directed	www.freebase.com/m/01cj3p	what opera did jonathan miller direct
+www.freebase.com/m/0gk4g	www.freebase.com/medicine/disease/causes	www.freebase.com/m/01cj3p	what are the causes of a heart attack
+www.freebase.com/m/02vzpb	www.freebase.com/film/film/subjects	www.freebase.com/m/01cj3p	what is the subject of 13 going on 30
+www.freebase.com/m/0285c	www.freebase.com/music/artist/genre	www.freebase.com/m/01cj3p	what are dave grohl 's musical genres
+www.freebase.com/m/02y0js	www.freebase.com/medicine/disease/parent_disease	www.freebase.com/m/01cj3p	what is the parent disease of a stroke
+www.freebase.com/m/03fdg	www.freebase.com/fictional_universe/fictional_setting/fictional_characters_born_here	www.freebase.com/m/01cj3p	what character was born in gotham city
+www.freebase.com/m/0220vm1	www.freebase.com/digicams/camera_storage_type/compatible_cameras	www.freebase.com/m/01cj3p	what digital cameras take an sdhc card
+www.freebase.com/m/014y87	www.freebase.com/martial_arts/martial_artist/martial_arts_students	www.freebase.com/m/01cj3p	who studied martial arts under yip man
+www.freebase.com/m/0_5xc	www.freebase.com/geology/geological_formation/formed_during_period	www.freebase.com/m/01cj3p	during what time period did uluru form
+www.freebase.com/m/04psf	www.freebase.com/medicine/disease/treatments	www.freebase.com/m/01cj3p	what treatments are there for leukemia
+www.freebase.com/m/02k54	www.freebase.com/olympics/olympic_participating_country/olympics_participated_in	www.freebase.com/m/01cj3p	what olympics has egypt participated in
+www.freebase.com/m/09y2k2	www.freebase.com/dining/cuisine/ingredients	www.freebase.com/m/01cj3p	what ingredients are in italian cuisine
+www.freebase.com/m/0gj2r	www.freebase.com/physics/particle_family/particles	www.freebase.com/m/01cj3p	what particles are in the lepton family
+www.freebase.com/m/032w60	www.freebase.com/architecture/lighthouse/construction	www.freebase.com/m/01cj3p	what is the cape may lighthouse made of
+www.freebase.com/m/0d87hc	www.freebase.com/film/film/produced_by	www.freebase.com/m/01cj3p	who was the nutty professor produced by
+www.freebase.com/m/01ymk2	www.freebase.com/amusement_parks/park/rides	www.freebase.com/m/01cj3p	what are the rides at six flags america
+www.freebase.com/m/01nd8	www.freebase.com/medicine/medical_specialty/hospitals_with_this_specialty	www.freebase.com/m/01cj3p	what hospitals specialize in cardiology
+www.freebase.com/m/0cwrr	www.freebase.com/tv/tv_program/theme_song	www.freebase.com/m/01cj3p	what is the theme song of sesame street
+www.freebase.com/m/083q7	www.freebase.com/government/us_president/vice_president	www.freebase.com/m/01cj3p	who was vice president to woodrow wilson
+www.freebase.com/m/0m32h	www.freebase.com/medicine/disease/symptoms	www.freebase.com/m/01cj3p	what are the symptoms of prostate cancer
+www.freebase.com/m/01y9jr	www.freebase.com/film/film/written_by	www.freebase.com/m/01cj3p	who was the story of charlie_s angels by
+www.freebase.com/m/0dmnzf	www.freebase.com/fashion/garment/specialization_of	www.freebase.com/m/01cj3p	what type of clothing are knickerbockers
+www.freebase.com/m/02hykwc	www.freebase.com/internet/blog/focus	www.freebase.com/m/01cj3p	what's the focus of the last minute blog
+www.freebase.com/m/07656	www.freebase.com/fictional_universe/fictional_character/powers_or_abilities	www.freebase.com/m/01cj3p	what powers does sonic the hedgehog have
+www.freebase.com/m/019g40	www.freebase.com/music/artist/origin	www.freebase.com/m/01cj3p	where did omarion 's musical career begin
+www.freebase.com/m/01wxlnl	www.freebase.com/influence/influence_node/influenced	www.freebase.com/m/01cj3p	what artists are influenced by lead belly
+www.freebase.com/m/019zhn	www.freebase.com/location/location/containedby	www.freebase.com/m/01cj3p	where is the uss alabama currently moored
+www.freebase.com/m/0blg2	www.freebase.com/olympics/olympic_games/host_city	www.freebase.com/m/01cj3p	what city hosted the 1948 summer olympics
+www.freebase.com/m/04_60f	www.freebase.com/metropolitan_transit/transit_line/stops	www.freebase.com/m/01cj3p	where does the market-frankford line stop
+www.freebase.com/m/046_hm	www.freebase.com/comic_books/comic_book_series/created_by	www.freebase.com/m/01cj3p	who created the runaways comic book series
+www.freebase.com/m/0jm74	www.freebase.com/basketball/basketball_team/head_coach	www.freebase.com/m/01cj3p	who is the head coach of the chicago bulls
+www.freebase.com/m/06hhp	www.freebase.com/military/armed_force/military_combatant	www.freebase.com/m/01cj3p	what country does the royal navy belong to
+www.freebase.com/m/01d82	www.freebase.com/physics/particle_family/subclasses	www.freebase.com/m/01cj3p	what are the subclasses of the boson class
+www.freebase.com/m/02ky346	www.freebase.com/education/field_of_study/subdisciplines	www.freebase.com/m/01cj3p	what are the subdisciplines of engineering
+www.freebase.com/m/01rlq_	www.freebase.com/music/group_member/instruments_played	www.freebase.com/m/01cj3p	what instrument did lightnin' hopkins play
+www.freebase.com/m/02zl93	www.freebase.com/boats/ship/hull_material	www.freebase.com/m/01cj3p	what is the hull made of on the james craig
+www.freebase.com/m/0d6lp	www.freebase.com/travel/travel_destination/guidebooks	www.freebase.com/m/01cj3p	what guidebooks are there for san francisco
+www.freebase.com/m/04vjh	www.freebase.com/location/country/official_language	www.freebase.com/m/01cj3p	what is the official language of mauritania
+www.freebase.com/m/0d87hc	www.freebase.com/film/film/directed_by	www.freebase.com/m/01cj3p	who was the director of the nutty professor
+www.freebase.com/m/06978b	www.freebase.com/education/educational_institution/school_type	www.freebase.com/m/01cj3p	is the university of lima public or private
+www.freebase.com/m/06cjhk	www.freebase.com/baseball/baseball_manager/current_team_managed	www.freebase.com/m/01cj3p	what team does joe girardi currently manage
+www.freebase.com/m/04yf_	www.freebase.com/geography/river/origin	www.freebase.com/m/01cj3p	what is the origin of the mississippi river
+www.freebase.com/m/06x68	www.freebase.com/baseball/baseball_team/division	www.freebase.com/m/01cj3p	in what division are the st. louis cardinals
+www.freebase.com/m/0854b	www.freebase.com/architecture/architect/architectural_style	www.freebase.com/m/01cj3p	what was walter gropius' architectural style
+www.freebase.com/m/043r0z	www.freebase.com/skiing/ski_area/closest_city	www.freebase.com/m/01cj3p	what is the closet city to snowshoe mountain
+www.freebase.com/m/02z2qmd	www.freebase.com/amusement_parks/ride/area	www.freebase.com/m/01cj3p	what area of disneyland is space mountain in
+www.freebase.com/m/06_t4	www.freebase.com/spaceflight/spacecraft/manufacturer	www.freebase.com/m/01cj3p	who manufactured the space shuttle discovery
+www.freebase.com/m/0524b41	www.freebase.com/media_common/adaptation/adapted_from	www.freebase.com/m/01cj3p	what series was game of thrones adapted from
+www.freebase.com/m/033fqh	www.freebase.com/film/film/genre	www.freebase.com/m/01cj3p	what genres does meet the parents consist of
+www.freebase.com/m/06x6s	www.freebase.com/ice_hockey/hockey_team/division	www.freebase.com/m/01cj3p	in what division do the st. louis blues play
+www.freebase.com/m/0cwx_	www.freebase.com/education/educational_institution/newspaper	www.freebase.com/m/01cj3p	what newspapers does carnegie mellon publish
+www.freebase.com/m/0dy6y	www.freebase.com/fictional_universe/work_of_fiction/setting	www.freebase.com/m/01cj3p	what is the setting of the magician_s nephew
+www.freebase.com/m/0kh3	www.freebase.com/medicine/disease/symptoms	www.freebase.com/m/01cj3p	what are the symptoms of motor neuron disease
+www.freebase.com/m/01ggms	www.freebase.com/music/artist/genre	www.freebase.com/m/01cj3p	what genre did lil hardin armstrong represent
+www.freebase.com/m/02wlk	www.freebase.com/architecture/architect/structures_designed	www.freebase.com/m/01cj3p	what structures did frank lloyd wright design
+www.freebase.com/m/01mkq	www.freebase.com/book/periodical_subject/periodicals	www.freebase.com/m/01cj3p	what are some periodicals on computer science
+www.freebase.com/m/07k4r	www.freebase.com/martial_arts/martial_art/category	www.freebase.com/m/01cj3p	what category of martial arts is tai chi chuan
+www.freebase.com/m/01jft4	www.freebase.com/film/film/costume_design_by	www.freebase.com/m/01cj3p	who is the costume designer for bruce almighty
+www.freebase.com/m/0291sp	www.freebase.com/cricket/cricket_bowler/technique	www.freebase.com/m/01cj3p	what bowling technique does matthew hayden use
+www.freebase.com/m/07tgn	www.freebase.com/fictional_universe/school_in_fiction/students_graduates	www.freebase.com/m/01cj3p	what fictional characters have attended oxford
+www.freebase.com/m/03zw5	www.freebase.com/comic_books/comic_book_character/cover_appearances	www.freebase.com/m/01cj3p	which issues of x-men have iceman on the cover
+www.freebase.com/m/0jqbz	www.freebase.com/book/book/characters	www.freebase.com/m/01cj3p	who are the characters in to kill a mockingbird
+www.freebase.com/m/0dg3n1	www.freebase.com/location/location/events	www.freebase.com/m/01cj3p	what major events in history happened in africa
+www.freebase.com/m/0j9xz	www.freebase.com/transportation/road/highway_system	www.freebase.com/m/01cj3p	what highway system does us route 101 belong to
+www.freebase.com/m/0d00l	www.freebase.com/religion/monastery/religious_order	www.freebase.com/m/01cj3p	what religious order belongs to kirkstall abbey
+www.freebase.com/m/0vq4	www.freebase.com/spaceflight/space_mission/astronauts	www.freebase.com/m/01cj3p	who were the astronauts in the apollo 12 mission
+www.freebase.com/m/05tfm	www.freebase.com/american_football/football_team/current_head_coach	www.freebase.com/m/01cj3p	who is the head coach of the pittsburgh steelers
+www.freebase.com/m/0d87hc	www.freebase.com/film/film/written_by	www.freebase.com/m/01cj3p	who is the screenplay for the nutty professor by
+www.freebase.com/m/027lnzs	www.freebase.com/computer/computing_platform/file_formats_supported	www.freebase.com/m/01cj3p	what are the file formats supported by the iphone
+www.freebase.com/m/0g28q4	www.freebase.com/tv/tv_series_episode/writer	www.freebase.com/m/01cj3p	who wrote the episode straight and true of the wire
+www.freebase.com/m/053x52	www.freebase.com/tv/tv_program/program_creator	www.freebase.com/m/01cj3p	who are the creators of teenage mutant ninja turtles
+www.freebase.com/m/0b3fd	www.freebase.com/government/election/winner	www.freebase.com/m/01cj3p	who won the 1964 united states presidential election
+www.freebase.com/m/01nxx6	www.freebase.com/location/location/containedby	www.freebase.com/m/01cj3p	where is the tempelhof international airport located
+www.freebase.com/m/03jn4	www.freebase.com/aviation/airport/hub_for	www.freebase.com/m/01cj3p	what airlines is the london heathrow airport a hub for
+www.freebase.com/m/0f6vx	www.freebase.com/media_common/adapted_work/adaptations	www.freebase.com/m/01cj3p	what are some adaptations of the wonderful wizard of oz
+www.freebase.com/m/0dtt0z	www.freebase.com/tv/tv_series_episode/next_episode	www.freebase.com/m/01cj3p	what was the fawlty towers episode after the psychiatrist
+www.freebase.com/m/05z25t7	www.freebase.com/time/event/locations	www.freebase.com/m/01cj3p	where did the rolling stones 2009 concert tour take place
+www.freebase.com/m/051r3l	www.freebase.com/book/written_work/original_language	www.freebase.com/m/01cj3p	what is the original language of the wind-up bird chronicle
+www.freebase.com/m/0c9n_3	www.freebase.com/ice_hockey/hockey_conference/divisions	www.freebase.com/m/01cj3p	what are the divisions of the western conference of the nhl
+www.freebase.com/m/015r91	www.freebase.com/law/court/jurisdiction	www.freebase.com/m/01cj3p	over what area does the court of chancery have jurisdiction
+www.freebase.com/m/01258	www.freebase.com/computer/software/languages_used	www.freebase.com/m/01cj3p	what programming languages were used for aol instant messenger
+www.freebase.com/m/0386gq	www.freebase.com/award/award_presenting_organization/awards_presented	www.freebase.com/m/01cj3p	what award does the royal institute of british architects present
+www.freebase.com/m/05kjb0y	www.freebase.com/conferences/conference_series/subject	www.freebase.com/m/01cj3p	what is pycon about
+www.freebase.com/m/0jt_x	www.freebase.com/cvg/computer_videogame/designers	www.freebase.com/m/01cj3p	who designed pac-man
+www.freebase.com/m/074m2	www.freebase.com/medicine/disease/causes	www.freebase.com/m/01cj3p	what causes syphilis
+www.freebase.com/m/018c_r	www.freebase.com/organization/organization/founders	www.freebase.com/m/01cj3p	who started starbucks
+www.freebase.com/m/019g40	www.freebase.com/people/person/place_of_birth	www.freebase.com/m/01cj3p	where was omarion born
+www.freebase.com/m/0by8vb	www.freebase.com/organization/organization/founders	www.freebase.com/m/01cj3p	who founded the red cross
+www.freebase.com/m/05x7b	www.freebase.com/architecture/structure/architect	www.freebase.com/m/01cj3p	who designed the parthenon
+www.freebase.com/m/017d93	www.freebase.com/film/film/directed_by	www.freebase.com/m/01cj3p	who was 8 mile directed by
+www.freebase.com/m/0dr_4	www.freebase.com/film/film/directed_by	www.freebase.com/m/01cj3p	who was titanic directed by
+www.freebase.com/m/01jft4	www.freebase.com/film/film/rating	www.freebase.com/m/01cj3p	what is bruce almighty rated
+www.freebase.com/m/0hqly	www.freebase.com/martial_arts/martial_artist/instructor	www.freebase.com/m/01cj3p	who instructed steven seagal
+www.freebase.com/m/07gvx	www.freebase.com/religion/religion/texts	www.freebase.com/m/01cj3p	what are the texts of taoism
+www.freebase.com/m/01g2q	www.freebase.com/medicine/disease/causes	www.freebase.com/m/01cj3p	what causes bipolar disorder
+www.freebase.com/m/07t80	www.freebase.com/astronomy/constellation/contains	www.freebase.com/m/01cj3p	what starts are in ursa minor
+www.freebase.com/m/01sd8	www.freebase.com/language/language_family/languages	www.freebase.com/m/01cj3p	what are the celtic languages
+www.freebase.com/m/01y9jr	www.freebase.com/film/film/directed_by	www.freebase.com/m/01cj3p	who directed charlie_s angels
+www.freebase.com/m/0188n0	www.freebase.com/people/person/place_of_birth	www.freebase.com/m/01cj3p	where was liam gallagher born
+www.freebase.com/m/025s7y9	www.freebase.com/chemistry/chemical_element/discovering_country	www.freebase.com/m/01cj3p	where was polonium discovered
+www.freebase.com/m/03rj0	www.freebase.com/location/country/capital	www.freebase.com/m/01cj3p	what is the capital of iceland
+www.freebase.com/m/0209r2	www.freebase.com/organization/organization/founders	www.freebase.com/m/01cj3p	who is the founder of savealot
+www.freebase.com/m/06c38n	www.freebase.com/boats/ship/place_built	www.freebase.com/m/01cj3p	where was lady washington built
+www.freebase.com/m/01lp8	www.freebase.com/religion/religion/holidays	www.freebase.com/m/01cj3p	what are the christian holidays
+www.freebase.com/m/03p77	www.freebase.com/royalty/monarch/royal_line	www.freebase.com/m/01cj3p	what was henry viii's royal line
+www.freebase.com/m/03typk	www.freebase.com/theater/play/lyricist	www.freebase.com/m/01cj3p	who is the lyricist for spamalot
+www.freebase.com/m/080h2	www.freebase.com/travel/travel_destination/accommodation	www.freebase.com/m/01cj3p	what are some hotels in vancouver
+www.freebase.com/m/02_0bm	www.freebase.com/ice_hockey/hockey_coach/current_team	www.freebase.com/m/01cj3p	what team does mike babcock coach
+www.freebase.com/m/055l0l	www.freebase.com/amusement_parks/ride/manufacturer	www.freebase.com/m/01cj3p	who manufactured millennium force
+www.freebase.com/m/019g40	www.freebase.com/music/group_member/instruments_played	www.freebase.com/m/01cj3p	what instruments did omarion play
+www.freebase.com/m/03w2n3	www.freebase.com/astronomy/astronomical_discovery/discoverer	www.freebase.com/m/01cj3p	who discovered the rings of saturn
+www.freebase.com/m/01zj1t	www.freebase.com/organization/organization/founders	www.freebase.com/m/01cj3p	who are the founders of home depot
+www.freebase.com/m/0c40t	www.freebase.com/biology/animal_breed/place_of_origin	www.freebase.com/m/01cj3p	where does the chow chow originate
+www.freebase.com/m/0cyjkg	www.freebase.com/food/candy_bar/sold_in	www.freebase.com/m/01cj3p	where is fry_s turkish delight sold
+www.freebase.com/m/01nlch	www.freebase.com/baseball/baseball_player/position_s	www.freebase.com/m/01cj3p	what position did mike schmidt play
+www.freebase.com/m/06c62	www.freebase.com/travel/travel_destination/tourist_attractions	www.freebase.com/m/01cj3p	what tourist attractions are in rome
+www.freebase.com/m/0l27	www.freebase.com/comic_books/comic_book_series/publisher	www.freebase.com/m/01cj3p	who published the amazing spider-man
+www.freebase.com/m/07f1x	www.freebase.com/military/military_combatant/armed_forces	www.freebase.com/m/01cj3p	what armed forces does thailand have
+www.freebase.com/m/01y9jr	www.freebase.com/film/film/produced_by	www.freebase.com/m/01cj3p	who was charlie_s angels produced by
+www.freebase.com/m/0mcx2	www.freebase.com/business/product_line/includes_product_lines	www.freebase.com/m/01cj3p	what product lines does ipod include
+www.freebase.com/m/0498y	www.freebase.com/distilled_spirits/spirit_producing_region/distilleries	www.freebase.com/m/01cj3p	what spirits are produced in kentucky
+www.freebase.com/m/014z03	www.freebase.com/finance/currency/countries_formerly_used	www.freebase.com/m/01cj3p	where was the peseta used as currency
+www.freebase.com/m/081swv	www.freebase.com/cvg/cvg_developer/games_developed	www.freebase.com/m/01cj3p	what games has macsoft games developed
+www.freebase.com/m/02fzs	www.freebase.com/amusement_parks/park/areas	www.freebase.com/m/01cj3p	what are the theme areas at disneyland
+www.freebase.com/m/020wyp	www.freebase.com/cricket/cricket_team/coach	www.freebase.com/m/01cj3p	who coaches the australian cricket team
+www.freebase.com/m/01n073	www.freebase.com/cvg/cvg_developer/games_developed	www.freebase.com/m/01cj3p	what games has electronic arts developed
+www.freebase.com/m/0hw6_	www.freebase.com/people/deceased_person/cause_of_death	www.freebase.com/m/01cj3p	what was jack albertson 's cause of death
+www.freebase.com/m/02xt6q	www.freebase.com/soccer/football_player/position_s	www.freebase.com/m/01cj3p	what position does cristiano ronaldo play
+www.freebase.com/m/0d3k14	www.freebase.com/people/deceased_person/cause_of_death	www.freebase.com/m/01cj3p	what was john f kennedy 's cause of death
+www.freebase.com/m/0jnmj	www.freebase.com/ice_hockey/hockey_team/captain	www.freebase.com/m/01cj3p	who is the captain of the edmonton oilers
+www.freebase.com/m/0x82	www.freebase.com/language/human_language/language_family	www.freebase.com/m/01cj3p	what language family is afrikaans part of
+www.freebase.com/m/06ptx	www.freebase.com/geography/body_of_water/bridges	www.freebase.com/m/01cj3p	what bridges go over the san francisco bay
+www.freebase.com/m/085xh	www.freebase.com/media_common/adaptation/adapted_from	www.freebase.com/m/01cj3p	what play was west side story adapted from
+www.freebase.com/m/09g7g	www.freebase.com/opera/opera/librettist	www.freebase.com/m/01cj3p	who was the librettist for the magic flute
+www.freebase.com/m/034gr9	www.freebase.com/geography/mountain/mountain_range	www.freebase.com/m/01cj3p	what mountain range is king edward peak in
+www.freebase.com/m/0m32h	www.freebase.com/medicine/disease/treatments	www.freebase.com/m/01cj3p	what are the treatments of prostate cancer
+www.freebase.com/m/01_syn	www.freebase.com/law/constitution/country	www.freebase.com/m/01cj3p	what area did the meiji constitution govern
+www.freebase.com/m/02_286	www.freebase.com/location/place_with_neighborhoods/neighborhoods	www.freebase.com/m/01cj3p	what are the neighborhoods in new york city
+www.freebase.com/m/0137v8	www.freebase.com/book/periodical/subjects	www.freebase.com/m/01cj3p	what is the subject of the atlantic monthly
+www.freebase.com/m/01xrwvx	www.freebase.com/martial_arts/martial_artist/martial_art	www.freebase.com/m/01cj3p	what martial arts does chris maden practice
+www.freebase.com/m/0zd6	www.freebase.com/computer/computer/key_designers	www.freebase.com/m/01cj3p	who were the key designers of the macintosh
+www.freebase.com/m/02217f	www.freebase.com/transportation/bridge/bridge_type	www.freebase.com/m/01cj3p	what type of bridge is the manhattan bridge
+www.freebase.com/m/07dfk	www.freebase.com/travel/travel_destination/local_transportation	www.freebase.com/m/01cj3p	what public transportation is there in tokyo
+www.freebase.com/m/0404lvv	www.freebase.com/geology/geological_formation/type_of_rock	www.freebase.com/m/01cj3p	what type of rock is the marcellus formation
+www.freebase.com/m/05flx2	www.freebase.com/geography/island/island_group	www.freebase.com/m/01cj3p	what island group is jekyll island a part of
+www.freebase.com/m/01sy7q	www.freebase.com/food/cheese/source_of_milk	www.freebase.com/m/01cj3p	what animal does marscapone cheese come from
+www.freebase.com/m/04m8fy	www.freebase.com/education/fraternity_sorority/founded_location	www.freebase.com/m/01cj3p	at what school was delta delta delta founded
+www.freebase.com/m/07bz5	www.freebase.com/fictional_universe/work_of_fiction/setting	www.freebase.com/m/01cj3p	what universe is the lord of the rings set in
+www.freebase.com/m/01pz3b	www.freebase.com/metropolitan_transit/transit_system/transit_lines	www.freebase.com/m/01cj3p	what are the lines of the new york city subway
+www.freebase.com/m/02wkbg7	www.freebase.com/comic_books/comic_book_issue/characters_on_cover	www.freebase.com/m/01cj3p	what characters were on the cover of batman #1
+www.freebase.com/m/01dbcm	www.freebase.com/boxing/boxing_match/weight_class	www.freebase.com/m/01cj3p	what weight class was the fight of the century
+www.freebase.com/m/01kcx_w	www.freebase.com/music/artist/label	www.freebase.com/m/01cj3p	what record label was ali farka toure signed to
+www.freebase.com/m/0cv4c	www.freebase.com/architecture/structure/architectural_style	www.freebase.com/m/01cj3p	what architectural style is the brooklyn bridge
+www.freebase.com/m/0ch3v	www.freebase.com/astronomy/comet/meteor_shower_spawned	www.freebase.com/m/01cj3p	what meteor showers has the comet halley spawned
+www.freebase.com/m/04jpg2p	www.freebase.com/film/film/costume_design_by	www.freebase.com/m/01cj3p	who designed the costumes for alice in wonderland
+www.freebase.com/m/02j81	www.freebase.com/architecture/building/building_function	www.freebase.com/m/01cj3p	what is the building function of the eiffel tower
+www.freebase.com/m/04s_26	www.freebase.com/american_football/football_coach/current_team_head_coached	www.freebase.com/m/01cj3p	what football team does andy reid currently coach
+www.freebase.com/m/05prj	www.freebase.com/computer/programming_language_paradigm/languages	www.freebase.com/m/01cj3p	what are some object-oriented programming languages
+www.freebase.com/m/027zxs_	www.freebase.com/event/disaster_affected_structure/destroyed_by_disaster	www.freebase.com/m/01cj3p	in what disaster was old st paul_s cathedral destroyed
+www.freebase.com/m/0j24b7h	www.freebase.com/boxing/boxing_match/decision	www.freebase.com/m/01cj3p	what decision did manny pacquiao vs. timothy bradley end with
+www.freebase.com/m/0jp9r	www.freebase.com/comic_books/comic_book_series/featured_characters	www.freebase.com/m/01cj3p	what characters are featured in batman: the dark knight returns
+www.freebase.com/m/06gj5j3	www.freebase.com/media_common/quotation/author	www.freebase.com/m/01cj3p	who said that_s one small step for man, one giant leap for mankind
