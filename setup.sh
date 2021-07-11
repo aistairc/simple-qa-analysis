@@ -2,7 +2,7 @@
 
 # set up BuboQA
 git clone https://github.com/castorini/BuboQA.git
-cp -R -r diff/KEQA_WSDM19/ ./KEQA_WSDM19/
+cp -R -r diff/BuboQA/ ./BuboQA/
 cd BuboQA
 virtualenv --python=python3 bubo
 . bubo/bin/activate
