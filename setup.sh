@@ -2,7 +2,7 @@
 
 # set up BuboQA
 git clone https://github.com/castorini/BuboQA.git
-cp -R -r diff/BuboQA/ ./BuboQA/
+cp -R -r diff/BuboQA/ ./
 cd BuboQA
 virtualenv --python=python3 bubo
 . bubo/bin/activate
@@ -15,7 +15,7 @@ cd ..
 
 # set up HR-BiLSTM and KBQA-Adapter
 git clone https://github.com/wudapeng268/KBQA-Adapter.git
-cp -R -r diff/KBQA-Adapter/* ./KBQA-Adapter/
+cp -R -r diff/KBQA-Adapter/* ./
 cd KBQA-Adapter
 cd Data
 sh down_dmb.sh
